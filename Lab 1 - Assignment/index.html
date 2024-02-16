@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>D3 Visual Interface</title>
+        <link rel="stylesheet" href="index.css">
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+    </head>
+    <body>
+        <div id="menuBar">
+            <div>
+                <span>Select Feature Column : </span>
+                <select id="columnDropdown">
+                </select>
+            </div>
+            <div class="toggle-switch-group">
+                <span style="margin-top: -5px; padding-right: 5px;">Toggle Orientation: </span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="orientationToggle">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+            <div>
+                <span>Select 2nd Feature : </span>
+                <select id="variable2Dropdown">
+                </select>
+            </div>
+            <div class="toggle-switch-group">
+                <span style="margin-top: -5px; padding-right: 5px;">Toggle Axis Variable (X/Y-axis): </span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="VariableToggle">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,545 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,RoundID,MatchID
+1982,13 Jun 1982 - 20:00 ,Group 3,Camp Nou,Barcelona ,Argentina,0,1,Belgium, ,95000.0,0,0,293,749
+1982,14 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,0,0,Poland, ,33000.0,0,0,293,995
+1982,14 Jun 1982 - 21:00 ,Group 6,Ramon Sanchez Pizjuan,Seville ,Brazil,2,1,Soviet Union, ,68000.0,0,1,293,791
+1982,15 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Peru,0,0,Cameroon, ,11000.0,0,0,293,833
+1982,15 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Hungary,10,1,El Salvador, ,23000.0,3,0,293,896
+1982,15 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Scotland,5,2,New Zealand, ,36000.0,3,0,293,1051
+1982,16 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1,2,Algeria, ,42000.0,0,0,293,741
+1982,16 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,3,1,France, ,44172.0,1,1,293,878
+1982,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1,1,Honduras, ,49562.0,0,1,293,901
+1982,17 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Chile,0,1,Austria, ,22500.0,0,1,293,764
+1982,17 Jun 1982 - 17:45 ,Group 4,Jose Zorrilla,Valladolid ,Czechoslovakia,1,1,Kuwait, ,25000.0,1,0,293,1012
+1982,17 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Yugoslavia,0,0,Northern Ireland, ,25000.0,0,0,293,1044
+1982,18 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1,1,Peru, ,25000.0,1,0,293,994
+1982,18 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,4,1,Hungary, ,32093.0,2,0,293,752
+1982,18 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4,1,Scotland, ,47379.0,1,1,293,790
+1982,19 Jun 1982 - 19:15 ,Group 1,Riazor,La Coru�A ,Poland,0,0,Cameroon, ,19000.0,0,0,293,834
+1982,19 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1,0,El Salvador, ,15000.0,1,0,293,774
+1982,19 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,3,0,New Zealand, ,19000.0,1,0,293,1054
+1982,20 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,4,1,Chile, ,42000.0,1,0,293,813
+1982,20 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,2,0,Czechoslovakia, ,41123.0,0,0,293,889
+1982,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2,1,Yugoslavia, ,48000.0,1,1,293,903
+1982,21 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,0,2,Austria, ,22000.0,0,0,293,739
+1982,21 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,4,1,Kuwait, ,30043.0,2,0,293,919
+1982,21 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,1,1,Northern Ireland, ,15000.0,0,1,293,959
+1982,22 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Poland,5,1,Peru, ,25000.0,0,0,293,1055
+1982,22 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1,1,Hungary, ,37000.0,0,1,293,779
+1982,22 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,2,2,Scotland, ,45000.0,0,1,293,1071
+1982,23 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1,1,Cameroon, ,20000.0,0,0,293,828
+1982,23 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,2,0,El Salvador, ,32500.0,1,0,293,751
+1982,23 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4,0,New Zealand, ,43000.0,2,0,293,789
+1982,24 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,3,2,Chile, ,16000.0,3,0,293,740
+1982,24 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,1,1,Czechoslovakia, ,28000.0,0,0,293,922
+1982,24 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,0,1,Yugoslavia, ,25000.0,0,0,293,962
+1982,25 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1,0,Austria, ,41000.0,1,0,293,770
+1982,25 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,1,0,Kuwait, ,39700.0,1,0,293,882
+1982,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1,0,Spain, ,49562.0,0,0,293,902
+1982,28 Jun 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,0,1,France, ,37000.0,0,1,294,767
+1982,28 Jun 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,3,0,Belgium, ,65000.0,2,0,294,782
+1982,29 Jun 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,2,1,Argentina, ,43000.0,0,0,294,753
+1982,29 Jun 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,0,0,England, ,75000.0,0,0,294,879
+1982,01 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,2,2,Northern Ireland, ,20000.0,0,1,294,771
+1982,01 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Belgium,0,1,Soviet Union, ,45000.0,0,0,294,783
+1982,02 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Argentina,1,3,Brazil, ,44000.0,0,1,294,750
+1982,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,2,1,Spain, ,90089.0,0,0,294,900
+1982,04 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,France,4,1,Northern Ireland, ,37000.0,1,0,294,920
+1982,04 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,0,0,Soviet Union, ,65000.0,0,0,294,1058
+1982,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3,2,Brazil, ,44000.0,2,1,294,788
+1982,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0,0,England, ,75000.0,0,0,294,877
+1982,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0,2,Italy, ,50000.0,0,1,295,996
+1982,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany FR,3,3,France, win on penalties (5 - 4) ,70000.0,0,0,295,914
+1982,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3,2,France, ,28000.0,2,1,676,921
+1982,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3,1,Germany FR, ,90000.0,0,0,3475,923
+1986,31 May 1986 - 12:00 ,Group A,Estadio Azteca,Mexico City ,Bulgaria,1,1,Italy, ,96000.0,0,1,308,459
+1986,01 Jun 1986 - 16:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Canada,0,1,France, ,65500.0,0,0,308,468
+1986,01 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Spain,0,1,Brazil, ,35748.0,0,0,308,439
+1986,02 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Soviet Union,6,0,Hungary, ,16500.0,3,0,308,610
+1986,02 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,3,1,Korea Republic, ,60000.0,2,0,308,395
+1986,02 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Morocco,0,0,Poland, ,19900.0,0,0,308,674
+1986,03 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Algeria,1,1,Northern Ireland, ,22000.0,0,1,308,379
+1986,03 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Belgium,1,2,Mexico, ,110000.0,1,2,308,428
+1986,03 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,Portugal,1,0,England, ,23000.0,0,0,308,538
+1986,04 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,1,0,Iraq, ,24000.0,1,0,308,628
+1986,04 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0,1,Denmark, ,18000.0,0,0,308,517
+1986,04 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Uruguay,1,1,Germany FR, ,30500.0,1,0,308,585
+1986,05 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Italy,1,1,Argentina, ,32000.0,1,1,308,394
+1986,05 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,France,1,1,Soviet Union, ,36540.0,0,0,308,571
+1986,05 Jun 1986 - 16:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Korea Republic,1,1,Bulgaria, ,45000.0,0,1,308,460
+1986,06 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Hungary,2,0,Canada, ,13800.0,1,0,308,475
+1986,06 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Brazil,1,0,Algeria, ,48000.0,0,0,308,377
+1986,06 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,0,0,Morocco, ,20200.0,0,0,308,533
+1986,07 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Northern Ireland,1,2,Spain, ,28000.0,0,2,308,551
+1986,07 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Mexico,1,1,Paraguay, ,114600.0,1,0,308,680
+1986,07 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Poland,1,0,Portugal, ,19915.0,0,0,308,701
+1986,08 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Iraq,1,2,Belgium, ,20000.0,0,2,308,427
+1986,08 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Denmark,6,1,Uruguay, ,26500.0,2,1,308,522
+1986,08 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Germany FR,2,1,Scotland, ,30000.0,1,1,308,580
+1986,09 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Hungary,0,3,France, ,31420.0,0,1,308,567
+1986,09 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Soviet Union,2,0,Canada, ,14200.0,0,0,308,476
+1986,10 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Korea Republic,2,3,Italy, ,20000.0,0,1,308,643
+1986,10 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,2,0,Bulgaria, ,65000.0,1,0,308,389
+1986,11 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,2,2,Belgium, ,16000.0,0,1,308,429
+1986,11 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Iraq,0,1,Mexico, ,103763.0,0,0,308,627
+1986,11 Jun 1986 - 16:00 ,Group F,Tres de Marzo,Guadalajara ,Portugal,1,3,Morocco, ,28000.0,0,2,308,675
+1986,11 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,3,0,Poland, ,22700.0,3,0,308,537
+1986,12 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Northern Ireland,0,3,Brazil, ,51000.0,0,2,308,441
+1986,12 Jun 1986 - 12:00 ,Group D,Tecnologico,Monterrey ,Algeria,0,3,Spain, ,23980.0,0,1,308,378
+1986,13 Jun 1986 - 12:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0,0,Uruguay, ,20000.0,0,0,308,712
+1986,13 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Denmark,2,0,Germany FR, ,36000.0,1,0,308,512
+1986,15 Jun 1986 - 16:00 ,Round of 16,Nou Camp - Estadio Le�n,Leon ,Soviet Union,3,4,Belgium,Belgium win after extra time ,32277.0,0,0,309,432
+1986,15 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,Mexico,2,0,Bulgaria, ,114580.0,1,0,309,463
+1986,16 Jun 1986 - 16:00 ,Round of 16,Cuauhtemoc,Puebla ,Argentina,1,0,Uruguay, ,26000.0,1,0,309,398
+1986,16 Jun 1986 - 12:00 ,Round of 16,Jalisco,Guadalajara ,Brazil,4,0,Poland, ,45000.0,1,0,309,444
+1986,17 Jun 1986 - 12:00 ,Round of 16,Estadio Ol�mpico Universitario,Mexico City ,Italy,0,2,France, ,70000.0,0,1,309,568
+1986,17 Jun 1986 - 16:00 ,Round of 16,Estadio Universitario,Monterrey ,Morocco,0,1,Germany FR, ,19800.0,0,0,309,574
+1986,18 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,England,3,0,Paraguay, ,98728.0,1,0,309,536
+1986,18 Jun 1986 - 16:00 ,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1,5,Spain, ,38500.0,1,1,309,511
+1986,21 Jun 1986 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,1,1,France,France win on penalties (3 - 4) ,65000.0,0,0,714,440
+1986,21 Jun 1986 - 16:00 ,Quarter-finals,Estadio Universitario,Monterrey ,Germany FR,0,0,Mexico,Germany FR win on penalties (4 - 1) ,41700.0,0,0,714,575
+1986,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,Belgium win on penalties (4 - 5) ,45000.0,0,0,714,421
+1986,22 Jun 1986 - 12:00 ,Quarter-finals,Estadio Azteca,Mexico City ,Argentina,2,1,England, ,114580.0,0,0,714,392
+1986,25 Jun 1986 - 12:00 ,Semi-finals,Jalisco,Guadalajara ,France,0,2,Germany FR, ,45000.0,0,1,3469,564
+1986,25 Jun 1986 - 16:00 ,Semi-finals,Estadio Azteca,Mexico City ,Argentina,2,0,Belgium, ,114500.0,0,0,3469,388
+1986,28 Jun 1986 - 12:00 ,Match for third place,Cuauhtemoc,Puebla ,France,4,2,Belgium,France win after extra time ,21000.0,0,0,3468,422
+1986,29 Jun 1986 - 12:00 ,Final,Estadio Azteca,Mexico City ,Argentina,3,2,Germany FR, ,114600.0,1,0,3467,393
+1990,08 Jun 1990 - 18:00 ,Group B,Giuseppe Meazza,Milan ,Argentina,0,1,Cameroon, ,73780.0,0,0,322,26
+1990,09 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Soviet Union,0,2,Romania, ,42907.0,0,1,322,342
+1990,09 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,"rn"">United Arab Emirates",0,2,Colombia, ,30791.0,0,0,322,119
+1990,09 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1,0,Austria, ,73303.0,0,0,322,42
+1990,10 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,USA,1,5,Czechoslovakia, ,33266.0,0,2,322,355
+1990,10 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,2,1,Sweden, ,62628.0,1,0,322,75
+1990,10 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,4,1,Yugoslavia, ,74765.0,2,0,322,201
+1990,11 Jun 1990 - 17:00 ,Group C,Luigi Ferraris,Genoa ,Costa Rica,1,0,Scotland, ,30867.0,0,0,322,127
+1990,11 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1,1,"rn"">Republic of Ireland", ,35238.0,1,0,322,161
+1990,12 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,2,0,Korea Republic, ,32790.0,0,0,322,57
+1990,12 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,Netherlands,1,1,Egypt, ,33288.0,0,0,322,151
+1990,13 Jun 1990 - 17:00 ,Group E,Dacia Arena,Udine ,Uruguay,0,0,Spain, ,35713.0,0,0,322,180
+1990,13 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,2,0,Soviet Union, ,55759.0,1,0,322,30
+1990,14 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,2,1,Romania, ,38687.0,0,0,322,108
+1990,14 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,1,0,Colombia, ,32257.0,0,0,322,120
+1990,14 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1,0,USA, ,73423.0,1,0,322,265
+1990,15 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,Austria,0,1,Czechoslovakia, ,38962.0,0,1,322,43
+1990,15 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,5,1,"rn"">United Arab Emirates", ,71169.0,2,0,322,198
+1990,16 Jun 1990 - 17:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1,0,Costa Rica, ,58007.0,1,0,322,73
+1990,16 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1,2,Scotland, ,31823.0,0,1,322,348
+1990,16 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,0,0,Netherlands, ,35267.0,0,0,322,160
+1990,17 Jun 1990 - 17:00 ,Group F,Della Favorita,Palermo ,"rn"">Republic of Ireland",0,0,Egypt, ,33288.0,0,0,322,152
+1990,17 Jun 1990 - 21:00 ,Group E,Dacia Arena,Udine ,Korea Republic,1,3,Spain, ,32733.0,1,1,322,175
+1990,17 Jun 1990 - 21:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,3,1,Uruguay, ,33759.0,2,0,322,66
+1990,18 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,1,1,Romania, ,52733.0,0,0,322,29
+1990,18 Jun 1990 - 21:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,0,4,Soviet Union, ,37307.0,0,2,322,111
+1990,19 Jun 1990 - 17:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,1,1,Colombia, ,72510.0,0,0,322,114
+1990,19 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,4,1,"rn"">United Arab Emirates", ,27833.0,2,1,322,364
+1990,19 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,2,0,Czechoslovakia, ,73303.0,1,0,322,263
+1990,19 Jun 1990 - 21:00 ,Group A,Comunale,Florence ,Austria,2,1,USA, ,34857.0,0,0,322,48
+1990,20 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1,0,Scotland, ,62502.0,0,0,322,74
+1990,20 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1,2,Costa Rica, ,30223.0,1,0,322,128
+1990,21 Jun 1990 - 17:00 ,Group E,Friuli,Udine ,Korea Republic,0,1,Uruguay, ,29039.0,0,0,322,290
+1990,21 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,1,2,Spain, ,35950.0,1,2,322,56
+1990,21 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,"rn"">Republic of Ireland",1,1,Netherlands, ,33288.0,0,1,322,228
+1990,21 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1,0,Egypt, ,34959.0,0,0,322,150
+1990,23 Jun 1990 - 17:00 ,Round of 16,San Paolo,Naples ,Cameroon,2,1,Colombia,Cameroon win after extra time ,50026.0,0,0,323,102
+1990,23 Jun 1990 - 21:00 ,Round of 16,Stadio San Nicola,Bari ,Czechoslovakia,4,1,Costa Rica, ,47673.0,1,0,323,129
+1990,24 Jun 1990 - 17:00 ,Round of 16,Stadio delle Alpi,Turin ,Brazil,0,1,Argentina, ,61381.0,0,0,323,25
+1990,24 Jun 1990 - 21:00 ,Round of 16,Giuseppe Meazza,Milan ,Germany FR,2,1,Netherlands, ,74559.0,0,0,323,196
+1990,25 Jun 1990 - 17:00 ,Round of 16,Luigi Ferraris,Genoa ,"rn"">Republic of Ireland",0,0,Romania,Republic of Ireland win on penalties (5 - 4) ,31818.0,0,0,323,248
+1990,25 Jun 1990 - 21:00 ,Round of 16,Stadio Olimpico,Rome ,Italy,2,0,Uruguay, ,73303.0,0,0,323,264
+1990,26 Jun 1990 - 17:00 ,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1,2,Yugoslavia,Yugoslavia win after extra time ,35500.0,0,0,323,181
+1990,26 Jun 1990 - 21:00 ,Round of 16,Renato Dall Ara,Bologna ,England,1,0,Belgium,England win after extra time ,34520.0,0,0,323,55
+1990,30 Jun 1990 - 17:00 ,Quarter-finals,Comunale,Florence ,Yugoslavia,0,0,Argentina, win on penalties (2 - 3) ,38971.0,0,0,751,31
+1990,30 Jun 1990 - 21:00 ,Quarter-finals,Stadio Olimpico,Rome ,Italy,1,0,"rn"">Republic of Ireland", ,73303.0,1,0,751,243
+1990,01 Jul 1990 - 17:00 ,Quarter-finals,Giuseppe Meazza,Milan ,Germany FR,1,0,Czechoslovakia, ,73347.0,1,0,751,197
+1990,01 Jul 1990 - 21:00 ,Quarter-finals,San Paolo,Naples ,England,3,2,Cameroon,England win after extra time ,55205.0,0,0,751,103
+1990,03 Jul 1990 - 20:00 ,Semi-finals,San Paolo,Naples ,Italy,1,1,Argentina, win on penalties (3 - 4) ,59978.0,0,0,3464,28
+1990,04 Jul 1990 - 20:00 ,Semi-finals,Stadio delle Alpi,Turin ,Germany FR,1,1,England, win on penalties (4 - 3) ,62628.0,0,0,3464,159
+1990,07 Jul 1990 - 20:00 ,Match for third place,Stadio San Nicola,Bari ,Italy,2,1,England, ,51426.0,0,0,3463,162
+1990,08 Jul 1990 - 20:00 ,Final,Stadio Olimpico,Rome ,Germany FR,1,0,Argentina, ,73603.0,0,0,3462,27
+1994,17 Jun 1994 - 19:30 ,Group C,Cotton Bowl,Dallas ,Spain,2,2,Korea Republic, ,56247.0,0,0,337,3050
+1994,17 Jun 1994 - 15:00 ,Group C,Soldier Field,Chicago ,Germany,1,0,Bolivia, ,63117.0,0,0,337,3049
+1994,18 Jun 1994 - 11:30 ,Group A,Pontiac Silverdome,Detroit ,USA,1,1,Switzerland, ,73425.0,1,1,337,3051
+1994,18 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,0,1,"rn"">Republic of Ireland", ,75338.0,0,1,337,3052
+1994,18 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,Colombia,1,3,Romania, ,91856.0,1,2,337,3053
+1994,19 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1,0,Morocco, ,61219.0,1,0,337,3054
+1994,19 Jun 1994 - 16:00 ,Group E,RFK Stadium,Washington Dc ,Norway,1,0,Mexico, ,52395.0,0,0,337,3055
+1994,19 Jun 1994 - 19:30 ,Group B,Rose Bowl,Los Angeles ,Cameroon,2,2,Sweden, ,93194.0,1,1,337,3056
+1994,20 Jun 1994 - 19:30 ,Group F,RFK Stadium,Washington Dc ,Netherlands,2,1,Saudi Arabia, ,50535.0,0,1,337,3058
+1994,20 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,2,0,Russia, ,81061.0,1,0,337,3057
+1994,21 Jun 1994 - 12:30 ,Group D,Foxboro Stadium,Boston ,Argentina,4,0,Greece, ,54456.0,2,0,337,3059
+1994,21 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Nigeria,3,0,Bulgaria, ,44132.0,2,0,337,3061
+1994,21 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Germany,1,1,Spain, ,63113.0,0,1,337,3060
+1994,22 Jun 1994 - 16:00 ,Group A,Pontiac Silverdome,Detroit ,Romania,1,4,Switzerland, ,61428.0,1,1,337,3062
+1994,22 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,USA,2,1,Colombia, ,93869.0,1,0,337,3063
+1994,23 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,1,0,Norway, ,74624.0,0,0,337,3064
+1994,23 Jun 1994 - 19:30 ,Group C,Foxboro Stadium,Boston ,Korea Republic,0,0,Bolivia, ,54453.0,0,0,337,3065
+1994,24 Jun 1994 - 12:30 ,Group E,Citrus Bowl,Orlando ,Mexico,2,1,"rn"">Republic of Ireland", ,60790.0,1,0,337,3066
+1994,24 Jun 1994 - 19:30 ,Group B,Pontiac Silverdome,Detroit ,Sweden,3,1,Russia, ,71528.0,1,1,337,3068
+1994,24 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,3,0,Cameroon, ,83401.0,1,0,337,3067
+1994,25 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1,0,Netherlands, ,62387.0,0,0,337,3069
+1994,25 Jun 1994 - 12:30 ,Group F,Giants Stadium,New York/New Jersey ,Saudi Arabia,2,1,Morocco, ,76322.0,2,1,337,3070
+1994,25 Jun 1994 - 16:00 ,Group D,Foxboro Stadium,Boston ,Argentina,2,1,Nigeria, ,54453.0,2,1,337,3071
+1994,26 Jun 1994 - 12:30 ,Group D,Soldier Field,Chicago ,Bulgaria,4,0,Greece, ,63160.0,1,0,337,3072
+1994,26 Jun 1994 - 16:00 ,Group A,Rose Bowl,Los Angeles ,USA,0,1,Romania, ,93869.0,0,1,337,3073
+1994,26 Jun 1994 - 16:00 ,Group A,Stanford Stadium,San Francisco ,Switzerland,0,2,Colombia, ,83401.0,0,1,337,3074
+1994,27 Jun 1994 - 16:00 ,Group C,Cotton Bowl,Dallas ,Germany,3,2,Korea Republic, ,63998.0,3,0,337,3076
+1994,27 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Bolivia,1,3,Spain, ,63089.0,0,1,337,3075
+1994,28 Jun 1994 - 12:30 ,Group E,Giants Stadium,New York/New Jersey ,"rn"">Republic of Ireland",0,0,Norway, ,72404.0,0,0,337,3077
+1994,28 Jun 1994 - 16:00 ,Group B,Pontiac Silverdome,Detroit ,Brazil,1,1,Sweden, ,77217.0,0,1,337,3080
+1994,28 Jun 1994 - 12:30 ,Group E,RFK Stadium,Washington Dc ,Italy,1,1,Mexico, ,52535.0,0,0,337,3078
+1994,28 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Russia,6,1,Cameroon, ,74914.0,3,0,337,3079
+1994,29 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Morocco,1,2,Netherlands, ,60578.0,0,1,337,3081
+1994,29 Jun 1994 - 12:30 ,Group F,RFK Stadium,Washington Dc ,Belgium,0,1,Saudi Arabia, ,52959.0,0,1,337,3082
+1994,30 Jun 1994 - 19:30 ,Group D,Foxboro Stadium,Boston ,Greece,0,2,Nigeria, ,53001.0,0,1,337,3083
+1994,30 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Argentina,0,2,Bulgaria, ,63998.0,0,0,337,3084
+1994,02 Jul 1994 - 12:00 ,Round of 16,Soldier Field,Chicago ,Germany,3,2,Belgium, ,60246.0,3,1,338,3085
+1994,02 Jul 1994 - 16:30 ,Round of 16,RFK Stadium,Washington Dc ,Spain,3,0,Switzerland, ,53121.0,1,0,338,3086
+1994,03 Jul 1994 - 12:00 ,Round of 16,Cotton Bowl,Dallas ,Saudi Arabia,1,3,Sweden, ,60277.0,0,1,338,3087
+1994,03 Jul 1994 - 13:30 ,Round of 16,Rose Bowl,Los Angeles ,Romania,3,2,Argentina, ,90469.0,2,1,338,3088
+1994,04 Jul 1994 - 12:00 ,Round of 16,Citrus Bowl,Orlando ,Netherlands,2,0,"rn"">Republic of Ireland", ,61355.0,2,0,338,3089
+1994,04 Jul 1994 - 12:30 ,Round of 16,Stanford Stadium,San Francisco ,Brazil,1,0,USA, ,84147.0,0,0,338,3090
+1994,05 Jul 1994 - 13:00 ,Round of 16,Foxboro Stadium,Boston ,Nigeria,1,2,Italy,Italy win after extra time ,54367.0,0,0,338,3091
+1994,05 Jul 1994 - 16:30 ,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3) ,71030.0,0,0,338,3092
+1994,09 Jul 1994 - 12:00 ,Quarter-finals,Foxboro Stadium,Boston ,Italy,2,1,Spain, ,53400.0,1,0,796,3097
+1994,09 Jul 1994 - 14:30 ,Quarter-finals,Cotton Bowl,Dallas ,Netherlands,2,3,Brazil, ,63500.0,0,0,796,3098
+1994,10 Jul 1994 - 12:00 ,Quarter-finals,Giants Stadium,New York/New Jersey ,Bulgaria,2,1,Germany, ,72000.0,0,0,796,3096
+1994,10 Jul 1994 - 12:30 ,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2,2,Sweden,Sweden win on penalties (4 - 5) ,83500.0,0,0,796,3095
+1994,13 Jul 1994 - 16:00 ,Semi-finals,Giants Stadium,New York/New Jersey ,Bulgaria,1,2,Italy, ,74110.0,1,2,3461,3100
+1994,13 Jul 1994 - 16:30 ,Semi-finals,Rose Bowl,Los Angeles ,Sweden,0,1,Brazil, ,91856.0,0,0,3461,3099
+1994,16 Jul 1994 - 12:30 ,Match for third place,Rose Bowl,Los Angeles ,Sweden,4,0,Bulgaria, ,91500.0,4,0,3460,3103
+1994,17 Jul 1994 - 12:30 ,Final,Rose Bowl,Los Angeles ,Brazil,0,0,Italy,Brazil win on penalties (3 - 2) ,94194.0,0,0,3459,3104
+1998,10 Jun 1998 - 17:30 ,Group A,Stade de France,Saint-Denis ,Brazil,2,1,Scotland, ,80000.0,1,1,1014,4000
+1998,10 Jun 1998 - 21:00 ,Group A,La Mosson,Montpellier ,Morocco,2,2,Norway, ,29800.0,1,1,1014,8725
+1998,11 Jun 1998 - 17:30 ,Group B,Stade du Parc Lescure,Bordeaux ,Italy,2,2,Chile, ,31800.0,1,1,1014,8726
+1998,11 Jun 1998 - 21:00 ,Group B,Stade Municipal,Toulouse ,Cameroon,1,1,Austria, ,33500.0,0,0,1014,8727
+1998,12 Jun 1998 - 14:30 ,Group D,La Mosson,Montpellier ,Paraguay,0,0,Bulgaria, ,29800.0,0,0,1014,8728
+1998,12 Jun 1998 - 17:30 ,Group C,Stade Felix Bollaert,Lens ,Saudi Arabia,0,1,Denmark, ,38100.0,0,0,1014,8729
+1998,12 Jun 1998 - 21:00 ,Group C,Stade V�lodrome,Marseilles ,France,3,0,South Africa, ,55000.0,1,0,1014,8730
+1998,13 Jun 1998 - 14:30 ,Group D,La Beaujoire,Nantes ,Spain,2,3,Nigeria, ,35500.0,1,1,1014,8731
+1998,13 Jun 1998 - 17:30 ,Group E,Stade de Gerland,Lyon ,Korea Republic,1,3,Mexico, ,39100.0,1,0,1014,8732
+1998,13 Jun 1998 - 21:00 ,Group E,Stade de France,Saint-Denis ,Netherlands,0,0,Belgium, ,77000.0,0,0,1014,8733
+1998,14 Jun 1998 - 14:30 ,Group H,Stade Municipal,Toulouse ,Argentina,1,0,Japan, ,33500.0,1,0,1014,8734
+1998,14 Jun 1998 - 17:30 ,Group F,Stade Geoffroy Guichard,Saint-Etienne ,Yugoslavia,1,0,Iran, ,30600.0,0,0,1014,8735
+1998,14 Jun 1998 - 21:00 ,Group H,Stade Felix Bollaert,Lens ,Jamaica,1,3,Croatia, ,38100.0,1,1,1014,8736
+1998,15 Jun 1998 - 14:30 ,Group G,Stade V�lodrome,Marseilles ,England,2,0,Tunisia, ,55000.0,1,0,1014,8740
+1998,15 Jun 1998 - 17:30 ,Group G,Stade de Gerland,Lyon ,Romania,1,0,Colombia, ,39100.0,1,0,1014,8739
+1998,15 Jun 1998 - 21:00 ,Group F,Parc des Princes,Paris ,Germany,2,0,USA, ,45500.0,1,0,1014,8738
+1998,16 Jun 1998 - 17:30 ,Group A,Stade du Parc Lescure,Bordeaux ,Scotland,1,1,Norway, ,31800.0,0,0,1014,8741
+1998,16 Jun 1998 - 21:00 ,Group A,La Beaujoire,Nantes ,Brazil,3,0,Morocco, ,35500.0,2,0,1014,8742
+1998,17 Jun 1998 - 17:30 ,Group B,Stade Geoffroy Guichard,Saint-Etienne ,Chile,1,1,Austria, ,30600.0,0,0,1014,8743
+1998,17 Jun 1998 - 21:00 ,Group B,La Mosson,Montpellier ,Italy,3,0,Cameroon, ,29800.0,1,0,1014,8744
+1998,18 Jun 1998 - 17:30 ,Group C,Stade Municipal,Toulouse ,South Africa,1,1,Denmark, ,33500.0,0,1,1014,8746
+1998,18 Jun 1998 - 21:00 ,Group C,Stade de France,Saint-Denis ,France,4,0,Saudi Arabia, ,80000.0,1,0,1014,8745
+1998,19 Jun 1998 - 17:30 ,Group D,Parc des Princes,Paris ,Nigeria,1,0,Bulgaria, ,45500.0,1,0,1014,8747
+1998,19 Jun 1998 - 21:00 ,Group D,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0,0,Paraguay, ,30600.0,0,0,1014,8748
+1998,20 Jun 1998 - 14:30 ,Group H,La Beaujoire,Nantes ,Japan,0,1,Croatia, ,35500.0,0,0,1014,8751
+1998,20 Jun 1998 - 17:30 ,Group E,Stade du Parc Lescure,Bordeaux ,Belgium,2,2,Mexico, ,31800.0,1,0,1014,8750
+1998,20 Jun 1998 - 21:00 ,Group E,Stade V�lodrome,Marseilles ,Netherlands,5,0,Korea Republic, ,55000.0,2,0,1014,8749
+1998,21 Jun 1998 - 14:30 ,Group F,Stade Felix Bollaert,Lens ,Germany,2,2,Yugoslavia, ,38100.0,0,1,1014,8753
+1998,21 Jun 1998 - 17:30 ,Group H,Parc des Princes,Paris ,Argentina,5,0,Jamaica, ,45500.0,1,0,1014,8752
+1998,21 Jun 1998 - 21:00 ,Group F,Stade de Gerland,Lyon ,USA,1,2,Iran, ,39100.0,0,1,1014,8754
+1998,22 Jun 1998 - 17:30 ,Group G,La Mosson,Montpellier ,Colombia,1,0,Tunisia, ,29800.0,0,0,1014,8755
+1998,22 Jun 1998 - 21:00 ,Group G,Stade Municipal,Toulouse ,Romania,2,1,England, ,33500.0,0,0,1014,8756
+1998,23 Jun 1998 - 16:00 ,Group B,Stade de France,Saint-Denis ,Italy,2,1,Austria, ,80000.0,0,0,1014,8757
+1998,23 Jun 1998 - 16:00 ,Group B,La Beaujoire,Nantes ,Chile,1,1,Cameroon, ,35500.0,1,0,1014,8760
+1998,23 Jun 1998 - 21:00 ,Group A,Stade Geoffroy Guichard,Saint-Etienne ,Scotland,0,3,Morocco, ,30600.0,0,1,1014,8758
+1998,23 Jun 1998 - 21:00 ,Group A,Stade V�lodrome,Marseilles ,Brazil,1,2,Norway, ,55000.0,0,0,1014,8759
+1998,24 Jun 1998 - 16:00 ,Group C,Stade de Gerland,Lyon ,France,2,1,Denmark, ,39100.0,1,1,1014,8762
+1998,24 Jun 1998 - 16:00 ,Group C,Stade du Parc Lescure,Bordeaux ,South Africa,2,2,Saudi Arabia, ,31800.0,1,1,1014,8764
+1998,24 Jun 1998 - 21:00 ,Group D,Stade Felix Bollaert,Lens ,Spain,6,1,Bulgaria, ,38100.0,2,0,1014,8761
+1998,24 Jun 1998 - 21:00 ,Group D,Stade Municipal,Toulouse ,Nigeria,1,3,Paraguay, ,33500.0,1,1,1014,8763
+1998,25 Jun 1998 - 16:00 ,Group E,Parc des Princes,Paris ,Belgium,1,1,Korea Republic, ,45500.0,1,0,1014,8765
+1998,25 Jun 1998 - 16:00 ,Group E,Stade Geoffroy Guichard,Saint-Etienne ,Netherlands,2,2,Mexico, ,30600.0,2,0,1014,8766
+1998,25 Jun 1998 - 21:00 ,Group F,La Mosson,Montpellier ,Germany,2,0,Iran, ,29800.0,0,0,1014,8767
+1998,25 Jun 1998 - 21:00 ,Group F,La Beaujoire,Nantes ,USA,0,1,Yugoslavia, ,35500.0,0,1,1014,8768
+1998,26 Jun 1998 - 16:00 ,Group H,Stade de Gerland,Lyon ,Japan,1,2,Jamaica, ,39100.0,0,1,1014,8771
+1998,26 Jun 1998 - 16:00 ,Group H,Stade du Parc Lescure,Bordeaux ,Argentina,1,0,Croatia, ,31800.0,1,0,1014,8772
+1998,26 Jun 1998 - 21:00 ,Group G,Stade de France,Saint-Denis ,Romania,1,1,Tunisia, ,77000.0,0,1,1014,8769
+1998,26 Jun 1998 - 21:00 ,Group G,Stade Felix Bollaert,Lens ,Colombia,0,2,England, ,38100.0,0,2,1014,8770
+1998,27 Jun 1998 - 16:30 ,Round of 16,Stade V�lodrome,Marseilles ,Italy,1,0,Norway, ,55000.0,1,0,1024,8774
+1998,27 Jun 1998 - 21:00 ,Round of 16,Parc des Princes,Paris ,Brazil,4,1,Chile, ,45500.0,3,0,1024,8773
+1998,28 Jun 1998 - 16:30 ,Round of 16,Stade Felix Bollaert,Lens ,France,1,0,Paraguay,France win after extra time ,31800.0,0,0,1024,8776
+1998,28 Jun 1998 - 21:00 ,Round of 16,Stade de France,Saint-Denis ,Nigeria,1,4,Denmark, ,77000.0,0,2,1024,8775
+1998,29 Jun 1998 - 16:30 ,Round of 16,La Mosson,Montpellier ,Germany,2,1,Mexico, ,29800.0,0,0,1024,8777
+1998,29 Jun 1998 - 21:00 ,Round of 16,Stade Municipal,Toulouse ,Netherlands,2,1,Yugoslavia, ,33500.0,1,0,1024,8778
+1998,30 Jun 1998 - 16:30 ,Round of 16,Stade du Parc Lescure,Bordeaux ,Romania,0,1,Croatia, ,31800.0,0,1,1024,8780
+1998,30 Jun 1998 - 21:00 ,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2,2,England,Argentina win on penalties (4 - 3) ,30600.0,0,0,1024,8779
+1998,03 Jul 1998 - 16:30 ,Quarter-finals,Stade de France,Saint-Denis ,Italy,0,0,France,France win on penalties (3 - 4) ,77000.0,0,0,1025,8781
+1998,03 Jul 1998 - 21:00 ,Quarter-finals,La Beaujoire,Nantes ,Brazil,3,2,Denmark, ,35500.0,2,1,1025,8782
+1998,04 Jul 1998 - 16:30 ,Quarter-finals,Stade V�lodrome,Marseilles ,Netherlands,2,1,Argentina, ,55000.0,1,1,1025,8784
+1998,04 Jul 1998 - 21:00 ,Quarter-finals,Stade de Gerland,Lyon ,Germany,0,3,Croatia, ,39100.0,0,1,1025,8783
+1998,07 Jul 1998 - 21:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2) ,54000.0,0,0,1026,8785
+1998,08 Jul 1998 - 21:00 ,Semi-finals,Stade de France,Saint-Denis ,France,2,1,Croatia, ,76000.0,0,0,1026,8786
+1998,11 Jul 1998 - 21:00 ,Match for third place,Parc des Princes,Paris ,Netherlands,1,2,Croatia, ,45500.0,1,2,1028,8787
+1998,12 Jul 1998 - 21:00 ,Final,Stade de France,Saint-Denis ,Brazil,0,3,France, ,80000.0,0,2,1027,8788
+2002,31 May 2002 - 20:30 ,Group A,Seoul World Cup Stadium,Seoul ,France,0,1,Senegal, ,62561.0,0,1,43950100,43950001
+2002,01 Jun 2002 - 18:00 ,Group A,Munsu Football Stadium,Ulsan ,Uruguay,1,2,Denmark, ,30157.0,0,1,43950100,43950003
+2002,01 Jun 2002 - 15:30 ,Group E,Niigata Stadium Big Swan,Niigata ,"rn"">Republic of Ireland",1,1,Cameroon, ,33679.0,0,1,43950100,43950002
+2002,01 Jun 2002 - 20:30 ,Group E,Sapporo Dome,Sapporo ,Germany,8,0,Saudi Arabia, ,32218.0,4,0,43950100,43950004
+2002,02 Jun 2002 - 14:30 ,Group F,Kashima Stadium,Ibaraki ,Argentina,1,0,Nigeria, ,34050.0,0,0,43950100,43950007
+2002,02 Jun 2002 - 16:30 ,Group B,Busan Asiad Main Stadium,Busan ,Paraguay,2,2,South Africa, ,25186.0,1,0,43950100,43950006
+2002,02 Jun 2002 - 18:30 ,Group F,Saitama Stadium 2002,Saitama ,England,1,1,Sweden, ,52721.0,1,0,43950100,43950005
+2002,02 Jun 2002 - 20:30 ,Group B,Gwangju World Cup Stadium,Gwangju ,Spain,3,1,Slovenia, ,28598.0,1,0,43950100,43950008
+2002,03 June 2002 - 18:00 ,Group C,Munsu Football Stadium,Ulsan ,Brazil,2,1,Turkey, ,33842.0,0,1,43950100,43950010
+2002,03 Jun 2002 - 20:30 ,Group G,Sapporo Dome,Sapporo ,Italy,2,0,Ecuador, ,31081.0,2,0,43950100,43950011
+2002,03 Jun 2002 - 15:30 ,Group G,Niigata Stadium Big Swan,Niigata ,Croatia,0,1,Mexico, ,32239.0,0,0,43950100,43950009
+2002,04 June 2002 - 15:30 ,Group C,Gwangju World Cup Stadium,Gwangju ,China PR,0,2,Costa Rica, ,27217.0,0,0,43950100,43950012
+2002,04 June 2002 - 18:00 ,Group H,Saitama Stadium 2002,Saitama ,Japan,2,2,Belgium, ,55256.0,0,0,43950100,43950013
+2002,04 Jun 2002 - 20:30 ,Group D,Busan Asiad Main Stadium,Busan ,Korea Republic,2,0,Poland, ,48760.0,1,0,43950100,43950014
+2002,05 Jun 2002 - 15:30 ,Group H,Kobe Wing Stadium,Kobe ,Russia,2,0,Tunisia, ,30957.0,0,0,43950100,43950015
+2002,05 Jun 2002 - 18:00 ,Group D,Suwon World Cup Stadium,Suwon ,USA,3,2,Portugal, ,37306.0,3,1,43950100,43950016
+2002,05 Jun 2002 - 20:30 ,Group E,Kashima Stadium,Ibaraki ,Germany,1,1,"rn"">Republic of Ireland", ,35854.0,1,0,43950100,43950017
+2002,06 Jun 2002 - 15:30 ,Group A,Daegu World Cup Stadium,Daegu ,Denmark,1,1,Senegal, ,43500.0,1,0,43950100,43950020
+2002,06 Jun 2002 - 18:00 ,Group E,Saitama Stadium 2002,Saitama ,Cameroon,1,0,Saudi Arabia, ,52328.0,0,0,43950100,43950019
+2002,06 Jun 2002 - 20:30 ,Group A,Busan Asiad Main Stadium,Busan ,France,0,0,Uruguay, ,38289.0,0,0,43950100,43950018
+2002,07 Jun 2002 - 15:30 ,Group F,Kobe Wing Stadium,Kobe ,Sweden,2,1,Nigeria, ,36194.0,1,1,43950100,43950021
+2002,07 Jun 2002 - 20:30 ,Group F,Sapporo Dome,Sapporo ,Argentina,0,1,England, ,35927.0,0,1,43950100,43950023
+2002,07 June 2002 - 18:00 ,Group B,Jeonju World Cup Stadium,Jeonju ,Spain,3,1,Paraguay, ,24000.0,0,1,43950100,43950022
+2002,08 Jun 2002 - 15:30 ,Group B,Daegu World Cup Stadium,Daegu ,South Africa,1,0,Slovenia, ,47226.0,1,0,43950100,43950024
+2002,08 Jun 2002 - 20:30 ,Group C,Jeju World Cup Stadium,Jeju ,Brazil,4,0,China PR, ,36750.0,3,0,43950100,43950026
+2002,08 June 2002 - 18:00 ,Group G,Kashima Stadium,Ibaraki ,Italy,1,2,Croatia, ,36472.0,0,0,43950100,43950025
+2002,09 Jun 2002 - 18:00 ,Group C,Incheon Football Stadium,Incheon ,Costa Rica,1,1,Turkey, ,42299.0,0,0,43950100,43950028
+2002,09 Jun 2002 - 20:30 ,Group H,International Stadium Yokohama,Yokohama ,Japan,1,0,Russia, ,66108.0,0,0,43950100,43950029
+2002,09 Jun 2002 - 15:30 ,Group G,Miyagi Stadium,Rifu ,Mexico,2,1,Ecuador, ,45610.0,1,1,43950100,43950027
+2002,10 Jun 2002 - 15:30 ,Group D,Daegu World Cup Stadium,Daegu ,Korea Republic,1,1,USA, ,60778.0,0,1,43950100,43950030
+2002,10 Jun 2002 - 20:30 ,Group D,Jeonju World Cup Stadium,Jeonju ,Portugal,4,0,Poland, ,31000.0,1,0,43950100,43950032
+2002,10 Jun 2002 - 18:00 ,Group H,Oita Stadium Big Eye,Oita ,Tunisia,1,1,Belgium, ,39700.0,1,1,43950100,43950031
+2002,11 Jun 2002 - 15:30 ,Group A,Incheon Football Stadium,Incheon ,Denmark,2,0,France, ,48100.0,1,0,43950100,43950033
+2002,11 June 2002 - 15:30 ,Group A,Suwon World Cup Stadium,Suwon ,Senegal,3,3,Uruguay, ,33681.0,3,0,43950100,43950034
+2002,11 Jun 2002 - 20:30 ,Group E,International Stadium Yokohama,Yokohama ,Saudi Arabia,0,3,"rn"">Republic of Ireland", ,65320.0,0,1,43950100,43950036
+2002,11 Jun 2002 - 20:30 ,Group E,Shizuoka Stadium Ecopa,Shizuoka ,Cameroon,0,2,Germany, ,47085.0,0,0,43950100,43950035
+2002,12 Jun 2002 - 15:30 ,Group F,Miyagi Stadium,Rifu ,Sweden,1,1,Argentina, ,45777.0,0,0,43950100,43950037
+2002,12 Jun 2002 - 15:30 ,Group F,Osaka Nagai Stadium,Osaka ,Nigeria,0,0,England, ,44864.0,0,0,43950100,43950038
+2002,12 Jun 2002 - 20:30 ,Group B,Jeju World Cup Stadium,Jeju ,Slovenia,1,3,Paraguay, ,30176.0,1,0,43950100,43950040
+2002,12 Jun 2002 - 20:30 ,Group B,Daejeon World Cup Stadium,Daejeon ,South Africa,2,3,Spain, ,31024.0,1,2,43950100,43950039
+2002,13 Jun 2002 - 15:30 ,Group C,Suwon World Cup Stadium,Suwon ,Costa Rica,2,5,Brazil, ,38524.0,1,3,43950100,43950041
+2002,13 Jun 2002 - 15:30 ,Group C,Seoul World Cup Stadium,Seoul ,Turkey,3,0,China PR, ,43605.0,2,0,43950100,43950042
+2002,13 Jun 2002 - 20:30 ,Group G,International Stadium Yokohama,Yokohama ,Ecuador,1,0,Croatia, ,65862.0,0,0,43950100,43950044
+2002,13 Jun 2002 - 20:30 ,Group G,Oita Stadium Big Eye,Oita ,Mexico,1,1,Italy, ,39291.0,1,0,43950100,43950043
+2002,14 Jun 2002 - 15:30 ,Group H,Osaka Nagai Stadium,Osaka ,Tunisia,0,2,Japan, ,45213.0,0,0,43950100,43950045
+2002,14 Jun 2002 - 20:30 ,Group D,Incheon Football Stadium,Incheon ,Portugal,0,1,Korea Republic, ,50239.0,0,0,43950100,43950047
+2002,14 Jun 2002 - 20:30 ,Group D,Daejeon World Cup Stadium,Daejeon ,Poland,3,1,USA, ,26482.0,2,0,43950100,43950048
+2002,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3,2,Russia, ,46640.0,1,0,43950100,43950046
+2002,15 Jun 2002 - 20:30 ,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0,3,England, ,40582.0,0,3,43950200,43950050
+2002,15 Jun 2002 - 15:30 ,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1,0,Paraguay, ,25176.0,0,0,43950200,43950049
+2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1,1,"rn"">Republic of Ireland",Spain win on penalties (3 - 2) ,38926.0,0,0,43950200,43950052
+2002,16 Jun 2002 - 15:30 ,Round of 16,Oita Stadium Big Eye,Oita ,Sweden,1,2,Senegal,Win on Golden Goal ,39747.0,0,0,43950200,43950051
+2002,17 Jun 2002 - 20:30 ,Round of 16,Kobe Wing Stadium,Kobe ,Brazil,2,0,Belgium, ,40440.0,0,0,43950200,43950054
+2002,17 June 2002 - 15:30 ,Round of 16,Jeonju World Cup Stadium,Jeonju ,Mexico,0,2,USA, ,36380.0,0,1,43950200,43950053
+2002,18 Jun 2002 - 15:30 ,Round of 16,Miyagi Stadium,Rifu ,Japan,0,1,Turkey, ,45666.0,0,1,43950200,43950055
+2002,18 Jun 2002 - 20:30 ,Round of 16,Daejeon World Cup Stadium,Daejeon ,Korea Republic,2,1,Italy,Win on Golden Goal ,38588.0,0,0,43950200,43950056
+2002,21 Jun 2002 - 15:30 ,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,England,1,2,Brazil, ,47436.0,1,1,43950300,43950057
+2002,21 Jun 2002 - 20:30 ,Quarter-finals,Munsu Football Stadium,Ulsan ,Germany,1,0,USA, ,37337.0,1,0,43950300,43950058
+2002,22 Jun 2002 - 20:30 ,Quarter-finals,Osaka Nagai Stadium,Osaka ,Senegal,0,1,Turkey,Win on Golden Goal ,44233.0,0,0,43950300,43950060
+2002,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,42114.0,0,0,43950300,43950059
+2002,25 Jun 2002 - 20:30 ,Semi-finals,Seoul World Cup Stadium,Seoul ,Germany,1,0,Korea Republic, ,65256.0,0,0,43950400,43950061
+2002,26 Jun 2002 - 20:30 ,Semi-finals,Saitama Stadium 2002,Saitama ,Brazil,1,0,Turkey, ,61058.0,0,0,43950400,43950062
+2002,29 Jun 2002 - 20:00 ,Third place,Daegu World Cup Stadium,Daegu ,Korea Republic,2,3,Turkey, ,63483.0,1,3,43950500,43950063
+2002,30 Jun 2002 - 20:00 ,Final,International Stadium Yokohama,Yokohama ,Germany,0,2,Brazil, ,69029.0,0,0,43950600,43950064
+2006,09 Jun 2006 - 18:00 ,Group A,"FIFA World Cup Stadium, Munich",Munich ,Germany,4,2,Costa Rica, ,66000.0,2,1,97410100,97410001
+2006,09 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Poland,0,2,Ecuador, ,52000.0,0,1,97410100,97410002
+2006,10 Jun 2006 - 15:00 ,Group B,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,England,1,0,Paraguay, ,48000.0,1,0,97410100,97410003
+2006,10 Jun 2006 - 18:00 ,Group B,"FIFA World Cup Stadium, Dortmund",Dortmund ,"rn"">Trinidad and Tobago",0,0,Sweden, ,62959.0,0,0,97410100,97410004
+2006,10 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Hamburg",Hamburg ,Argentina,2,1,C�te d'Ivoire, ,49480.0,2,0,97410100,97410005
+2006,11 Jun 2006 - 15:00 ,Group C,Zentralstadion,Leipzig ,"rn"">Serbia and Montenegro",0,1,Netherlands, ,43000.0,0,1,97410100,97410006
+2006,11 Jun 2006 - 18:00 ,Group D,Franken-Stadion,Nuremberg ,Mexico,3,1,Iran, ,41000.0,1,1,97410100,97410007
+2006,11 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Cologne",Cologne ,Angola,0,1,Portugal, ,45000.0,0,1,97410100,97410008
+2006,12 Jun 2006 - 15:00 ,Group F,Fritz-Walter-Stadion,Kaiserslautern ,Australia,3,1,Japan, ,46000.0,0,1,97410100,97410012
+2006,12 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,USA,0,3,Czech Republic, ,52000.0,0,2,97410100,97410010
+2006,12 Jun 2006 - 21:00 ,Group E,"FIFA World Cup Stadium, Hanover",Hanover ,Italy,2,0,Ghana, ,43000.0,1,0,97410100,97410009
+2006,13 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Korea Republic,2,1,Togo, ,48000.0,0,1,97410100,97410014
+2006,13 Jun 2006 - 18:00 ,Group G,Gottlieb-Daimler-Stadion,Stuttgart ,France,0,0,Switzerland, ,52000.0,0,0,97410100,97410013
+2006,13 Jun 2006 - 21:00 ,Group F,Olympiastadion,Berlin ,Brazil,1,0,Croatia, ,72000.0,1,0,97410100,97410011
+2006,14 Jun 2006 - 15:00 ,Group H,Zentralstadion,Leipzig ,Spain,4,0,Ukraine, ,43000.0,2,0,97410100,97410015
+2006,14 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Munich",Munich ,Tunisia,2,2,Saudi Arabia, ,66000.0,1,0,97410100,97410016
+2006,14 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,1,0,Poland, ,65000.0,0,0,97410100,97410017
+2006,15 Jun 2006 - 15:00 ,Group A,"FIFA World Cup Stadium, Hamburg",Hamburg ,Ecuador,3,0,Costa Rica, ,50000.0,1,0,97410100,97410018
+2006,15 Jun 2006 - 18:00 ,Group B,Franken-Stadion,Nuremberg ,England,2,0,"rn"">Trinidad and Tobago", ,41000.0,0,0,97410100,97410019
+2006,15 Jun 2006 - 21:00 ,Group B,Olympiastadion,Berlin ,Sweden,1,0,Paraguay, ,72000.0,0,0,97410100,97410020
+2006,16 Jun 2006 - 15:00 ,Group C,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Argentina,6,0,"rn"">Serbia and Montenegro", ,52000.0,3,0,97410100,97410021
+2006,16 Jun 2006 - 18:00 ,Group C,Gottlieb-Daimler-Stadion,Stuttgart ,Netherlands,2,1,C�te d'Ivoire, ,52000.0,2,1,97410100,97410022
+2006,16 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Hanover",Hanover ,Mexico,0,0,Angola, ,43000.0,0,0,97410100,97410023
+2006,17 Jun 2006 - 15:00 ,Group D,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Portugal,2,0,IR Iran, ,48000.0,0,0,97410100,97410024
+2006,17 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Cologne",Cologne ,Czech Republic,0,2,Ghana, ,45000.0,0,1,97410100,97410026
+2006,17 Jun 2006 - 21:00 ,Group E,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,1,USA, ,46000.0,1,1,97410100,97410025
+2006,18 Jun 2006 - 15:00 ,Group F,Franken-Stadion,Nuremberg ,Japan,0,0,Croatia, ,41000.0,0,0,97410100,97410028
+2006,18 Jun 2006 - 18:00 ,Group F,"FIFA World Cup Stadium, Munich",Munich ,Brazil,2,0,Australia, ,66000.0,0,0,97410100,97410027
+2006,18 Jun 2006 - 21:00 ,Group G,Zentralstadion,Leipzig ,France,1,1,Korea Republic, ,43000.0,1,0,97410100,97410029
+2006,19 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Dortmund",Dortmund ,Togo,0,2,Switzerland, ,65000.0,0,1,97410100,97410030
+2006,19 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Hamburg",Hamburg ,Saudi Arabia,0,4,Ukraine, ,50000.0,0,2,97410100,97410032
+2006,19 Jun 2006 - 21:00 ,Group H,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3,1,Tunisia, ,52000.0,0,1,97410100,97410031
+2006,20 Jun 2006 - 16:00 ,Group A,Olympiastadion,Berlin ,Ecuador,0,3,Germany, ,72000.0,0,2,97410100,97410033
+2006,20 Jun 2006 - 16:00 ,Group A,"FIFA World Cup Stadium, Hanover",Hanover ,Costa Rica,1,2,Poland, ,43000.0,1,1,97410100,97410034
+2006,20 Jun 2006 - 21:00 ,Group B,"FIFA World Cup Stadium, Cologne",Cologne ,Sweden,2,2,England, ,45000.0,0,1,97410100,97410035
+2006,20 Jun 2006 - 21:00 ,Group B,Fritz-Walter-Stadion,Kaiserslautern ,Paraguay,2,0,"rn"">Trinidad and Tobago", ,46000.0,1,0,97410100,97410036
+2006,21 Jun 2006 - 16:00 ,Group D,Zentralstadion,Leipzig ,Iran,1,1,Angola, ,38000.0,0,0,97410100,97410040
+2006,21 Jun 2006 - 16:00 ,Group D,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Portugal,2,1,Mexico, ,52000.0,2,1,97410100,97410039
+2006,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Netherlands,0,0,Argentina, ,48000.0,0,0,97410100,97410037
+2006,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Munich",Munich ,C�te d'Ivoire,3,2,"rn"">Serbia and Montenegro", ,66000.0,1,2,97410100,97410038
+2006,22 Jun 2006 - 16:00 ,Group E,"FIFA World Cup Stadium, Hamburg",Hamburg ,Czech Republic,0,2,Italy, ,50000.0,0,1,97410100,97410041
+2006,22 Jun 2006 - 16:00 ,Group E,Franken-Stadion,Nuremberg ,Ghana,2,1,USA, ,41000.0,2,1,97410100,97410042
+2006,22 Jun 2006 - 21:00 ,Group F,"FIFA World Cup Stadium, Dortmund",Dortmund ,Japan,1,4,Brazil, ,65000.0,1,1,97410100,97410043
+2006,22 Jun 2006 - 21:00 ,Group F,Gottlieb-Daimler-Stadion,Stuttgart ,Croatia,2,2,Australia, ,52000.0,1,1,97410100,97410044
+2006,23 Jun 2006 - 16:00 ,Group H,Olympiastadion,Berlin ,Ukraine,1,0,Tunisia, ,72000.0,0,0,97410100,97410048
+2006,23 Jun 2006 - 16:00 ,Group H,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0,1,Spain, ,46000.0,0,1,97410100,97410047
+2006,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Cologne",Cologne ,Togo,0,2,France, ,45000.0,0,0,97410100,97410045
+2006,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Hanover",Hanover ,Switzerland,2,0,Korea Republic, ,43000.0,1,0,97410100,97410046
+2006,24 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Munich",Munich ,Germany,2,0,Sweden, ,66000.0,2,0,97410200,97410049
+2006,24 Jun 2006 - 21:00 ,Round of 16,Zentralstadion,Leipzig ,Argentina,2,1,Mexico,Argentina win after extra time ,43000.0,0,0,97410200,97410050
+2006,25 Jun 2006 - 17:00 ,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,England,1,0,Ecuador, ,52000.0,0,0,97410200,97410051
+2006,25 Jun 2006 - 21:00 ,Round of 16,Franken-Stadion,Nuremberg ,Portugal,1,0,Netherlands, ,41000.0,1,0,97410200,97410052
+2006,26 Jun 2006 - 17:00 ,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,0,Australia, ,46000.0,0,0,97410200,97410053
+2006,26 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3) ,45000.0,0,0,97410200,97410054
+2006,27 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3,0,Ghana, ,65000.0,2,0,97410200,97410055
+2006,27 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1,3,France, ,43000.0,1,1,97410200,97410056
+2006,30 Jun 2006 - 17:00 ,Quarter-finals,Olympiastadion,Berlin ,Germany,1,1,Argentina,Germany win on penalties (4 - 2) ,72000.0,0,0,97410300,97410057
+2006,30 Jun 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3,0,Ukraine, ,50000.0,1,0,97410300,97410058
+2006,01 Jul 2006 - 17:00 ,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0,0,Portugal,Portugal win on penalties (1 - 3) ,52000.0,0,0,97410300,97410059
+2006,01 Jul 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0,1,France, ,48000.0,0,0,97410300,97410060
+2006,04 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0,2,Italy,Italy win after extra time ,65000.0,0,0,97410400,97410061
+2006,05 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0,1,France, ,66000.0,0,1,97410400,97410062
+2006,08 Jul 2006 - 21:00 ,Third place,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3,1,Portugal, ,52000.0,0,0,97410500,97410063
+2006,09 Jul 2006 - 20:00 ,Final,Olympiastadion,Berlin ,Italy,1,1,France,Italy win on penalties (5 - 3) ,69000.0,0,0,97410600,97410064
+2010,11 Jun 2010 - 16:00 ,Group A,Soccer City Stadium,Johannesburg ,South Africa,1,1,Mexico, ,84490.0,0,0,249722,300061454
+2010,11 Jun 2010 - 20:30 ,Group A,Cape Town Stadium,Cape Town ,Uruguay,0,0,France, ,64100.0,0,0,249722,300061453
+2010,12 Jun 2010 - 13:30 ,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2,0,Greece, ,31513.0,1,0,249722,300061459
+2010,12 Jun 2010 - 16:00 ,Group B,Ellis Park Stadium,Johannesburg ,Argentina,1,0,Nigeria, ,55686.0,1,0,249722,300061460
+2010,12 Jun 2010 - 20:30 ,Group C,Royal Bafokeng Sports Palace,Phokeng ,England,1,1,USA, ,38646.0,1,1,249722,300061466
+2010,13 Jun 2010 - 13:30 ,Group C,Peter Mokaba Stadium,Polokwane ,Algeria,0,1,Slovenia, ,30325.0,0,0,249722,300061465
+2010,13 Jun 2010 - 16:00 ,Group D,Loftus Versfeld Stadium,Tshwane/Pretoria ,Serbia,0,1,Ghana, ,38833.0,0,0,249722,300061471
+2010,13 Jun 2010 - 20:30 ,Group D,Durban Stadium,Durban ,Germany,4,0,Australia, ,62660.0,2,0,249722,300111116
+2010,14 Jun 2010 - 13:30 ,Group E,Soccer City Stadium,Johannesburg ,Netherlands,2,0,Denmark, ,83465.0,0,0,249722,300061478
+2010,14 Jun 2010 - 16:00 ,Group E,Free State Stadium,Mangaung/Bloemfontein ,Japan,1,0,Cameroon, ,30620.0,1,0,249722,300061477
+2010,14 Jun 2010 - 20:30 ,Group F,Cape Town Stadium,Cape Town ,Italy,1,1,Paraguay, ,62869.0,0,1,249722,300061484
+2010,15 Jun 2010 - 13:30 ,Group F,Royal Bafokeng Sports Palace,Phokeng ,New Zealand,1,1,Slovakia, ,23871.0,0,0,249722,300061483
+2010,15 Jun 2010 - 16:00 ,Group G,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,C�te d'Ivoire,0,0,Portugal, ,37034.0,0,0,249722,300061489
+2010,15 Jun 2010 - 20:30 ,Group G,Ellis Park Stadium,Johannesburg ,Brazil,2,1,Korea DPR, ,54331.0,0,0,249722,300061490
+2010,16 Jun 2010 - 13:30 ,Group H,Mbombela Stadium,Nelspruit ,Honduras,0,1,Chile, ,32664.0,0,1,249722,300061495
+2010,16 Jun 2010 - 16:00 ,Group H,Durban Stadium,Durban ,Spain,0,1,Switzerland, ,62453.0,0,0,249722,300111112
+2010,16 Jun 2010 - 20:30 ,Group A,Loftus Versfeld Stadium,Tshwane/Pretoria ,South Africa,0,3,Uruguay, ,42658.0,0,1,249722,300061452
+2010,17 Jun 2010 - 13:30 ,Group B,Soccer City Stadium,Johannesburg ,Argentina,4,1,Korea Republic, ,82174.0,2,1,249722,300061458
+2010,17 Jun 2010 - 16:00 ,Group B,Free State Stadium,Mangaung/Bloemfontein ,Greece,2,1,Nigeria, ,31593.0,1,1,249722,300061457
+2010,17 Jun 2010 - 20:30 ,Group A,Peter Mokaba Stadium,Polokwane ,France,0,2,Mexico, ,35370.0,0,0,249722,300061451
+2010,18 Jun 2010 - 13:30 ,Group D,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Germany,0,1,Serbia, ,38294.0,0,1,249722,300061470
+2010,18 Jun 2010 - 16:00 ,Group C,Ellis Park Stadium,Johannesburg ,Slovenia,2,2,USA, ,45573.0,2,0,249722,300061463
+2010,18 Jun 2010 - 20:30 ,Group C,Cape Town Stadium,Cape Town ,England,0,0,Algeria, ,64100.0,0,0,249722,300061464
+2010,19 Jun 2010 - 13:30 ,Group E,Durban Stadium,Durban ,Netherlands,1,0,Japan, ,62010.0,0,0,249722,300111117
+2010,19 Jun 2010 - 16:00 ,Group D,Royal Bafokeng Sports Palace,Phokeng ,Ghana,1,1,Australia, ,34812.0,1,1,249722,300061469
+2010,19 Jun 2010 - 20:30 ,Group E,Loftus Versfeld Stadium,Tshwane/Pretoria ,Cameroon,1,2,Denmark, ,38074.0,1,1,249722,300061475
+2010,20 Jun 2010 - 13:30 ,Group F,Free State Stadium,Mangaung/Bloemfontein ,Slovakia,0,2,Paraguay, ,26643.0,0,1,249722,300061481
+2010,20 Jun 2010 - 16:00 ,Group F,Mbombela Stadium,Nelspruit ,Italy,1,1,New Zealand, ,38229.0,1,1,249722,300061482
+2010,20 Jun 2010 - 20:30 ,Group G,Soccer City Stadium,Johannesburg ,Brazil,3,1,C�te d'Ivoire, ,84455.0,1,0,249722,300061488
+2010,21 Jun 2010 - 13:30 ,Group G,Cape Town Stadium,Cape Town ,Portugal,7,0,Korea DPR, ,63644.0,1,0,249722,300061487
+2010,21 Jun 2010 - 16:00 ,Group H,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Chile,1,0,Switzerland, ,34872.0,0,0,249722,300061493
+2010,21 Jun 2010 - 20:30 ,Group H,Ellis Park Stadium,Johannesburg ,Spain,2,0,Honduras, ,54386.0,1,0,249722,300061494
+2010,22 Jun 2010 - 16:00 ,Group A,Royal Bafokeng Sports Palace,Phokeng ,Mexico,0,1,Uruguay, ,33425.0,0,1,249722,300061450
+2010,22 Jun 2010 - 16:00 ,Group A,Free State Stadium,Mangaung/Bloemfontein ,France,1,2,South Africa, ,39415.0,0,2,249722,300061449
+2010,22 Jun 2010 - 20:30 ,Group B,Durban Stadium,Durban ,Nigeria,2,2,Korea Republic, ,61874.0,1,1,249722,300111115
+2010,22 Jun 2010 - 20:30 ,Group B,Peter Mokaba Stadium,Polokwane ,Greece,0,2,Argentina, ,38891.0,0,0,249722,300061455
+2010,23 Jun 2010 - 16:00 ,Group C,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0,1,England, ,36893.0,0,1,249722,300061462
+2010,23 Jun 2010 - 16:00 ,Group C,Loftus Versfeld Stadium,Tshwane/Pretoria ,USA,1,0,Algeria, ,35827.0,0,0,249722,300061461
+2010,23 Jun 2010 - 20:30 ,Group D,Soccer City Stadium,Johannesburg ,Ghana,0,1,Germany, ,83391.0,0,0,249722,300061468
+2010,23 Jun 2010 - 20:30 ,Group D,Mbombela Stadium,Nelspruit ,Australia,2,1,Serbia, ,37836.0,0,0,249722,300061467
+2010,24 Jun 2010 - 16:00 ,Group F,Ellis Park Stadium,Johannesburg ,Slovakia,3,2,Italy, ,53412.0,1,0,249722,300061480
+2010,24 Jun 2010 - 16:00 ,Group F,Peter Mokaba Stadium,Polokwane ,Paraguay,0,0,New Zealand, ,34850.0,0,0,249722,300061479
+2010,24 Jun 2010 - 20:30 ,Group E,Royal Bafokeng Sports Palace,Phokeng ,Denmark,1,3,Japan, ,27967.0,0,2,249722,300061474
+2010,24 Jun 2010 - 20:30 ,Group E,Cape Town Stadium,Cape Town ,Cameroon,1,2,Netherlands, ,63093.0,0,1,249722,300061473
+2010,25 Jun 2010 - 16:00 ,Group G,Durban Stadium,Durban ,Portugal,0,0,Brazil, ,62712.0,0,0,249722,300111111
+2010,25 Jun 2010 - 16:00 ,Group G,Mbombela Stadium,Nelspruit ,Korea DPR,0,3,C�te d'Ivoire, ,34763.0,0,2,249722,300061486
+2010,25 Jun 2010 - 20:30 ,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1,2,Spain, ,41958.0,0,2,249722,300061491
+2010,25 Jun 2010 - 20:30 ,Group H,Free State Stadium,Mangaung/Bloemfontein ,Switzerland,0,0,Honduras, ,28042.0,0,0,249722,300061492
+2010,26 Jun 2010 - 16:00 ,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,1,Korea Republic, ,30597.0,1,0,249717,300061504
+2010,26 Jun 2010 - 20:30 ,Round of 16,Royal Bafokeng Sports Palace,Phokeng ,USA,1,2,Ghana,Ghana win after extra time ,34976.0,0,0,249717,300061503
+2010,27 Jun 2010 - 16:00 ,Round of 16,Free State Stadium,Mangaung/Bloemfontein ,Germany,4,1,England, ,40510.0,2,1,249717,300061501
+2010,27 Jun 2010 - 20:30 ,Round of 16,Soccer City Stadium,Johannesburg ,Argentina,3,1,Mexico, ,84377.0,2,0,249717,300061502
+2010,28 Jun 2010 - 16:00 ,Round of 16,Durban Stadium,Durban ,Netherlands,2,1,Slovakia, ,61962.0,1,0,249717,300111113
+2010,28 Jun 2010 - 20:30 ,Round of 16,Ellis Park Stadium,Johannesburg ,Brazil,3,0,Chile, ,54096.0,2,0,249717,300061500
+2010,29 Jun 2010 - 16:00 ,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3) ,36742.0,0,0,249717,300061497
+2010,29 Jun 2010 - 20:30 ,Round of 16,Cape Town Stadium,Cape Town ,Spain,1,0,Portugal, ,62955.0,0,0,249717,300061498
+2010,02 Jul 2010 - 16:00 ,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2,1,Brazil, ,40186.0,0,1,249718,300061507
+2010,02 Jul 2010 - 20:30 ,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2) ,84017.0,0,0,249718,300061508
+2010,03 Jul 2010 - 16:00 ,Quarter-finals,Cape Town Stadium,Cape Town ,Argentina,0,4,Germany, ,64100.0,0,1,249718,300061505
+2010,03 Jul 2010 - 20:30 ,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0,1,Spain, ,55359.0,0,0,249718,300061506
+2010,06 Jul 2010 - 20:30 ,Semi-finals,Cape Town Stadium,Cape Town ,Uruguay,2,3,Netherlands, ,62479.0,1,1,249719,300061512
+2010,07 Jul 2010 - 20:30 ,Semi-finals,Durban Stadium,Durban ,Germany,0,1,Spain, ,60960.0,0,0,249719,300111114
+2010,10 Jul 2010 - 20:30 ,Match for third place,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,3,Germany, ,36254.0,1,1,249720,300061510
+2010,11 Jul 2010 - 20:30 ,Final,Soccer City Stadium,Johannesburg ,Netherlands,0,1,Spain,Spain win after extra time ,84490.0,0,0,249721,300061509
+2014,12 Jun 2014 - 17:00 ,Group A,Arena de Sao Paulo,Sao Paulo ,Brazil,3,1,Croatia, ,62103.0,1,1,255931,300186456
+2014,13 Jun 2014 - 13:00 ,Group A,Estadio das Dunas,Natal ,Mexico,1,0,Cameroon, ,39216.0,0,0,255931,300186492
+2014,13 Jun 2014 - 16:00 ,Group B,Arena Fonte Nova,Salvador ,Spain,1,5,Netherlands, ,48173.0,1,1,255931,300186510
+2014,13 Jun 2014 - 18:00 ,Group B,Arena Pantanal,Cuiaba ,Chile,3,1,Australia, ,40275.0,2,1,255931,300186473
+2014,14 Jun 2014 - 13:00 ,Group C,Estadio Mineirao,Belo Horizonte ,Colombia,3,0,Greece, ,57174.0,1,0,255931,300186471
+2014,14 Jun 2014 - 16:00 ,Group D,Estadio Castelao,Fortaleza ,Uruguay,1,3,Costa Rica, ,58679.0,1,0,255931,300186489
+2014,14 Jun 2014 - 18:00 ,Group D,Arena Amazonia,Manaus ,England,1,2,Italy, ,39800.0,1,1,255931,300186513
+2014,14 Jun 2014 - 22:00 ,Group C,Arena Pernambuco,Recife ,C�te d'Ivoire,2,1,Japan, ,40267.0,0,1,255931,300186507
+2014,15 Jun 2014 - 13:00 ,Group E,Estadio Nacional,Brasilia ,Switzerland,2,1,Ecuador, ,68351.0,0,1,255931,300186494
+2014,15 Jun 2014 - 16:00 ,Group E,Estadio Beira-Rio,Porto Alegre ,France,3,0,Honduras, ,43012.0,1,0,255931,300186496
+2014,15 Jun 2014 - 19:00 ,Group F,Estadio do Maracana,Rio De Janeiro ,Argentina,2,1,"rn"">Bosnia and Herzegovina", ,74738.0,1,0,255931,300186477
+2014,16 Jun 2014 - 13:00 ,Group G,Arena Fonte Nova,Salvador ,Germany,4,0,Portugal, ,51081.0,3,0,255931,300186475
+2014,16 Jun 2014 - 16:00 ,Group F,Arena da Baixada,Curitiba ,IR Iran,0,0,Nigeria, ,39081.0,0,0,255931,300186505
+2014,16 Jun 2014 - 19:00 ,Group G,Estadio das Dunas,Natal ,Ghana,1,2,USA, ,39760.0,0,1,255931,300186512
+2014,17 Jun 2014 - 13:00 ,Group H,Estadio Mineirao,Belo Horizonte ,Belgium,2,1,Algeria, ,56800.0,0,1,255931,300186479
+2014,17 Jun 2014 - 16:00 ,Group A,Estadio Castelao,Fortaleza ,Brazil,0,0,Mexico, ,60342.0,0,0,255931,300186509
+2014,17 Jun 2014 - 18:00 ,Group H,Arena Pantanal,Cuiaba ,Russia,1,1,Korea Republic, ,37603.0,0,0,255931,300186499
+2014,18 Jun 2014 - 13:00 ,Group B,Estadio Beira-Rio,Porto Alegre ,Australia,2,3,Netherlands, ,42877.0,1,1,255931,300186478
+2014,18 Jun 2014 - 16:00 ,Group B,Estadio do Maracana,Rio De Janeiro ,Spain,0,2,Chile, ,74101.0,0,2,255931,300186498
+2014,18 Jun 2014 - 18:00 ,Group A,Arena Amazonia,Manaus ,Cameroon,0,4,Croatia, ,39982.0,0,1,255931,300186453
+2014,19 Jun 2014 - 13:00 ,Group C,Estadio Nacional,Brasilia ,Colombia,2,1,C�te d'Ivoire, ,68748.0,0,0,255931,300186468
+2014,19 Jun 2014 - 16:00 ,Group D,Arena de Sao Paulo,Sao Paulo ,Uruguay,2,1,England, ,62575.0,1,0,255931,300186486
+2014,19 Jun 2014 - 19:00 ,Group C,Estadio das Dunas,Natal ,Japan,0,0,Greece, ,39485.0,0,0,255931,300186454
+2014,20 Jun 2014 - 13:00 ,Group D,Arena Pernambuco,Recife ,Italy,0,1,Costa Rica, ,40285.0,0,1,255931,300186500
+2014,20 Jun 2014 - 16:00 ,Group E,Arena Fonte Nova,Salvador ,Switzerland,2,5,France, ,51003.0,0,3,255931,300186514
+2014,20 Jun 2014 - 19:00 ,Group E,Arena da Baixada,Curitiba ,Honduras,1,2,Ecuador, ,39224.0,1,1,255931,300186463
+2014,21 Jun 2014 - 13:00 ,Group F,Estadio Mineirao,Belo Horizonte ,Argentina,1,0,IR Iran, ,57698.0,0,0,255931,300186466
+2014,21 Jun 2014 - 16:00 ,Group G,Estadio Castelao,Fortaleza ,Germany,2,2,Ghana, ,59621.0,0,0,255931,300186493
+2014,21 Jun 2014 - 18:00 ,Group F,Arena Pantanal,Cuiaba ,Nigeria,1,0,"rn"">Bosnia and Herzegovina", ,40499.0,1,0,255931,300186511
+2014,22 Jun 2014 - 13:00 ,Group H,Estadio do Maracana,Rio De Janeiro ,Belgium,1,0,Russia, ,73819.0,0,0,255931,300186481
+2014,22 Jun 2014 - 16:00 ,Group H,Estadio Beira-Rio,Porto Alegre ,Korea Republic,2,4,Algeria, ,42732.0,0,3,255931,300186495
+2014,22 Jun 2014 - 18:00 ,Group G,Arena Amazonia,Manaus ,USA,2,2,Portugal, ,40123.0,0,1,255931,300186483
+2014,23 Jun 2014 - 13:00 ,Group B,Arena da Baixada,Curitiba ,Australia,0,3,Spain, ,39375.0,0,1,255931,300186467
+2014,23 Jun 2014 - 13:00 ,Group B,Arena de Sao Paulo,Sao Paulo ,Netherlands,2,0,Chile, ,62996.0,0,0,255931,300186470
+2014,23 Jun 2014 - 17:00 ,Group A,Estadio Nacional,Brasilia ,Cameroon,1,4,Brazil, ,69112.0,1,2,255931,300186472
+2014,23 Jun 2014 - 17:00 ,Group A,Arena Pernambuco,Recife ,Croatia,1,3,Mexico, ,41212.0,0,0,255931,300186452
+2014,24 Jun 2014 - 13:00 ,Group D,Estadio das Dunas,Natal ,Italy,0,1,Uruguay, ,39706.0,0,0,255931,300186465
+2014,24 Jun 2014 - 13:00 ,Group D,Estadio Mineirao,Belo Horizonte ,Costa Rica,0,0,England, ,57823.0,0,0,255931,300186484
+2014,24 Jun 2014 - 16:00 ,Group C,Arena Pantanal,Cuiaba ,Japan,1,4,Colombia, ,40340.0,1,1,255931,300186457
+2014,24 Jun 2014 - 17:00 ,Group C,Estadio Castelao,Fortaleza ,Greece,2,1,C�te d'Ivoire, ,59095.0,1,0,255931,300186455
+2014,25 Jun 2014 - 13:00 ,Group F,Estadio Beira-Rio,Porto Alegre ,Nigeria,2,3,Argentina, ,43285.0,1,2,255931,300186458
+2014,25 Jun 2014 - 13:00 ,Group F,Arena Fonte Nova,Salvador ,"rn"">Bosnia and Herzegovina",3,1,IR Iran, ,48011.0,1,0,255931,300186464
+2014,25 Jun 2014 - 16:00 ,Group E,Arena Amazonia,Manaus ,Honduras,0,3,Switzerland, ,40322.0,0,2,255931,300186482
+2014,25 Jun 2014 - 17:00 ,Group E,Estadio do Maracana,Rio De Janeiro ,Ecuador,0,0,France, ,73749.0,0,0,255931,300186515
+2014,26 Jun 2014 - 13:00 ,Group G,Arena Pernambuco,Recife ,USA,0,1,Germany, ,41876.0,0,0,255931,300186469
+2014,26 Jun 2014 - 13:00 ,Group G,Estadio Nacional,Brasilia ,Portugal,2,1,Ghana, ,67540.0,1,0,255931,300186476
+2014,26 Jun 2014 - 17:00 ,Group H,Arena de Sao Paulo,Sao Paulo ,Korea Republic,0,1,Belgium, ,61397.0,0,0,255931,300186480
+2014,26 Jun 2014 - 17:00 ,Group H,Arena da Baixada,Curitiba ,Algeria,1,1,Russia, ,39311.0,0,1,255931,300186506
+2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,57714.0,0,0,255951,300186487
+2014,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay, ,73804.0,1,0,255951,300186491
+2014,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2,0,Nigeria, ,67882.0,0,0,255951,300186462
+2014,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,Germany win after extra time ,,0,0,255951,300186460
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia, ,60342.0,1,0,255953,300186461
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany, ,74240.0,0,1,255953,300186485
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany, ,58141.0,0,5,255955,300186474
+2014,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands, ,68034.0,0,2,255957,300186502
+2014,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,Germany win after extra time ,74738.0,0,0,255959,300186501
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,0,0,255955,300186490
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,0,0,255953,300186488
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium, ,68551.0,1,0,255953,300186504
+2014,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico, ,58817.0,0,0,255951,300186508
+2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,0,0,255951,300186459
+2014,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,Argentina win after extra time ,63255.0,0,0,255951,300186503
+2014,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,Belgium win after extra time ,51227.0,0,0,255951,300186497
+2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,57714.0,0,0,255951,300186487
+2014,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay, ,73804.0,1,0,255951,300186491
+2014,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico, ,58817.0,0,0,255951,300186508
+2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,0,0,255951,300186459
+2014,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2,0,Nigeria, ,67882.0,0,0,255951,300186462
+2014,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,Germany win after extra time ,,0,0,255951,300186460
+2014,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,Argentina win after extra time ,63255.0,0,0,255951,300186503
+2014,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,Belgium win after extra time ,51227.0,0,0,255951,300186497
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany, ,74240.0,0,1,255953,300186485
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia, ,60342.0,1,0,255953,300186461
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium, ,68551.0,1,0,255953,300186504
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,0,0,255953,300186488
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany, ,58141.0,0,5,255955,300186474
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,0,0,255955,300186490
+2014,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands, ,68034.0,0,2,255957,300186502
+2014,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,Germany win after extra time ,74738.0,0,0,255959,300186501

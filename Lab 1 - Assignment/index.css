@@ -1,0 +1,149 @@
+/* Enhanced style for the menu bar */
+#menuBar {
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #4CAF50; 
+    color: white; /* Text color */
+    border-bottom: 2px solid #388E3C; 
+}
+
+/* Improved style for the dropdown menu */
+#columnDropdown, #variable2Dropdown {
+    padding: 5px;
+    border: 2px solid #388E3C; 
+    border-radius: 5px;
+    background-color: #A5D6A7; 
+    color: #005005; 
+    cursor: pointer; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+/* Updated style for the toggle switch group */
+.toggle-switch-group {
+    display: flex;
+    align-items: center;
+    color: #FFF; 
+}
+
+/* Refined style for the toggle switch */
+.toggle-switch {
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    position: relative;
+    margin-left: 10px; 
+}
+
+.toggle-switch input[type="checkbox"] {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #CCC; 
+    transition: .4s;
+    border-radius: 34px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4); 
+}
+
+.toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+input[type="checkbox"]:checked + .toggle-slider {
+    background-color: #81C784; 
+}
+
+input[type="checkbox"]:checked + .toggle-slider:before {
+    transform: translateX(26px);
+}
+
+/* Style for the bar chart bars and histogram bins */
+.bar {
+    fill: #16a085; 
+}
+
+/* Style for the axis and text */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #7f8c8d; 
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    fill: #34495e; 
+}
+
+/* Style for the axis titles */
+.axis-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    fill: #34495e; 
+    font-weight: bold;
+}
+
+/* Style for the chart title */
+.chart-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    fill: #34495e; 
+    font-weight: bold;
+}
+
+/* Additional styles for ticks and gridlines, if needed */
+.tick line {
+    opacity: 0.2; 
+}
+
+.grid line {
+    stroke: #ecf0f1; 
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+.grid path {
+    stroke-width: 0; 
+}
+
+/* Style for tooltip, if used */
+.tooltip {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    color: #333;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2); 
+}
+
+/* Style for scatterplot points, if used */
+.dot {
+    fill: #00b200; 
+}
+
+/* Hover style for scatterplot points, if interactivity is added */
+.dot:hover {
+    fill: #c0392b;
+}

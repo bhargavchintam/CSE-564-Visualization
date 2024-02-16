@@ -1,0 +1,545 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials
+1982,13 Jun 1982 - 20:00 ,Group 3,Camp Nou,Barcelona ,Argentina,0,1,Belgium, ,95000.0,0,0,C Vojtech (TCH),P Karoly (HUN),J Alojzy (POL),293,749,ARG,BEL
+1982,14 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,0,0,Poland, ,33000.0,0,0,L Tullio (ITA),T Ernesto (ARG),A Evzen (CZE),293,995,ITA,POL
+1982,14 Jun 1982 - 21:00 ,Group 6,Ramon Sanchez Pizjuan,Seville ,Brazil,2,1,Soviet Union, ,68000.0,0,1,LC Augusto (ESP),SA Victoriano (ESP),GCJ L. (ESP),293,791,BRA,URS
+1982,15 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Peru,0,0,Cameroon, ,11000.0,0,0,W Franz (AUT),R Nicolae (ROU),P Adolf (GDR),293,833,PER,CMR
+1982,15 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Hungary,10,1,El Salvador, ,23000.0,3,0,M Markus (GER),V Michel (FRA),P Alexis (BEL),293,896,HUN,SLV
+1982,15 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Scotland,5,2,New Zealand, ,36000.0,3,0,NK Milton (DEN),I Rafael (UZB),B Christopher (AUS),293,1051,SCO,NZL
+1982,16 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1,2,Algeria, ,42000.0,0,0,LR Enrique (PER),AM Gilberto (COL),C Paolo (ITA),293,741,FRG,ALG
+1982,16 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,3,1,France, ,44172.0,1,1,P Alexis (BEL),A Taoufik (TUN),Z Juan (SLV),293,878,ENG,FRA
+1982,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1,1,Honduras, ,49562.0,0,1,IA Andres (ARG),D Bogdan (BUL),B Luis (BOL),293,901,ESP,HON
+1982,17 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Chile,0,1,Austria, ,22500.0,0,1,B Carlos (GUA),D Dramane (MLI),B Martin (SVK),293,764,CHI,AUT
+1982,17 Jun 1982 - 17:45 ,Group 4,Jose Zorrilla,Valladolid ,Czechoslovakia,1,1,Kuwait, ,25000.0,1,0,D Benjamin (GHA),MM Romulo (GUA),V Robert (SCO),293,1012,TCH,KUW
+1982,17 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Yugoslavia,0,0,Northern Ireland, ,25000.0,0,0,K COULIBALY (MLI),E Walter (GER),R Claudio (ARG),293,1044,YUG,NIR
+1982,18 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1,1,Peru, ,25000.0,1,0,E Walter (GER),RV Mario (MEX),K Abraham (ISR),293,994,ITA,PER
+1982,18 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,4,1,Hungary, ,32093.0,2,0,C Pierluigi (ITA),D Gordon (AUS),B Martin (SVK),293,752,ARG,HUN
+1982,18 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4,1,Scotland, ,47379.0,1,1,CDSV Juan (URU),H Altemir (BRA),D Yuri (BLR),293,790,BRA,SCO
+1982,19 Jun 1982 - 19:15 ,Group 1,Riazor,La Coru�A ,Poland,0,0,Cameroon, ,19000.0,0,0,P Alexis (BEL),E Walter (GER),RV Mario (MEX),293,834,POL,CMR
+1982,19 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1,0,El Salvador, ,15000.0,1,0,C Pierluigi (ITA),D Bahattin (TUR),T Marvin (MEX),293,774,BEL,SLV
+1982,19 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,3,0,New Zealand, ,19000.0,1,0,T Idrissa (MLI),M Gennaro (ITA),S Ferenc (HUN),293,1054,URS,NZL
+1982,20 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,4,1,Chile, ,42000.0,1,0,G Bruno (SUI),C Vojtech (TCH),B Tony (AUS),293,813,FRG,CHI
+1982,20 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,2,0,Czechoslovakia, ,41123.0,0,0,CDSV Juan (URU),C Matthew (AUS),GR Gabriel (PAR),293,889,ENG,TCH
+1982,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2,1,Yugoslavia, ,48000.0,1,1,AS Jamal (SYR),G Nikolai (RUS),P Mike (GER),293,903,ESP,YUG
+1982,21 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,0,2,Austria, ,22000.0,0,0,B Tony (AUS),C Vojtech (TCH),AD Ebrahim (BHR),293,739,ALG,AUT
+1982,21 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,4,1,Kuwait, ,30043.0,2,0,DP Jesus (COL),V Hector (CAN),C George (ENG),293,919,FRA,KUW
+1982,21 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,1,1,Northern Ireland, ,15000.0,0,1,L Tullio (ITA),Z Venancio (PAR),AGY Abdulla (BAH),293,959,HON,NIR
+1982,22 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Poland,5,1,Peru, ,25000.0,0,0,N Yuichi (JPN),C Cristiano (ITA),V Robert (SCO),293,1055,POL,PER
+1982,22 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1,1,Hungary, ,37000.0,0,1,CM Edgardo (MEX),R Jose (MEX),K Bakhadyr (KGZ),293,779,BEL,HUN
+1982,22 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,2,2,Scotland, ,45000.0,0,1,R Nicolae (ROU),J Alojzy (POL),P Alexis (BEL),293,1071,URS,SCO
+1982,23 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1,1,Cameroon, ,20000.0,0,0,E Horacio (ARG),M Carlos (POR),L Carlo (ITA),293,828,ITA,CMR
+1982,23 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,2,0,El Salvador, ,32500.0,1,0,E Horacio (ARG),T Marvin (MEX),A Frederic (FRA),293,751,ARG,SLV
+1982,23 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4,0,New Zealand, ,43000.0,2,0,M Markus (GER),P Arnaldo (BRA),MH Pedro (ESP),293,789,BRA,NZL
+1982,24 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,3,2,Chile, ,16000.0,3,0,SA Hernan (CHI),AM Mohamed (OMA),P Karoly (HUN),293,740,ALG,CHI
+1982,24 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,1,1,Czechoslovakia, ,28000.0,0,0,L Edward (AUS),W Maciej (POL),K Siegfried (GER),293,922,FRA,TCH
+1982,24 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,0,1,Yugoslavia, ,25000.0,0,0,V Robert (SCO),CM Edgardo (MEX),C Arnaldo (BRA),293,962,HON,YUG
+1982,25 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1,0,Austria, ,41000.0,1,0,V Robert (SCO),AD Ebrahim (BHR),C Arnaldo (BRA),293,770,FRG,AUT
+1982,25 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,1,0,Kuwait, ,39700.0,1,0,AM Gilberto (COL),L Henning (DEN),GCJ L. (ESP),293,882,ENG,KUW
+1982,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1,0,Spain, ,49562.0,0,0,R Volker (GER),REJ Mohamed (MAR),A Frederic (FRA),293,902,NIR,ESP
+1982,28 Jun 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,0,1,France, ,37000.0,0,1,R Nicolae (ROU),Z Emanuel (MLT),D Yuri (BLR),294,767,AUT,FRA
+1982,28 Jun 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,3,0,Belgium, ,65000.0,2,0,SJ Paulino (CRC),LR Enrique (PER),C Gaston (CHI),294,782,POL,BEL
+1982,29 Jun 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,2,1,Argentina, ,43000.0,0,0,C Pierluigi (ITA),ASF Khuzam (KSA),T Glenn (ENG),294,753,ITA,ARG
+1982,29 Jun 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,0,0,England, ,75000.0,0,0,B Tony (AUS),SA Victoriano (ESP),M Luc (BEL),294,879,FRG,ENG
+1982,01 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,2,2,Northern Ireland, ,20000.0,0,1,AS Jamal (SYR),RV Mario (MEX),V Robert (SCO),294,771,AUT,NIR
+1982,01 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Belgium,0,1,Soviet Union, ,45000.0,0,0,G Bruno (SUI),L Leonel (CRC),C Arnaldo (BRA),294,783,BEL,URS
+1982,02 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Argentina,1,3,Brazil, ,44000.0,0,1,W Jan (NED),F Lencie (VAN),M Tevita (TGA),294,750,ARG,BRA
+1982,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,2,1,Spain, ,90089.0,0,0,C Paolo (ITA),W Franz (AUT),P Karoly (HUN),294,900,FRG,ESP
+1982,04 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,France,4,1,Northern Ireland, ,37000.0,1,0,N Lajos (HUN),GC Victoriano (ESP),SVC Alberto (POR),294,920,FRA,NIR
+1982,04 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,0,0,Soviet Union, ,65000.0,0,0,I Ioan (ROU),G Bruno (SUI),ASF Khuzam (KSA),294,1058,POL,URS
+1982,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3,2,Brazil, ,44000.0,2,1,K Viktor (HUN),A Matthias (SUI),L Michal (POL),294,788,ITA,BRA
+1982,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0,0,England, ,75000.0,0,0,SJ Paulino (CRC),C Matthew (AUS),UM Berny (CRC),294,877,ESP,ENG
+1982,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0,2,Italy, ,50000.0,0,1,CDSV Juan (URU),S David (USA),AM Gilberto (COL),295,996,POL,ITA
+1982,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany FR,3,3,France, win on penalties (5 - 4) ,70000.0,0,0,C Charles (NED),G Bruno (SUI),V Robert (SCO),295,914,FRG,FRA
+1982,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3,2,France, ,28000.0,2,1,H Michael (NZL),C Cristiano (ITA),ASF Khuzam (KSA),676,921,POL,FRA
+1982,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3,1,Germany FR, ,90000.0,0,0,L Jorge (URU),Q Joel (FRA),A Frederic (FRA),3475,923,ITA,FRG
+1986,31 May 1986 - 12:00 ,Group A,Estadio Azteca,Mexico City ,Bulgaria,1,1,Italy, ,96000.0,0,1,F Erik (SWE),CM Edgardo (MEX),R Volker (GER),308,459,BUL,ITA
+1986,01 Jun 1986 - 16:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Canada,0,1,France, ,65500.0,0,0,SA Hernan (CHI),MM Romulo (GUA),UM Berny (CRC),308,468,CAN,FRA
+1986,01 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Spain,0,1,Brazil, ,35748.0,0,0,MC Luis (ESP),SV ROEKEL (NED),A STEFANI (ITA),308,439,ESP,BRA
+1986,02 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Soviet Union,6,0,Hungary, ,16500.0,3,0,D Philip (ENG),C Vojtech (TCH),O Tarik (TUR),308,610,URS,HUN
+1986,02 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,3,1,Korea Republic, ,60000.0,2,0,B Valeri (RUS),R Kurt (SUI),O Rodolfo (ARG),308,395,ARG,KOR
+1986,02 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Morocco,0,0,Poland, ,19900.0,0,0,N Lajos (HUN),F Mohammad (IRN),T Ernesto (ARG),308,674,MAR,POL
+1986,03 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Algeria,1,1,Northern Ireland, ,22000.0,0,1,B Valeri (RUS),D Andre (SUI),P Zoran (SRB),308,379,ALG,NIR
+1986,03 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Belgium,1,2,Mexico, ,110000.0,1,2,MC Luis (ESP),G Hussain (KUW),N Lajos (HUN),308,428,BEL,MEX
+1986,03 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,Portugal,1,0,England, ,23000.0,0,0,R Volker (GER),D Bogdan (BUL),AS Jamal (SYR),308,538,POR,ENG
+1986,04 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,1,0,Iraq, ,24000.0,1,0,R Marcio (BRA),SA Emilio (ESP),V Evgueni (RUS),308,628,PAR,IRQ
+1986,04 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0,1,Denmark, ,18000.0,0,0,N Lajos (HUN),K Siegfried (GER),ASF Khuzam (KSA),308,517,SCO,DEN
+1986,04 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Uruguay,1,1,Germany FR, ,30500.0,1,0,TN Alberto (PER),R FAVERANI (ITA),Z Emanuel (MLT),308,585,URU,FRG
+1986,05 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Italy,1,1,Argentina, ,32000.0,1,1,P Graham (ENG),AH Halim (MAS),C George (ENG),308,394,ITA,ARG
+1986,05 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,France,1,1,Soviet Union, ,36540.0,0,0,LKCA Yan (MRI),C Paolo (ITA),O Rodolfo (ARG),308,571,FRA,URS
+1986,05 Jun 1986 - 16:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Korea Republic,1,1,Bulgaria, ,45000.0,0,1,NK Milton (DEN),T William (SLV),O Tarik (TUR),308,460,KOR,BUL
+1986,06 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Hungary,2,0,Canada, ,13800.0,1,0,AS Jamal (SYR),P Zoran (SRB),B Christopher (AUS),308,475,HUN,CAN
+1986,06 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Brazil,1,0,Algeria, ,48000.0,0,0,F Erik (SWE),P Zoran (SRB),AM Gilberto (COL),308,377,BRA,ALG
+1986,06 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,0,0,Morocco, ,20200.0,0,0,L Edward (AUS),F Pablo (URU),V Hector (CAN),308,533,ENG,MAR
+1986,07 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Northern Ireland,1,2,Spain, ,28000.0,0,2,B Horst (AUT),A Luigi (ITA),N Lajos (HUN),308,551,NIR,ESP
+1986,07 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Mexico,1,1,Paraguay, ,114600.0,1,0,A Benito (MEX),G Hussain (KUW),T Marvin (MEX),308,680,MEX,PAR
+1986,07 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Poland,1,0,Portugal, ,19915.0,0,0,SA Hernan (CHI),M Peter (DEN),B Roberto (BRA),308,701,POL,POR
+1986,08 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Iraq,1,2,Belgium, ,20000.0,0,2,TN Alberto (PER),GC Victoriano (ESP),GR Gabriel (PAR),308,427,IRQ,BEL
+1986,08 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Denmark,6,1,Uruguay, ,26500.0,2,1,MR Antonio (MEX),K Jan (NED),AF Romualdo (BRA),308,522,DEN,URU
+1986,08 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Germany FR,2,1,Scotland, ,30000.0,1,1,I Ioan (ROU),D Bogdan (BUL),S Alan (NIR),308,580,FRG,SCO
+1986,09 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Hungary,0,3,France, ,31420.0,0,1,TN Alberto (PER),A Redouane (MAR),AM Saleh (UAE),308,567,HUN,FRA
+1986,09 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Soviet Union,2,0,Canada, ,14200.0,0,0,T Idrissa (MLI),ASF Khuzam (KSA),GR Gabriel (PAR),308,476,URS,CAN
+1986,10 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Korea Republic,2,3,Italy, ,20000.0,0,1,CDSV Juan (URU),B Christopher (AUS),SA Hernan (CHI),308,643,KOR,ITA
+1986,10 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,2,0,Bulgaria, ,65000.0,1,0,P Sandor (HUN),N Celestin (RWA),B Roberto (BRA),308,389,ARG,BUL
+1986,11 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,2,2,Belgium, ,16000.0,0,1,D Bogdan (BUL),B Ali (TUN),SA Hernan (CHI),308,429,PAR,BEL
+1986,11 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Iraq,0,1,Mexico, ,103763.0,0,0,MC Luis (ESP),D Bogdan (BUL),C Gaston (CHI),308,627,IRQ,MEX
+1986,11 Jun 1986 - 16:00 ,Group F,Tres de Marzo,Guadalajara ,Portugal,1,3,Morocco, ,28000.0,0,2,N Lajos (HUN),S Jan-Hendrik (GER),AM Gilberto (COL),308,675,POR,MAR
+1986,11 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,3,0,Poland, ,22700.0,3,0,F Erik (SWE),S Alan (NIR),P Hae-Yong (KOR),308,537,ENG,POL
+1986,12 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Northern Ireland,0,3,Brazil, ,51000.0,0,2,AG Khalil (KSA),M Heiner (GER),T Glenn (ENG),308,441,NIR,BRA
+1986,12 Jun 1986 - 12:00 ,Group D,Tecnologico,Monterrey ,Algeria,0,3,Spain, ,23980.0,0,1,A Luigi (ITA),P Zoran (SRB),AGY Abdulla (BAH),308,378,ALG,ESP
+1986,13 Jun 1986 - 12:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0,0,Uruguay, ,20000.0,0,0,D Mourad (TUN),L Leonel (CRC),G Nicolae (ROU),308,712,SCO,URU
+1986,13 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Denmark,2,0,Germany FR, ,36000.0,1,0,P Alexis (BEL),B Christopher (AUS),F Erik (SWE),308,512,DEN,FRG
+1986,15 Jun 1986 - 16:00 ,Round of 16,Nou Camp - Estadio Le�n,Leon ,Soviet Union,3,4,Belgium,Belgium win after extra time ,32277.0,0,0,P Graham (ENG),CDSV Juan (URU),AH Halim (MAS),309,432,URS,BEL
+1986,15 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,Mexico,2,0,Bulgaria, ,114580.0,1,0,EG Gamal (EGY),C Ricardo (ARG),A STEFANI (ITA),309,463,MEX,BUL
+1986,16 Jun 1986 - 16:00 ,Round of 16,Cuauhtemoc,Puebla ,Argentina,1,0,Uruguay, ,26000.0,1,0,A Luigi (ITA),C George (ENG),SVC Alberto (POR),309,398,ARG,URU
+1986,16 Jun 1986 - 12:00 ,Round of 16,Jalisco,Guadalajara ,Brazil,4,0,Poland, ,45000.0,1,0,AS Jamal (SYR),O Jorge (BRA),SA Hernan (CHI),309,444,BRA,POL
+1986,17 Jun 1986 - 12:00 ,Round of 16,Estadio Ol�mpico Universitario,Mexico City ,Italy,0,2,France, ,70000.0,0,1,C Charles (NED),S Alan (NIR),C Paolo (ITA),309,568,ITA,FRA
+1986,17 Jun 1986 - 16:00 ,Round of 16,Estadio Universitario,Monterrey ,Morocco,0,1,Germany FR, ,19800.0,0,0,P Alexis (BEL),TZ Luis (CRC),V Tibor (HUN),309,574,MAR,FRG
+1986,18 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,England,3,0,Paraguay, ,98728.0,1,0,AS Jamal (SYR),P Alexis (BEL),ASF Khuzam (KSA),309,536,ENG,PAR
+1986,18 Jun 1986 - 16:00 ,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1,5,Spain, ,38500.0,1,1,A Luigi (ITA),S Toru (JPN),Y Juan (ESP),309,511,DEN,ESP
+1986,21 Jun 1986 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,1,1,France,France win on penalties (3 - 4) ,65000.0,0,0,I Ioan (ROU),N Lajos (HUN),C Vojtech (TCH),714,440,BRA,FRA
+1986,21 Jun 1986 - 16:00 ,Quarter-finals,Estadio Universitario,Monterrey ,Germany FR,0,0,Mexico,Germany FR win on penalties (4 - 1) ,41700.0,0,0,DP Jesus (COL),B Christopher (AUS),S Alan (NIR),714,575,FRG,MEX
+1986,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,Belgium win on penalties (4 - 5) ,45000.0,0,0,N RIZZOLI (ITA),P Zoran (SRB),E Mauricio (URU),714,421,ESP,BEL
+1986,22 Jun 1986 - 12:00 ,Quarter-finals,Estadio Azteca,Mexico City ,Argentina,2,1,England, ,114580.0,0,0,B Lucien (NIG),G Dario (ARG),N Mamadou (SEN),714,392,ARG,ENG
+1986,25 Jun 1986 - 12:00 ,Semi-finals,Jalisco,Guadalajara ,France,0,2,Germany FR, ,45000.0,0,1,A Luigi (ITA),P Zoran (SRB),N Lajos (HUN),3469,564,FRA,FRG
+1986,25 Jun 1986 - 16:00 ,Semi-finals,Estadio Azteca,Mexico City ,Argentina,2,0,Belgium, ,114500.0,0,0,CDSV Juan (URU),W Maciej (POL),D Yuri (BLR),3469,388,ARG,BEL
+1986,28 Jun 1986 - 12:00 ,Match for third place,Cuauhtemoc,Puebla ,France,4,2,Belgium,France win after extra time ,21000.0,0,0,V Robert (SCO),GC Victoriano (ESP),S Alessandro (ITA),3468,422,FRA,BEL
+1986,29 Jun 1986 - 12:00 ,Final,Estadio Azteca,Mexico City ,Argentina,3,2,Germany FR, ,114600.0,1,0,AS Jamal (SYR),R Laurent (SUI),R Michael (TRI),3467,393,ARG,FRG
+1990,08 Jun 1990 - 18:00 ,Group B,Giuseppe Meazza,Milan ,Argentina,0,1,Cameroon, ,73780.0,0,0,V Michel (FRA),M Vincent (USA),L Michal (POL),322,26,ARG,CMR
+1990,09 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Soviet Union,0,2,Romania, ,42907.0,0,1,CDSV Juan (URU),SA Emilio (ESP),SA Hernan (CHI),322,342,URS,ROU
+1990,09 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,"rn"">United Arab Emirates",0,2,Colombia, ,30791.0,0,0,B Massimo (SUI),SV ROEKEL (NED),H Abdel-Magid (EGY),322,119,UAE,COL
+1990,09 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1,0,Austria, ,73303.0,0,0,GAJ Maria (ESP),T William (SLV),M Luc (BEL),322,42,ITA,AUT
+1990,10 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,USA,1,5,Czechoslovakia, ,33266.0,0,2,B Tony (AUS),CG Raimundo (HON),F Erik (SWE),322,355,USA,TCH
+1990,10 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,2,1,Sweden, ,62628.0,1,0,L Tullio (ITA),V Michel (FRA),J Neji (TUN),322,75,BRA,SWE
+1990,10 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,4,1,Yugoslavia, ,74765.0,2,0,B Gunter (AUT),P Roy (ENG),P Karoly (HUN),322,201,FRG,YUG
+1990,11 Jun 1990 - 17:00 ,Group C,Luigi Ferraris,Genoa ,Costa Rica,1,0,Scotland, ,30867.0,0,0,A Luigi (ITA),AH Halim (MAS),Y Juan (ESP),322,127,CRC,SCO
+1990,11 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1,1,"rn"">Republic of Ireland", ,35238.0,1,0,R Marco (MEX),T Ali (UGA),UM Berny (CRC),322,161,ENG,IRL
+1990,12 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,2,0,Korea Republic, ,32790.0,0,0,M Vincent (USA),S Alan (NIR),C George (ENG),322,57,BEL,KOR
+1990,12 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,Netherlands,1,1,Egypt, ,33288.0,0,0,AG Khalil (KSA),UM Berny (CRC),P Arnaldo (BRA),322,151,NED,EGY
+1990,13 Jun 1990 - 17:00 ,Group E,Dacia Arena,Udine ,Uruguay,0,0,Spain, ,35713.0,0,0,K Helmut (AUT),S Alexey (RUS),K Siegfried (GER),322,180,URU,ESP
+1990,13 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,2,0,Soviet Union, ,55759.0,1,0,TCJ Joaquin (COL),K Haidar (LIB),J Alojzy (POL),322,30,ARG,URS
+1990,14 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,2,1,Romania, ,38687.0,0,0,L Tullio (ITA),T Marvin (MEX),N Mamadou (SEN),322,108,CMR,ROU
+1990,14 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,1,0,Colombia, ,32257.0,0,0,B Ali (UAE),Z Venancio (PAR),V Hector (CAN),322,120,YUG,COL
+1990,14 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1,0,USA, ,73423.0,1,0,CM Edgardo (MEX),CDSV Juan (URU),UM Berny (CRC),322,265,ITA,USA
+1990,15 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,Austria,0,1,Czechoslovakia, ,38962.0,0,1,CDSV Juan (URU),D Dramane (MLI),C Vojtech (TCH),322,43,AUT,TCH
+1990,15 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,5,1,"rn"">United Arab Emirates", ,71169.0,2,0,K Hellmut (GER),A Luigi (ITA),A Frederic (FRA),322,198,FRG,UAE
+1990,16 Jun 1990 - 17:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1,0,Costa Rica, ,58007.0,1,0,M William (CRC),P Zoran (SRB),AGY Abdulla (BAH),322,73,BRA,CRC
+1990,16 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1,2,Scotland, ,31823.0,0,1,K Hellmut (GER),E Gabor (HUN),N Mamadou (SEN),322,348,SWE,SCO
+1990,16 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,0,0,Netherlands, ,35267.0,0,0,E Horacio (ARG),E Walter (GER),T Ernesto (ARG),322,160,ENG,NED
+1990,17 Jun 1990 - 17:00 ,Group F,Della Favorita,Palermo ,"rn"">Republic of Ireland",0,0,Egypt, ,33288.0,0,0,VL Marcel (BEL),Q Joel (FRA),LB Rosario (ITA),322,152,IRL,EGY
+1990,17 Jun 1990 - 21:00 ,Group E,Dacia Arena,Udine ,Korea Republic,1,3,Spain, ,32733.0,1,1,B Rodrigo (CRC),W Franz (AUT),R Claudio (ARG),322,175,KOR,ESP
+1990,17 Jun 1990 - 21:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,3,1,Uruguay, ,33759.0,2,0,F Ernesto (URU),B Christopher (AUS),TG Fernando (ESP),322,66,BEL,URU
+1990,18 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,1,1,Romania, ,52733.0,0,0,SVC Alberto (POR),UM Berny (CRC),L Carlo (ITA),322,29,ARG,ROU
+1990,18 Jun 1990 - 21:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,0,4,Soviet Union, ,37307.0,0,2,M William (CRC),K Jan (NED),M Luc (BEL),322,111,CMR,URS
+1990,19 Jun 1990 - 17:00 ,Group D,Giuseppe Meazza,Milan ,Germany FR,1,1,Colombia, ,72510.0,0,0,A Pirom (THA),CG Raimundo (HON),K Siegfried (GER),322,114,FRG,COL
+1990,19 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,4,1,"rn"">United Arab Emirates", ,27833.0,2,1,D Philip (ENG),A Matthias (SUI),M Mohamed (TUN),322,364,YUG,UAE
+1990,19 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,2,0,Czechoslovakia, ,73303.0,1,0,V Robert (SCO),R SLYSKO (SVK),UM Berny (CRC),322,263,ITA,TCH
+1990,19 Jun 1990 - 21:00 ,Group A,Comunale,Florence ,Austria,2,1,USA, ,34857.0,0,0,M William (CRC),S Philip (ENG),AJ Luis (COL),322,48,AUT,USA
+1990,20 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1,0,Scotland, ,62502.0,0,0,I Ioan (ROU),S Philip (ENG),AH Halim (MAS),322,74,BRA,SCO
+1990,20 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1,2,Costa Rica, ,30223.0,1,0,SJ Paulino (CRC),REJ Mohamed (MAR),Y Juan (ESP),322,128,SWE,CRC
+1990,21 Jun 1990 - 17:00 ,Group E,Friuli,Udine ,Korea Republic,0,1,Uruguay, ,29039.0,0,0,L Tullio (ITA),DJ Fidele (GAB),J Neji (TUN),322,290,KOR,URU
+1990,21 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,1,2,Spain, ,35950.0,1,2,L Juan (ARG),M Carlos (PAR),M Vincent (USA),322,56,BEL,ESP
+1990,21 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,"rn"">Republic of Ireland",1,1,Netherlands, ,33288.0,0,1,B Valeri (RUS),R Jose (MEX),RV Mario (MEX),322,228,IRL,NED
+1990,21 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1,0,Egypt, ,34959.0,0,0,SVC Alberto (POR),D Bogdan (BUL),GCJ L. (ESP),322,150,ENG,EGY
+1990,23 Jun 1990 - 17:00 ,Round of 16,San Paolo,Naples ,Cameroon,2,1,Colombia,Cameroon win after extra time ,50026.0,0,0,TR John (COL),B Ali (TUN),MH Pedro (ESP),323,102,CMR,COL
+1990,23 Jun 1990 - 21:00 ,Round of 16,Stadio San Nicola,Bari ,Czechoslovakia,4,1,Costa Rica, ,47673.0,1,0,K COULIBALY (MLI),M Fermin (ESP),M Tevita (TGA),323,129,TCH,CRC
+1990,24 Jun 1990 - 17:00 ,Round of 16,Stadio delle Alpi,Turin ,Brazil,0,1,Argentina, ,61381.0,0,0,D Benjamin (GHA),Z Emanuel (MLT),R Claudio (ARG),323,25,BRA,ARG
+1990,24 Jun 1990 - 21:00 ,Round of 16,Giuseppe Meazza,Milan ,Germany FR,2,1,Netherlands, ,74559.0,0,0,W STARK (GER),GC Victoriano (ESP),MC Inacio (ANG),323,196,FRG,NED
+1990,25 Jun 1990 - 17:00 ,Round of 16,Luigi Ferraris,Genoa ,"rn"">Republic of Ireland",0,0,Romania,Republic of Ireland win on penalties (5 - 4) ,31818.0,0,0,LF Oscar (ARG),T Ali (UGA),L Michal (POL),323,248,IRL,ROU
+1990,25 Jun 1990 - 21:00 ,Round of 16,Stadio Olimpico,Rome ,Italy,2,0,Uruguay, ,73303.0,0,0,C George (ENG),R Kurt (SUI),P Zoran (SRB),323,264,ITA,URU
+1990,26 Jun 1990 - 17:00 ,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1,2,Yugoslavia,Yugoslavia win after extra time ,35500.0,0,0,SA Hernan (CHI),M Sandor (HUN),P Arnaldo (BRA),323,181,ESP,YUG
+1990,26 Jun 1990 - 21:00 ,Round of 16,Renato Dall Ara,Bologna ,England,1,0,Belgium,England win after extra time ,34520.0,0,0,R Roberto (ITA),AH Halim (MAS),C George (ENG),323,55,ENG,BEL
+1990,30 Jun 1990 - 17:00 ,Quarter-finals,Comunale,Florence ,Yugoslavia,0,0,Argentina, win on penalties (2 - 3) ,38971.0,0,0,S Carlos (BRA),C Ricardo (ARG),O Rodolfo (ARG),751,31,YUG,ARG
+1990,30 Jun 1990 - 21:00 ,Quarter-finals,Stadio Olimpico,Rome ,Italy,1,0,"rn"">Republic of Ireland", ,73303.0,1,0,TN Alberto (PER),C Matthew (AUS),RV Mario (MEX),751,243,ITA,IRL
+1990,01 Jul 1990 - 17:00 ,Quarter-finals,Giuseppe Meazza,Milan ,Germany FR,1,0,Czechoslovakia, ,73347.0,1,0,K Helmut (AUT),M Peter (DEN),L Michal (POL),751,197,FRG,TCH
+1990,01 Jul 1990 - 21:00 ,Quarter-finals,San Paolo,Naples ,England,3,2,Cameroon,England win after extra time ,55205.0,0,0,M Urs (SUI),A Taoufik (TUN),A STEFANI (ITA),751,103,ENG,CMR
+1990,03 Jul 1990 - 20:00 ,Semi-finals,San Paolo,Naples ,Italy,1,1,Argentina, win on penalties (3 - 4) ,59978.0,0,0,C Pierluigi (ITA),W Maciej (POL),R Volker (GER),3464,28,ITA,ARG
+1990,04 Jul 1990 - 20:00 ,Semi-finals,Stadio delle Alpi,Turin ,Germany FR,1,1,England, win on penalties (4 - 3) ,62628.0,0,0,W Jan (NED),O Jorge (BRA),C Arnaldo (BRA),3464,159,FRG,ENG
+1990,07 Jul 1990 - 20:00 ,Match for third place,Stadio San Nicola,Bari ,Italy,2,1,England, ,51426.0,0,0,Q Joel (FRA),H Mohamed (ALG),R Kurt (SUI),3463,162,ITA,ENG
+1990,08 Jul 1990 - 20:00 ,Final,Stadio Olimpico,Rome ,Germany FR,1,0,Argentina, ,73603.0,0,0,AS Jamal (SYR),P Jaap (NED),O Tarik (TUR),3462,27,FRG,ARG
+1994,17 Jun 1994 - 19:30 ,Group C,Cotton Bowl,Dallas ,Spain,2,2,Korea Republic, ,56247.0,0,0,DP Jesus (COL),S Philip (ENG),W Nimal (SRI),337,3050,ESP,KOR
+1994,17 Jun 1994 - 15:00 ,Group C,Soldier Field,Chicago ,Germany,1,0,Bolivia, ,63117.0,0,0,N RIZZOLI (ITA),CM Edgardo (MEX),C Paolo (ITA),337,3049,GER,BOL
+1994,18 Jun 1994 - 11:30 ,Group A,Pontiac Silverdome,Detroit ,USA,1,1,Switzerland, ,73425.0,1,1,E Walter (GER),P Zoran (SRB),L Carlo (ITA),337,3051,USA,SUI
+1994,18 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,0,1,"rn"">Republic of Ireland", ,75338.0,0,1,VDE Mario (NED),D Jan (NED),P Hae-Yong (KOR),337,3052,ITA,IRL
+1994,18 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,Colombia,1,3,Romania, ,91856.0,1,2,AS Jamal (SYR),DJ Fidele (GAB),V Evgueni (RUS),337,3053,COL,ROU
+1994,19 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1,0,Morocco, ,61219.0,1,0,B Esse (USA),A Redouane (MAR),T Glenn (ENG),337,3054,BEL,MAR
+1994,19 Jun 1994 - 16:00 ,Group E,RFK Stadium,Washington Dc ,Norway,1,0,Mexico, ,52395.0,0,0,L Tullio (ITA),R FAVERANI (ITA),P Carlos (HON),337,3055,NOR,MEX
+1994,19 Jun 1994 - 19:30 ,Group B,Rose Bowl,Los Angeles ,Cameroon,2,2,Sweden, ,93194.0,1,1,TN Alberto (PER),JD Micael (TRI),AGY Abdulla (BAH),337,3056,CMR,SWE
+1994,20 Jun 1994 - 19:30 ,Group F,RFK Stadium,Washington Dc ,Netherlands,2,1,Saudi Arabia, ,50535.0,0,1,G Bruno (SUI),K Haidar (LIB),Q Marcos (MEX),337,3058,NED,KSA
+1994,20 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,2,0,Russia, ,81061.0,1,0,LKCA Yan (MRI),REJ Mohamed (MAR),R Domenico (ITA),337,3057,BRA,RUS
+1994,21 Jun 1994 - 12:30 ,Group D,Foxboro Stadium,Boston ,Argentina,4,0,Greece, ,54456.0,2,0,AS Jamal (SYR),R SLYSKO (SVK),P Adolf (GDR),337,3059,ARG,GRE
+1994,21 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Nigeria,3,0,Bulgaria, ,44132.0,2,0,B KUIPERS (NED),L Henning (DEN),O Rodolfo (ARG),337,3061,NGA,BUL
+1994,21 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Germany,1,1,Spain, ,63113.0,0,1,F Ernesto (URU),Z Venancio (PAR),T Ernesto (ARG),337,3060,GER,ESP
+1994,22 Jun 1994 - 16:00 ,Group A,Pontiac Silverdome,Detroit ,Romania,1,4,Switzerland, ,61428.0,1,1,C Vojtech (TCH),GC Victoriano (ESP),M Francisco (CHI),337,3062,ROU,SUI
+1994,22 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,USA,2,1,Colombia, ,93869.0,1,0,N RIZZOLI (ITA),D CANN (ENG),P Hae-Yong (KOR),337,3063,USA,COL
+1994,23 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,1,0,Norway, ,74624.0,0,0,K Hellmut (GER),Y Tapio (FIN),P Roy (ENG),337,3064,ITA,NOR
+1994,23 Jun 1994 - 19:30 ,Group C,Foxboro Stadium,Boston ,Korea Republic,0,0,Bolivia, ,54453.0,0,0,V Laszlo (HUN),R SLYSKO (SVK),P Alexis (BEL),337,3065,KOR,BOL
+1994,24 Jun 1994 - 12:30 ,Group E,Citrus Bowl,Orlando ,Mexico,2,1,"rn"">Republic of Ireland", ,60790.0,1,0,C Paolo (ITA),T Ali (UGA),V Hector (CAN),337,3066,MEX,IRL
+1994,24 Jun 1994 - 19:30 ,Group B,Pontiac Silverdome,Detroit ,Sweden,3,1,Russia, ,71528.0,1,1,Q Joel (FRA),F Mohammad (IRN),H Abdel-Magid (EGY),337,3068,SWE,RUS
+1994,24 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,3,0,Cameroon, ,83401.0,1,0,B Hector (ARG),P Zoran (SRB),S Alessandro (ITA),337,3067,BRA,CMR
+1994,25 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1,0,Netherlands, ,62387.0,0,0,Q Joel (FRA),P Hae-Yong (KOR),BJ Pablo (ARG),337,3069,BEL,NED
+1994,25 Jun 1994 - 12:30 ,Group F,Giants Stadium,New York/New Jersey ,Saudi Arabia,2,1,Morocco, ,76322.0,2,1,M Lubos (SVK),L Leif (SWE),D Yuri (BLR),337,3070,KSA,MAR
+1994,25 Jun 1994 - 16:00 ,Group D,Foxboro Stadium,Boston ,Argentina,2,1,Nigeria, ,54453.0,2,1,M Markus (GER),M Carlos (PAR),N Mamadou (SEN),337,3071,ARG,NGA
+1994,26 Jun 1994 - 12:30 ,Group D,Soldier Field,Chicago ,Bulgaria,4,0,Greece, ,63160.0,1,0,DB Frank (BEL),M Vincent (USA),GR Gabriel (PAR),337,3072,BUL,GRE
+1994,26 Jun 1994 - 16:00 ,Group A,Rose Bowl,Los Angeles ,USA,0,1,Romania, ,93869.0,0,1,M William (CRC),P Karoly (HUN),P Hae-Yong (KOR),337,3073,USA,ROU
+1994,26 Jun 1994 - 16:00 ,Group A,Stanford Stadium,San Francisco ,Switzerland,0,2,Colombia, ,83401.0,0,1,C Javier (ARG),UM Berny (CRC),Q Marcos (MEX),337,3074,SUI,COL
+1994,27 Jun 1994 - 16:00 ,Group C,Cotton Bowl,Dallas ,Germany,3,2,Korea Republic, ,63998.0,3,0,P Alexis (BEL),T Ali (UGA),A STEFANI (ITA),337,3076,GER,KOR
+1994,27 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Bolivia,1,3,Spain, ,63089.0,0,1,B Rodrigo (CRC),CG Raimundo (HON),AGY Abdulla (BAH),337,3075,BOL,ESP
+1994,28 Jun 1994 - 12:30 ,Group E,Giants Stadium,New York/New Jersey ,"rn"">Republic of Ireland",0,0,Norway, ,72404.0,0,0,G Bruno (SUI),P Hae-Yong (KOR),V Hector (CAN),337,3077,IRL,NOR
+1994,28 Jun 1994 - 16:00 ,Group B,Pontiac Silverdome,Detroit ,Brazil,1,1,Sweden, ,77217.0,0,1,B Lucien (NIG),Z Venancio (PAR),G Nicolae (ROU),337,3080,BRA,SWE
+1994,28 Jun 1994 - 12:30 ,Group E,RFK Stadium,Washington Dc ,Italy,1,1,Mexico, ,52535.0,0,0,LF Oscar (ARG),T Ernesto (ARG),B Eugene (AUS),337,3078,ITA,MEX
+1994,28 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Russia,6,1,Cameroon, ,74914.0,3,0,DB Frank (BEL),W Maciej (POL),R Michael (TRI),337,3079,RUS,CMR
+1994,29 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Morocco,1,2,Netherlands, ,60578.0,0,1,AS Jamal (SYR),S Toru (JPN),ASF Khuzam (KSA),337,3081,MAR,NED
+1994,29 Jun 1994 - 12:30 ,Group F,RFK Stadium,Washington Dc ,Belgium,0,1,Saudi Arabia, ,52959.0,0,1,M William (CRC),D Bogdan (BUL),M Sandor (HUN),337,3082,BEL,KSA
+1994,30 Jun 1994 - 19:30 ,Group D,Foxboro Stadium,Boston ,Greece,0,2,Nigeria, ,53001.0,0,1,L Juan (ARG),P Alexis (BEL),E Mikael (SWE),337,3083,GRE,NGA
+1994,30 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Argentina,0,2,Bulgaria, ,63998.0,0,0,R Volker (GER),HJ Hendrik (NZL),RV Mario (MEX),337,3084,ARG,BUL
+1994,02 Jul 1994 - 12:00 ,Round of 16,Soldier Field,Chicago ,Germany,3,2,Belgium, ,60246.0,3,1,AS Jamal (SYR),SA Victoriano (ESP),P Hae-Yong (KOR),338,3085,GER,BEL
+1994,02 Jul 1994 - 16:30 ,Round of 16,RFK Stadium,Washington Dc ,Spain,3,0,Switzerland, ,53121.0,1,0,K Helmut (AUT),P Arnaldo (BRA),UM Berny (CRC),338,3086,ESP,SUI
+1994,03 Jul 1994 - 12:00 ,Round of 16,Cotton Bowl,Dallas ,Saudi Arabia,1,3,Sweden, ,60277.0,0,1,B Lucien (NIG),SA Emilio (ESP),T Glenn (ENG),338,3087,KSA,SWE
+1994,03 Jul 1994 - 13:30 ,Round of 16,Rose Bowl,Los Angeles ,Romania,3,2,Argentina, ,90469.0,2,1,GAJ Maria (ESP),R Walter (URU),BJ Pablo (ARG),338,3088,ROU,ARG
+1994,04 Jul 1994 - 12:00 ,Round of 16,Citrus Bowl,Orlando ,Netherlands,2,0,"rn"">Republic of Ireland", ,61355.0,2,0,N RIZZOLI (ITA),M Fermin (ESP),R Volker (GER),338,3089,NED,IRL
+1994,04 Jul 1994 - 12:30 ,Round of 16,Stanford Stadium,San Francisco ,Brazil,1,0,USA, ,84147.0,0,0,Q Joel (FRA),P Hae-Yong (KOR),E Mikael (SWE),338,3090,BRA,USA
+1994,05 Jul 1994 - 13:00 ,Round of 16,Foxboro Stadium,Boston ,Nigeria,1,2,Italy,Italy win after extra time ,54367.0,0,0,VL Marcel (BEL),G Hussain (KUW),J Neji (TUN),338,3091,NGA,ITA
+1994,05 Jul 1994 - 16:30 ,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3) ,71030.0,0,0,AS Jamal (SYR),F Mohammad (IRN),AGY Abdulla (BAH),338,3092,MEX,BUL
+1994,09 Jul 1994 - 12:00 ,Quarter-finals,Foxboro Stadium,Boston ,Italy,2,1,Spain, ,53400.0,1,0,P Sandor (HUN),D Gordon (AUS),M Luc (BEL),796,3097,ITA,ESP
+1994,09 Jul 1994 - 14:30 ,Quarter-finals,Cotton Bowl,Dallas ,Netherlands,2,3,Brazil, ,63500.0,0,0,SJ Paulino (CRC),I Rafael (UZB),AD Ebrahim (BHR),796,3098,NED,BRA
+1994,10 Jul 1994 - 12:00 ,Quarter-finals,Giants Stadium,New York/New Jersey ,Bulgaria,2,1,Germany, ,72000.0,0,0,TCJ Joaquin (COL),Z Venancio (PAR),M Sandor (HUN),796,3096,BUL,GER
+1994,10 Jul 1994 - 12:30 ,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2,2,Sweden,Sweden win on penalties (4 - 5) ,83500.0,0,0,D Philip (ENG),P Roy (ENG),P Hae-Yong (KOR),796,3095,ROU,SWE
+1994,13 Jul 1994 - 16:00 ,Semi-finals,Giants Stadium,New York/New Jersey ,Bulgaria,1,2,Italy, ,74110.0,1,2,AS Jamal (SYR),R SLYSKO (SVK),F Erik (SWE),3461,3100,BUL,ITA
+1994,13 Jul 1994 - 16:30 ,Semi-finals,Rose Bowl,Los Angeles ,Sweden,0,1,Brazil, ,91856.0,0,0,TCJ Joaquin (COL),M Sandor (HUN),M Luc (BEL),3461,3099,SWE,BRA
+1994,16 Jul 1994 - 12:30 ,Match for third place,Rose Bowl,Los Angeles ,Sweden,4,0,Bulgaria, ,91500.0,4,0,K Viktor (HUN),R Jose (MEX),E ZEINSTRA (NED),3460,3103,SWE,BUL
+1994,17 Jul 1994 - 12:30 ,Final,Rose Bowl,Los Angeles ,Brazil,0,0,Italy,Brazil win on penalties (3 - 2) ,94194.0,0,0,EG Gamal (EGY),F Mohammad (IRN),O Tarik (TUR),3459,3104,BRA,ITA
+1998,10 Jun 1998 - 17:30 ,Group A,Stade de France,Saint-Denis ,Brazil,2,1,Scotland, ,80000.0,1,1,GAJ Maria (ESP),TG Fernando (ESP),AJ Luis (COL),1014,4000,BRA,SCO
+1998,10 Jun 1998 - 21:00 ,Group A,La Mosson,Montpellier ,Morocco,2,2,Norway, ,29800.0,1,1,A Pirom (THA),AH Halim (MAS),W Nimal (SRI),1014,8725,MAR,NOR
+1998,11 Jun 1998 - 17:30 ,Group B,Stade du Parc Lescure,Bordeaux ,Italy,2,2,Chile, ,31800.0,1,1,B Lucien (NIG),D Dramane (MLI),M Mohamed (TUN),1014,8726,ITA,CHI
+1998,11 Jun 1998 - 21:00 ,Group B,Stade Municipal,Toulouse ,Cameroon,1,1,Austria, ,33500.0,0,0,GAJ Maria (ESP),K Haidar (LIB),S Alessandro (ITA),1014,8727,CMR,AUT
+1998,12 Jun 1998 - 14:30 ,Group D,La Mosson,Montpellier ,Paraguay,0,0,Bulgaria, ,29800.0,0,0,C George (ENG),M Fermin (ESP),V Hector (CAN),1014,8728,PAR,BUL
+1998,12 Jun 1998 - 17:30 ,Group C,Stade Felix Bollaert,Lens ,Saudi Arabia,0,1,Denmark, ,38100.0,0,0,LKCA Yan (MRI),R Walter (URU),V Tibor (HUN),1014,8729,KSA,DEN
+1998,12 Jun 1998 - 21:00 ,Group C,Stade V�lodrome,Marseilles ,France,3,0,South Africa, ,55000.0,1,0,N Yuichi (JPN),M Vincent (USA),AD Ebrahim (BHR),1014,8730,FRA,RSA
+1998,13 Jun 1998 - 14:30 ,Group D,La Beaujoire,Nantes ,Spain,2,3,Nigeria, ,35500.0,1,1,B Esse (USA),TZ Luis (CRC),D Yuri (BLR),1014,8731,ESP,NGA
+1998,13 Jun 1998 - 17:30 ,Group E,Stade de Gerland,Lyon ,Korea Republic,1,3,Mexico, ,39100.0,1,0,C Pierluigi (ITA),V Michel (FRA),L Carlo (ITA),1014,8732,KOR,MEX
+1998,13 Jun 1998 - 21:00 ,Group E,Stade de France,Saint-Denis ,Netherlands,0,0,Belgium, ,77000.0,0,0,C Pierluigi (ITA),M Gennaro (ITA),Z Emanuel (MLT),1014,8733,NED,BEL
+1998,14 Jun 1998 - 14:30 ,Group H,Stade Municipal,Toulouse ,Argentina,1,0,Japan, ,33500.0,1,0,V Laszlo (HUN),R SLYSKO (SVK),K Abraham (ISR),1014,8734,ARG,JPN
+1998,14 Jun 1998 - 17:30 ,Group F,Stade Geoffroy Guichard,Saint-Etienne ,Yugoslavia,1,0,Iran, ,30600.0,0,0,SJ Paulino (CRC),AH Halim (MAS),M Michael (ENG),1014,8735,YUG,IRN
+1998,14 Jun 1998 - 21:00 ,Group H,Stade Felix Bollaert,Lens ,Jamaica,1,3,Croatia, ,38100.0,1,1,V Michel (FRA),B Christopher (AUS),TG Fernando (ESP),1014,8736,JAM,CRO
+1998,15 Jun 1998 - 14:30 ,Group G,Stade V�lodrome,Marseilles ,England,2,0,Tunisia, ,55000.0,1,0,K Hellmut (GER),R FAVERANI (ITA),M Tevita (TGA),1014,8740,ENG,TUN
+1998,15 Jun 1998 - 17:30 ,Group G,Stade de Gerland,Lyon ,Romania,1,0,Colombia, ,39100.0,1,0,LKCA Yan (MRI),AM Mohamed (OMA),AH Halim (MAS),1014,8739,ROU,COL
+1998,15 Jun 1998 - 21:00 ,Group F,Parc des Princes,Paris ,Germany,2,0,USA, ,45500.0,1,0,SVC Alberto (POR),D CANN (ENG),P Zoran (SRB),1014,8738,GER,USA
+1998,16 Jun 1998 - 17:30 ,Group A,Stade du Parc Lescure,Bordeaux ,Scotland,1,1,Norway, ,31800.0,0,0,A Benito (MEX),S Philip (ENG),T Glenn (ENG),1014,8741,SCO,NOR
+1998,16 Jun 1998 - 21:00 ,Group A,La Beaujoire,Nantes ,Brazil,3,0,Morocco, ,35500.0,2,0,Q Joel (FRA),Z Venancio (PAR),B Roberto (BRA),1014,8742,BRA,MAR
+1998,17 Jun 1998 - 17:30 ,Group B,Stade Geoffroy Guichard,Saint-Etienne ,Chile,1,1,Austria, ,30600.0,0,0,EG Gamal (EGY),G Hussain (KUW),TG Fernando (ESP),1014,8743,CHI,AUT
+1998,17 Jun 1998 - 21:00 ,Group B,La Mosson,Montpellier ,Italy,3,0,Cameroon, ,29800.0,1,0,L Edward (AUS),F Lencie (VAN),R Claudio (ARG),1014,8744,ITA,CMR
+1998,18 Jun 1998 - 17:30 ,Group C,Stade Municipal,Toulouse ,South Africa,1,1,Denmark, ,33500.0,0,1,TR John (COL),AJ Luis (COL),G Celestino (PAR),1014,8746,RSA,DEN
+1998,18 Jun 1998 - 21:00 ,Group C,Stade de France,Saint-Denis ,France,4,0,Saudi Arabia, ,80000.0,1,0,C Charles (NED),V Hector (CAN),A Hakan (AUS),1014,8745,FRA,KSA
+1998,19 Jun 1998 - 17:30 ,Group D,Parc des Princes,Paris ,Nigeria,1,0,Bulgaria, ,45500.0,1,0,DP Jesus (COL),L Leonel (CRC),B Martin (SVK),1014,8747,NGA,BUL
+1998,19 Jun 1998 - 21:00 ,Group D,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0,0,Paraguay, ,30600.0,0,0,P Sandor (HUN),R Claudio (ARG),F Erik (SWE),1014,8748,ESP,PAR
+1998,20 Jun 1998 - 14:30 ,Group H,La Beaujoire,Nantes ,Japan,0,1,Croatia, ,35500.0,0,0,S Carlos (BRA),L Leonel (CRC),AH Halim (MAS),1014,8751,JPN,CRO
+1998,20 Jun 1998 - 17:30 ,Group E,Stade du Parc Lescure,Bordeaux ,Belgium,2,2,Mexico, ,31800.0,1,0,AS Jamal (SYR),K Jan (NED),V Robert (SCO),1014,8750,BEL,MEX
+1998,20 Jun 1998 - 21:00 ,Group E,Stade V�lodrome,Marseilles ,Netherlands,5,0,Korea Republic, ,55000.0,2,0,P Alexis (BEL),G Dario (ARG),B Egon (AUT),1014,8749,NED,KOR
+1998,21 Jun 1998 - 14:30 ,Group F,Stade Felix Bollaert,Lens ,Germany,2,2,Yugoslavia, ,38100.0,0,1,NK Milton (DEN),Z Emanuel (MLT),VDB Marc (BEL),1014,8753,GER,YUG
+1998,21 Jun 1998 - 17:30 ,Group H,Parc des Princes,Paris ,Argentina,5,0,Jamaica, ,45500.0,1,0,CDSV Juan (URU),A Redouane (MAR),P Carlos (HON),1014,8752,ARG,JAM
+1998,21 Jun 1998 - 21:00 ,Group F,Stade de Gerland,Lyon ,USA,1,2,Iran, ,39100.0,0,1,L Juan (ARG),Z Emanuel (MLT),L Michal (POL),1014,8754,USA,IRN
+1998,22 Jun 1998 - 17:30 ,Group G,La Mosson,Montpellier ,Colombia,1,0,Tunisia, ,29800.0,0,0,B Massimo (SUI),D Dramane (MLI),AH Halim (MAS),1014,8755,COL,TUN
+1998,22 Jun 1998 - 21:00 ,Group G,Stade Municipal,Toulouse ,Romania,2,1,England, ,33500.0,0,0,D Philip (ENG),AH Halim (MAS),B Francesco (SUI),1014,8756,ROU,ENG
+1998,23 Jun 1998 - 16:00 ,Group B,Stade de France,Saint-Denis ,Italy,2,1,Austria, ,80000.0,0,0,P Nestor (ARG),GC Victoriano (ESP),V Robert (SCO),1014,8757,ITA,AUT
+1998,23 Jun 1998 - 16:00 ,Group B,La Beaujoire,Nantes ,Chile,1,1,Cameroon, ,35500.0,1,0,V Laszlo (HUN),W Nimal (SRI),AH Halim (MAS),1014,8760,CHI,CMR
+1998,23 Jun 1998 - 21:00 ,Group A,Stade Geoffroy Guichard,Saint-Etienne ,Scotland,0,3,Morocco, ,30600.0,0,1,E Horacio (ARG),P Hae-Yong (KOR),V Tibor (HUN),1014,8758,SCO,MAR
+1998,23 Jun 1998 - 21:00 ,Group A,Stade V�lodrome,Marseilles ,Brazil,1,2,Norway, ,55000.0,0,0,W Jan (NED),B Francesco (SUI),J Alojzy (POL),1014,8759,BRA,NOR
+1998,24 Jun 1998 - 16:00 ,Group C,Stade de Gerland,Lyon ,France,2,1,Denmark, ,39100.0,1,1,D Benjamin (GHA),UM Berny (CRC),M Francisco (CHI),1014,8762,FRA,DEN
+1998,24 Jun 1998 - 16:00 ,Group C,Stade du Parc Lescure,Bordeaux ,South Africa,2,2,Saudi Arabia, ,31800.0,1,1,L Jorge (URU),M Sandor (HUN),M Hernan (ARG),1014,8764,RSA,KSA
+1998,24 Jun 1998 - 21:00 ,Group D,Stade Felix Bollaert,Lens ,Spain,6,1,Bulgaria, ,38100.0,2,0,H Michael (NZL),L Leonel (CRC),J Neji (TUN),1014,8761,ESP,BUL
+1998,24 Jun 1998 - 21:00 ,Group D,Stade Municipal,Toulouse ,Nigeria,1,3,Paraguay, ,33500.0,1,1,DP Jesus (COL),P Roy (ENG),GCJ L. (ESP),1014,8763,NGA,PAR
+1998,25 Jun 1998 - 16:00 ,Group E,Parc des Princes,Paris ,Belgium,1,1,Korea Republic, ,45500.0,1,0,R Marcio (BRA),P Arnaldo (BRA),AJ Luis (COL),1014,8765,BEL,KOR
+1998,25 Jun 1998 - 16:00 ,Group E,Stade Geoffroy Guichard,Saint-Etienne ,Netherlands,2,2,Mexico, ,30600.0,2,0,R Volker (GER),R FAVERANI (ITA),M Luc (BEL),1014,8766,NED,MEX
+1998,25 Jun 1998 - 21:00 ,Group F,La Mosson,Montpellier ,Germany,2,0,Iran, ,29800.0,0,0,N RIZZOLI (ITA),G Nikolai (RUS),E Mauricio (URU),1014,8767,GER,IRN
+1998,25 Jun 1998 - 21:00 ,Group F,La Beaujoire,Nantes ,USA,0,1,Yugoslavia, ,35500.0,0,1,C Paolo (ITA),Z Emanuel (MLT),D Yuri (BLR),1014,8768,USA,YUG
+1998,26 Jun 1998 - 16:00 ,Group H,Stade de Gerland,Lyon ,Japan,1,2,Jamaica, ,39100.0,0,1,B Gunter (AUT),A Evzen (CZE),D Dramane (MLI),1014,8771,JPN,JAM
+1998,26 Jun 1998 - 16:00 ,Group H,Stade du Parc Lescure,Bordeaux ,Argentina,1,0,Croatia, ,31800.0,1,0,Q Joel (FRA),GC Victoriano (ESP),A Aboudou (BEN),1014,8772,ARG,CRO
+1998,26 Jun 1998 - 21:00 ,Group G,Stade de France,Saint-Denis ,Romania,1,1,Tunisia, ,77000.0,0,1,L Edward (AUS),P Jacek (POL),D Yuri (BLR),1014,8769,ROU,TUN
+1998,26 Jun 1998 - 21:00 ,Group G,Stade Felix Bollaert,Lens ,Colombia,0,2,England, ,38100.0,0,2,T Idrissa (MLI),P Jacek (POL),V Tibor (HUN),1014,8770,COL,ENG
+1998,27 Jun 1998 - 16:30 ,Round of 16,Stade V�lodrome,Marseilles ,Italy,1,0,Norway, ,55000.0,1,0,I Ioan (ROU),L Leonel (CRC),B Eugene (AUS),1024,8774,ITA,NOR
+1998,27 Jun 1998 - 21:00 ,Round of 16,Parc des Princes,Paris ,Brazil,4,1,Chile, ,45500.0,3,0,C George (ENG),B Ali (TUN),E Abdelhak (ALG),1024,8773,BRA,CHI
+1998,28 Jun 1998 - 16:30 ,Round of 16,Stade Felix Bollaert,Lens ,France,1,0,Paraguay,France win after extra time ,31800.0,0,0,P Alexis (BEL),D Bogdan (BUL),AJ Luis (COL),1024,8776,FRA,PAR
+1998,28 Jun 1998 - 21:00 ,Round of 16,Stade de France,Saint-Denis ,Nigeria,1,4,Denmark, ,77000.0,0,2,M Urs (SUI),G Hussain (KUW),TG Fernando (ESP),1024,8775,NGA,DEN
+1998,29 Jun 1998 - 16:30 ,Round of 16,La Mosson,Montpellier ,Germany,2,1,Mexico, ,29800.0,0,0,W STARK (GER),AH Halim (MAS),V Tibor (HUN),1024,8777,GER,MEX
+1998,29 Jun 1998 - 21:00 ,Round of 16,Stade Municipal,Toulouse ,Netherlands,2,1,Yugoslavia, ,33500.0,1,0,GAJ Maria (ESP),R Laurent (SUI),G Nicolae (ROU),1024,8778,NED,YUG
+1998,30 Jun 1998 - 16:30 ,Round of 16,Stade du Parc Lescure,Bordeaux ,Romania,0,1,Croatia, ,31800.0,0,1,C Javier (ARG),R Claudio (ARG),P Arnaldo (BRA),1024,8780,ROU,CRO
+1998,30 Jun 1998 - 21:00 ,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2,2,England,Argentina win on penalties (4 - 3) ,30600.0,0,0,NK Milton (DEN),AH Halim (MAS),AM Mohamed (OMA),1024,8779,ARG,ENG
+1998,03 Jul 1998 - 16:30 ,Quarter-finals,Stade de France,Saint-Denis ,Italy,0,0,France,France win on penalties (3 - 4) ,77000.0,0,0,K Helmut (AUT),T Ali (UGA),C Gaston (CHI),1025,8781,ITA,FRA
+1998,03 Jul 1998 - 21:00 ,Quarter-finals,La Beaujoire,Nantes ,Brazil,3,2,Denmark, ,35500.0,2,1,I Ioan (ROU),M Carlos (POR),L Carlo (ITA),1025,8782,BRA,DEN
+1998,04 Jul 1998 - 16:30 ,Quarter-finals,Stade V�lodrome,Marseilles ,Netherlands,2,1,Argentina, ,55000.0,1,1,AS Jamal (SYR),R Walter (URU),K Haidar (LIB),1025,8784,NED,ARG
+1998,04 Jul 1998 - 21:00 ,Quarter-finals,Stade de Gerland,Lyon ,Germany,0,3,Croatia, ,39100.0,0,1,K Viktor (HUN),S Jan-Hendrik (GER),V Walter (BEL),1025,8783,GER,CRO
+1998,07 Jul 1998 - 21:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2) ,54000.0,0,0,B Ali (UAE),G Hussain (KUW),AM Mohamed (OMA),1026,8785,BRA,NED
+1998,08 Jul 1998 - 21:00 ,Semi-finals,Stade de France,Saint-Denis ,France,2,1,Croatia, ,76000.0,0,0,B Gunter (AUT),S Philip (ENG),AGY Abdulla (BAH),1026,8786,FRA,CRO
+1998,11 Jul 1998 - 21:00 ,Match for third place,Parc des Princes,Paris ,Netherlands,1,2,Croatia, ,45500.0,1,2,R IRMATOV (UZB),JD Micael (TRI),A Evzen (CZE),1028,8787,NED,CRO
+1998,12 Jul 1998 - 21:00 ,Final,Stade de France,Saint-Denis ,Brazil,0,3,France, ,80000.0,0,2,N RIZZOLI (ITA),P Roy (ENG),O Rodolfo (ARG),1027,8788,BRA,FRA
+2002,31 May 2002 - 20:30 ,Group A,Seoul World Cup Stadium,Seoul ,France,0,1,Senegal, ,62561.0,0,1,C Pierluigi (ITA),M Heiner (GER),K Abraham (ISR),43950100,43950001,FRA,SEN
+2002,01 Jun 2002 - 18:00 ,Group A,Munsu Football Stadium,Ulsan ,Uruguay,1,2,Denmark, ,30157.0,0,1,A Luigi (ITA),P Arnaldo (BRA),R Kurt (SUI),43950100,43950003,URU,DEN
+2002,01 Jun 2002 - 15:30 ,Group E,Niigata Stadium Big Swan,Niigata ,"rn"">Republic of Ireland",1,1,Cameroon, ,33679.0,0,1,M Vincent (USA),R FAVERANI (ITA),T Ernesto (ARG),43950100,43950002,IRL,CMR
+2002,01 Jun 2002 - 20:30 ,Group E,Sapporo Dome,Sapporo ,Germany,8,0,Saudi Arabia, ,32218.0,4,0,K Hellmut (GER),G Nikolai (RUS),GCJ L. (ESP),43950100,43950004,GER,KSA
+2002,02 Jun 2002 - 14:30 ,Group F,Kashima Stadium,Ibaraki ,Argentina,1,0,Nigeria, ,34050.0,0,0,B Tony (AUS),M Fermin (ESP),V Evgueni (RUS),43950100,43950007,ARG,NGA
+2002,02 Jun 2002 - 16:30 ,Group B,Busan Asiad Main Stadium,Busan ,Paraguay,2,2,South Africa, ,25186.0,1,0,CDSV Juan (URU),A Matthias (SUI),ASF Khuzam (KSA),43950100,43950006,PAR,RSA
+2002,02 Jun 2002 - 18:30 ,Group F,Saitama Stadium 2002,Saitama ,England,1,1,Sweden, ,52721.0,1,0,V Robert (SCO),A Luigi (ITA),J Neji (TUN),43950100,43950005,ENG,SWE
+2002,02 Jun 2002 - 20:30 ,Group B,Gwangju World Cup Stadium,Gwangju ,Spain,3,1,Slovenia, ,28598.0,1,0,S Carlos (BRA),AM Mohamed (OMA),SA Hernan (CHI),43950100,43950008,ESP,SVN
+2002,03 June 2002 - 18:00 ,Group C,Munsu Football Stadium,Ulsan ,Brazil,2,1,Turkey, ,33842.0,0,1,C Coffi (BEN),S Alexey (RUS),L Carlo (ITA),43950100,43950010,BRA,TUR
+2002,03 Jun 2002 - 20:30 ,Group G,Sapporo Dome,Sapporo ,Italy,2,0,Ecuador, ,31081.0,2,0,B Tony (AUS),S Toru (JPN),Y Juan (ESP),43950100,43950011,ITA,ECU
+2002,03 Jun 2002 - 15:30 ,Group G,Niigata Stadium Big Swan,Niigata ,Croatia,0,1,Mexico, ,32239.0,0,0,B Rodrigo (CRC),P Jacek (POL),T Glenn (ENG),43950100,43950009,CRO,MEX
+2002,04 June 2002 - 15:30 ,Group C,Gwangju World Cup Stadium,Gwangju ,China PR,0,2,Costa Rica, ,27217.0,0,0,AG Khalil (KSA),GC Victoriano (ESP),AM Mohamed (OMA),43950100,43950012,CHN,CRC
+2002,04 June 2002 - 18:00 ,Group H,Saitama Stadium 2002,Saitama ,Japan,2,2,Belgium, ,55256.0,0,0,M William (CRC),K Haidar (LIB),D Yuri (BLR),43950100,43950013,JPN,BEL
+2002,04 Jun 2002 - 20:30 ,Group D,Busan Asiad Main Stadium,Busan ,Korea Republic,2,0,Poland, ,48760.0,1,0,R Marcio (BRA),AM Mohamed (OMA),Y Juan (ESP),43950100,43950014,KOR,POL
+2002,05 Jun 2002 - 15:30 ,Group H,Kobe Wing Stadium,Kobe ,Russia,2,0,Tunisia, ,30957.0,0,0,C Javier (ARG),CDSV Juan (URU),GCJ L. (ESP),43950100,43950015,RUS,TUN
+2002,05 Jun 2002 - 18:00 ,Group D,Suwon World Cup Stadium,Suwon ,USA,3,2,Portugal, ,37306.0,3,1,AS Jamal (SYR),G Dario (ARG),K Haidar (LIB),43950100,43950016,USA,POR
+2002,05 Jun 2002 - 20:30 ,Group E,Kashima Stadium,Ibaraki ,Germany,1,1,"rn"">Republic of Ireland", ,35854.0,1,0,I Ioan (ROU),S Toru (JPN),C Arnaldo (BRA),43950100,43950017,GER,IRL
+2002,06 Jun 2002 - 15:30 ,Group A,Daegu World Cup Stadium,Daegu ,Denmark,1,1,Senegal, ,43500.0,1,0,NK Milton (DEN),D Bogdan (BUL),M Vincent (USA),43950100,43950020,DEN,SEN
+2002,06 Jun 2002 - 18:00 ,Group E,Saitama Stadium 2002,Saitama ,Cameroon,1,0,Saudi Arabia, ,52328.0,0,0,R Marco (MEX),CM Edgardo (MEX),T Ernesto (ARG),43950100,43950019,CMR,KSA
+2002,06 Jun 2002 - 20:30 ,Group A,Busan Asiad Main Stadium,Busan ,France,0,0,Uruguay, ,38289.0,0,0,N RIZZOLI (ITA),R SLYSKO (SVK),P Mike (GER),43950100,43950018,FRA,URU
+2002,07 Jun 2002 - 15:30 ,Group F,Kobe Wing Stadium,Kobe ,Sweden,2,1,Nigeria, ,36194.0,1,1,N Lajos (HUN),C Paolo (ITA),M Mohamed (TUN),43950100,43950021,SWE,NGA
+2002,07 Jun 2002 - 20:30 ,Group F,Sapporo Dome,Sapporo ,Argentina,0,1,England, ,35927.0,0,1,GAJ Maria (ESP),N Lajos (HUN),A Evzen (CZE),43950100,43950023,ARG,ENG
+2002,07 June 2002 - 18:00 ,Group B,Jeonju World Cup Stadium,Jeonju ,Spain,3,1,Paraguay, ,24000.0,0,1,M Markus (GER),F Pablo (URU),AF Romualdo (BRA),43950100,43950022,ESP,PAR
+2002,08 Jun 2002 - 15:30 ,Group B,Daegu World Cup Stadium,Daegu ,South Africa,1,0,Slovenia, ,47226.0,1,0,A Benito (MEX),K Jan (NED),A Evzen (CZE),43950100,43950024,RSA,SVN
+2002,08 Jun 2002 - 20:30 ,Group C,Jeju World Cup Stadium,Jeju ,Brazil,4,0,China PR, ,36750.0,3,0,N Lajos (HUN),AF Roberto (ESP),O Rodolfo (ARG),43950100,43950026,BRA,CHN
+2002,08 June 2002 - 18:00 ,Group G,Kashima Stadium,Ibaraki ,Italy,1,2,Croatia, ,36472.0,0,0,L Edward (AUS),R FAVERANI (ITA),M Luc (BEL),43950100,43950025,ITA,CRO
+2002,09 Jun 2002 - 18:00 ,Group C,Incheon Football Stadium,Incheon ,Costa Rica,1,1,Turkey, ,42299.0,0,0,P Sandor (HUN),D Gordon (AUS),UM Berny (CRC),43950100,43950028,CRC,TUR
+2002,09 Jun 2002 - 20:30 ,Group H,International Stadium Yokohama,Yokohama ,Japan,1,0,Russia, ,66108.0,0,0,M Markus (GER),M Heiner (GER),A Evzen (CZE),43950100,43950029,JPN,RUS
+2002,09 Jun 2002 - 15:30 ,Group G,Miyagi Stadium,Rifu ,Mexico,2,1,Ecuador, ,45610.0,1,1,D Mourad (TUN),A Taoufik (TUN),K Haidar (LIB),43950100,43950027,MEX,ECU
+2002,10 Jun 2002 - 15:30 ,Group D,Daegu World Cup Stadium,Daegu ,Korea Republic,1,1,USA, ,60778.0,0,1,L Tullio (ITA),O Jorge (BRA),M Sandor (HUN),43950100,43950030,KOR,USA
+2002,10 Jun 2002 - 20:30 ,Group D,Jeonju World Cup Stadium,Jeonju ,Portugal,4,0,Poland, ,31000.0,1,0,R Marcio (BRA),R FAVERANI (ITA),M Sandor (HUN),43950100,43950032,POR,POL
+2002,10 Jun 2002 - 18:00 ,Group H,Oita Stadium Big Eye,Oita ,Tunisia,1,1,Belgium, ,39700.0,1,1,P Graham (ENG),D Jan (NED),E Mauricio (URU),43950100,43950031,TUN,BEL
+2002,11 Jun 2002 - 15:30 ,Group A,Incheon Football Stadium,Incheon ,Denmark,2,0,France, ,48100.0,1,0,N RIZZOLI (ITA),G Hussain (KUW),D Yuri (BLR),43950100,43950033,DEN,FRA
+2002,11 June 2002 - 15:30 ,Group A,Suwon World Cup Stadium,Suwon ,Senegal,3,3,Uruguay, ,33681.0,3,0,W Jan (NED),P Jaap (NED),S Ferenc (HUN),43950100,43950034,SEN,URU
+2002,11 Jun 2002 - 20:30 ,Group E,International Stadium Yokohama,Yokohama ,Saudi Arabia,0,3,"rn"">Republic of Ireland", ,65320.0,0,1,N Falla (SEN),W Maciej (POL),A Frederic (FRA),43950100,43950036,KSA,IRL
+2002,11 Jun 2002 - 20:30 ,Group E,Shizuoka Stadium Ecopa,Shizuoka ,Cameroon,0,2,Germany, ,47085.0,0,0,L Edward (AUS),P Zoran (SRB),K Siegfried (GER),43950100,43950035,CMR,GER
+2002,12 Jun 2002 - 15:30 ,Group F,Miyagi Stadium,Rifu ,Sweden,1,1,Argentina, ,45777.0,0,0,D Bogdan (BUL),Z Venancio (PAR),E Mikael (SWE),43950100,43950037,SWE,ARG
+2002,12 Jun 2002 - 15:30 ,Group F,Osaka Nagai Stadium,Osaka ,Nigeria,0,0,England, ,44864.0,0,0,L Jorge (URU),D CANN (ENG),A STEFANI (ITA),43950100,43950038,NGA,ENG
+2002,12 Jun 2002 - 20:30 ,Group B,Jeju World Cup Stadium,Jeju ,Slovenia,1,3,Paraguay, ,30176.0,1,0,P Nestor (ARG),P Alexis (BEL),M Francisco (CHI),43950100,43950040,SVN,PAR
+2002,12 Jun 2002 - 20:30 ,Group B,Daejeon World Cup Stadium,Daejeon ,South Africa,2,3,Spain, ,31024.0,1,2,P Nestor (ARG),AH Halim (MAS),AGY Abdulla (BAH),43950100,43950039,RSA,ESP
+2002,13 Jun 2002 - 15:30 ,Group C,Suwon World Cup Stadium,Suwon ,Costa Rica,2,5,Brazil, ,38524.0,1,3,IA Andres (ARG),CG Raimundo (HON),Q Marcos (MEX),43950100,43950041,CRC,BRA
+2002,13 Jun 2002 - 15:30 ,Group C,Seoul World Cup Stadium,Seoul ,Turkey,3,0,China PR, ,43605.0,2,0,B Ali (UAE),SV ROEKEL (NED),P Arnaldo (BRA),43950100,43950042,TUR,CHN
+2002,13 Jun 2002 - 20:30 ,Group G,International Stadium Yokohama,Yokohama ,Ecuador,1,0,Croatia, ,65862.0,0,0,M Urs (SUI),R Kurt (SUI),P Karoly (HUN),43950100,43950044,ECU,CRO
+2002,13 Jun 2002 - 20:30 ,Group G,Oita Stadium Big Eye,Oita ,Mexico,1,1,Italy, ,39291.0,1,0,S Carlos (BRA),O Jorge (BRA),AHM Lazim (MAS),43950100,43950043,MEX,ITA
+2002,14 Jun 2002 - 15:30 ,Group H,Osaka Nagai Stadium,Osaka ,Tunisia,0,2,Japan, ,45213.0,0,0,N RIZZOLI (ITA),Q Joel (FRA),M Tevita (TGA),43950100,43950045,TUN,JPN
+2002,14 Jun 2002 - 20:30 ,Group D,Incheon Football Stadium,Incheon ,Portugal,0,1,Korea Republic, ,50239.0,0,0,P Pablo (CHI),C Vojtech (TCH),Y Juan (ESP),43950100,43950047,POR,KOR
+2002,14 Jun 2002 - 20:30 ,Group D,Daejeon World Cup Stadium,Daejeon ,Poland,3,1,USA, ,26482.0,2,0,M Lubos (SVK),V Hector (CAN),T Glenn (ENG),43950100,43950048,POL,USA
+2002,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3,2,Russia, ,46640.0,1,0,I Ioan (ROU),D Andre (SUI),A Evzen (CZE),43950100,43950046,BEL,RUS
+2002,15 Jun 2002 - 20:30 ,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0,3,England, ,40582.0,0,3,LKCA Yan (MRI),R Nicolae (ROU),T Ernesto (ARG),43950200,43950050,DEN,ENG
+2002,15 Jun 2002 - 15:30 ,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1,0,Paraguay, ,25176.0,0,0,NK Milton (DEN),AH Halim (MAS),N Mamadou (SEN),43950200,43950049,GER,PAR
+2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1,1,"rn"">Republic of Ireland",Spain win on penalties (3 - 2) ,38926.0,0,0,AS Jamal (SYR),B Christopher (AUS),P Alexis (BEL),43950200,43950052,ESP,IRL
+2002,16 Jun 2002 - 15:30 ,Round of 16,Oita Stadium Big Eye,Oita ,Sweden,1,2,Senegal,Win on Golden Goal ,39747.0,0,0,EG Gamal (EGY),D CANN (ENG),M Sandor (HUN),43950200,43950051,SWE,SEN
+2002,17 Jun 2002 - 20:30 ,Round of 16,Kobe Wing Stadium,Kobe ,Brazil,2,0,Belgium, ,40440.0,0,0,P Nestor (ARG),P Karoly (HUN),T Glenn (ENG),43950200,43950054,BRA,BEL
+2002,17 June 2002 - 15:30 ,Round of 16,Jeonju World Cup Stadium,Jeonju ,Mexico,0,2,USA, ,36380.0,0,1,MP Vitor (POR),M Carlos (POR),B Egon (AUT),43950200,43950053,MEX,USA
+2002,18 Jun 2002 - 15:30 ,Round of 16,Miyagi Stadium,Rifu ,Japan,0,1,Turkey, ,45666.0,0,1,E Walter (GER),L Leonel (CRC),P Zoran (SRB),43950200,43950055,JPN,TUR
+2002,18 Jun 2002 - 20:30 ,Round of 16,Daejeon World Cup Stadium,Daejeon ,Korea Republic,2,1,Italy,Win on Golden Goal ,38588.0,0,0,C Pierluigi (ITA),I Rafael (UZB),GR Gabriel (PAR),43950200,43950056,KOR,ITA
+2002,21 Jun 2002 - 15:30 ,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,England,1,2,Brazil, ,47436.0,1,1,TCJ Joaquin (COL),R Walter (URU),S Ferenc (HUN),43950300,43950057,ENG,BRA
+2002,21 Jun 2002 - 20:30 ,Quarter-finals,Munsu Football Stadium,Ulsan ,Germany,1,0,USA, ,37337.0,1,0,P Graham (ENG),G Nikolai (RUS),V Hector (CAN),43950300,43950058,GER,USA
+2002,22 Jun 2002 - 20:30 ,Quarter-finals,Osaka Nagai Stadium,Osaka ,Senegal,0,1,Turkey,Win on Golden Goal ,44233.0,0,0,LKCA Yan (MRI),T Ernesto (ARG),P Alexis (BEL),43950300,43950060,SEN,TUR
+2002,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,42114.0,0,0,EG Gamal (EGY),T Ali (UGA),R Michael (TRI),43950300,43950059,ESP,KOR
+2002,25 Jun 2002 - 20:30 ,Semi-finals,Seoul World Cup Stadium,Seoul ,Germany,1,0,Korea Republic, ,65256.0,0,0,P Sandor (HUN),V Michel (FRA),A Stefano (ITA),43950400,43950061,GER,KOR
+2002,26 Jun 2002 - 20:30 ,Semi-finals,Saitama Stadium 2002,Saitama ,Brazil,1,0,Turkey, ,61058.0,0,0,DB Frank (BEL),D Bogdan (BUL),UM Berny (CRC),43950400,43950062,BRA,TUR
+2002,29 Jun 2002 - 20:00 ,Third place,Daegu World Cup Stadium,Daegu ,Korea Republic,2,3,Turkey, ,63483.0,1,3,AG Khalil (KSA),JD Micael (TRI),B Christopher (AUS),43950500,43950063,KOR,TUR
+2002,30 Jun 2002 - 20:00 ,Final,International Stadium Yokohama,Yokohama ,Germany,0,2,Brazil, ,69029.0,0,0,C Pierluigi (ITA),L Leif (SWE),S Philip (ENG),43950600,43950064,GER,BRA
+2006,09 Jun 2006 - 18:00 ,Group A,"FIFA World Cup Stadium, Munich",Munich ,Germany,4,2,Costa Rica, ,66000.0,2,1,AS Jamal (SYR),S Philip (ENG),V Robert (SCO),97410100,97410001,GER,CRC
+2006,09 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Poland,0,2,Ecuador, ,52000.0,0,1,R Volker (GER),RV Mario (MEX),SA Hernan (CHI),97410100,97410002,POL,ECU
+2006,10 Jun 2006 - 15:00 ,Group B,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,England,1,0,Paraguay, ,48000.0,1,0,B Massimo (SUI),P Zoran (SRB),TG Fernando (ESP),97410100,97410003,ENG,PAR
+2006,10 Jun 2006 - 18:00 ,Group B,"FIFA World Cup Stadium, Dortmund",Dortmund ,"rn"">Trinidad and Tobago",0,0,Sweden, ,62959.0,0,0,CM Edgardo (MEX),R SLYSKO (SVK),V Robert (SCO),97410100,97410004,TRI,SWE
+2006,10 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Hamburg",Hamburg ,Argentina,2,1,C�te d'Ivoire, ,49480.0,2,0,W Howard (ENG),R SLYSKO (SVK),V Robert (SCO),97410100,97410005,ARG,CIV
+2006,11 Jun 2006 - 15:00 ,Group C,Zentralstadion,Leipzig ,"rn"">Serbia and Montenegro",0,1,Netherlands, ,43000.0,0,1,MR Antonio (MEX),SV ROEKEL (NED),C George (ENG),97410100,97410006,SCG,NED
+2006,11 Jun 2006 - 18:00 ,Group D,Franken-Stadion,Nuremberg ,Mexico,3,1,Iran, ,41000.0,1,1,H Michael (NZL),G Bruno (SUI),A STEFANI (ITA),97410100,97410007,MEX,IRN
+2006,11 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Cologne",Cologne ,Angola,0,1,Portugal, ,45000.0,0,1,K Viktor (HUN),AD Ebrahim (BHR),O Rodolfo (ARG),97410100,97410008,ANG,POR
+2006,12 Jun 2006 - 15:00 ,Group F,Fritz-Walter-Stadion,Kaiserslautern ,Australia,3,1,Japan, ,46000.0,0,1,AEF Essam (EGY),D Dramane (MLI),N Mamadou (SEN),97410100,97410012,AUS,JPN
+2006,12 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,USA,0,3,Czech Republic, ,52000.0,0,2,A Carlos (PAR),A Amelio (PAR),B Manuel (PAR),97410100,97410010,USA,CZE
+2006,12 Jun 2006 - 21:00 ,Group E,"FIFA World Cup Stadium, Hanover",Hanover ,Italy,2,0,Ghana, ,43000.0,1,0,AS Jamal (SYR),R SLYSKO (SVK),E Abdelhak (ALG),97410100,97410009,ITA,GHA
+2006,13 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Korea Republic,2,1,Togo, ,48000.0,0,1,P Graham (ENG),S Philip (ENG),T Glenn (ENG),97410100,97410014,KOR,TOG
+2006,13 Jun 2006 - 18:00 ,Group G,Gottlieb-Daimler-Stadion,Stuttgart ,France,0,0,Switzerland, ,52000.0,0,0,C Vojtech (TCH),A Redouane (MAR),M Tevita (TGA),97410100,97410013,FRA,SUI
+2006,13 Jun 2006 - 21:00 ,Group F,Olympiastadion,Berlin ,Brazil,1,0,Croatia, ,72000.0,1,0,G Bruno (SUI),I Rafael (UZB),Q Marcos (MEX),97410100,97410011,BRA,CRO
+2006,14 Jun 2006 - 15:00 ,Group H,Zentralstadion,Leipzig ,Spain,4,0,Ukraine, ,43000.0,2,0,AG Khalil (KSA),C Vojtech (TCH),B Roberto (BRA),97410100,97410015,ESP,UKR
+2006,14 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Munich",Munich ,Tunisia,2,2,Saudi Arabia, ,66000.0,1,0,CV CARBALLO (ESP),C Cristiano (ITA),O Tarik (TUR),97410100,97410016,TUN,KSA
+2006,14 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,1,0,Poland, ,65000.0,0,0,MC Luis (ESP),GC Victoriano (ESP),MH Pedro (ESP),97410100,97410017,GER,POL
+2006,15 Jun 2006 - 15:00 ,Group A,"FIFA World Cup Stadium, Hamburg",Hamburg ,Ecuador,3,0,Costa Rica, ,50000.0,1,0,C Coffi (BEN),N Celestin (RWA),A Aboudou (BEN),97410100,97410018,ECU,CRC
+2006,15 Jun 2006 - 18:00 ,Group B,Franken-Stadion,Nuremberg ,England,2,0,"rn"">Trinidad and Tobago", ,41000.0,0,0,C Javier (ARG),K Hassan (IRN),AGY Abdulla (BAH),97410100,97410019,ENG,TRI
+2006,15 Jun 2006 - 21:00 ,Group B,Olympiastadion,Berlin ,Sweden,1,0,Paraguay, ,72000.0,0,0,M Lubos (SVK),R SLYSKO (SVK),B Martin (SVK),97410100,97410020,SWE,PAR
+2006,16 Jun 2006 - 15:00 ,Group C,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Argentina,6,0,"rn"">Serbia and Montenegro", ,52000.0,3,0,K COULIBALY (MLI),F Pablo (URU),B Egon (AUT),97410100,97410021,ARG,SCG
+2006,16 Jun 2006 - 18:00 ,Group C,Gottlieb-Daimler-Stadion,Stuttgart ,Netherlands,2,1,C�te d'Ivoire, ,52000.0,2,1,H Djamel (ALG),M Vincent (USA),S Alan (NIR),97410100,97410022,NED,CIV
+2006,16 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Hanover",Hanover ,Mexico,0,0,Angola, ,43000.0,0,0,AS Jamal (SYR),HJ Hendrik (NZL),S Philip (ENG),97410100,97410023,MEX,ANG
+2006,17 Jun 2006 - 15:00 ,Group D,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Portugal,2,0,IR Iran, ,48000.0,0,0,R Marco (MEX),AM Gilberto (COL),SA Hernan (CHI),97410100,97410024,POR,IRN
+2006,17 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Cologne",Cologne ,Czech Republic,0,2,Ghana, ,45000.0,0,1,E Horacio (ARG),G Dario (ARG),O Rodolfo (ARG),97410100,97410026,CZE,GHA
+2006,17 Jun 2006 - 21:00 ,Group E,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,1,USA, ,46000.0,1,1,L Jorge (URU),R Walter (URU),F Pablo (URU),97410100,97410025,ITA,USA
+2006,18 Jun 2006 - 15:00 ,Group F,Franken-Stadion,Nuremberg ,Japan,0,0,Croatia, ,41000.0,0,0,B Valeri (RUS),A Redouane (MAR),D Yuri (BLR),97410100,97410028,JPN,CRO
+2006,18 Jun 2006 - 18:00 ,Group F,"FIFA World Cup Stadium, Munich",Munich ,Brazil,2,0,Australia, ,66000.0,0,0,N Falla (SEN),C Ricardo (ARG),AH Halim (MAS),97410100,97410027,BRA,AUS
+2006,18 Jun 2006 - 21:00 ,Group G,Zentralstadion,Leipzig ,France,1,1,Korea Republic, ,43000.0,1,0,P Sandor (HUN),B Christopher (AUS),AM Saleh (UAE),97410100,97410029,FRA,KOR
+2006,19 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Dortmund",Dortmund ,Togo,0,2,Switzerland, ,65000.0,0,1,C Paolo (ITA),AJ Luis (COL),S Alan (NIR),97410100,97410030,TOG,SUI
+2006,19 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Hamburg",Hamburg ,Saudi Arabia,0,4,Ukraine, ,50000.0,0,2,R IRMATOV (UZB),Z Emanuel (MLT),K Abraham (ISR),97410100,97410032,KSA,UKR
+2006,19 Jun 2006 - 21:00 ,Group H,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3,1,Tunisia, ,52000.0,0,1,K COULIBALY (MLI),R Nicolae (ROU),MC Inacio (ANG),97410100,97410031,ESP,TUN
+2006,20 Jun 2006 - 16:00 ,Group A,Olympiastadion,Berlin ,Ecuador,0,3,Germany, ,72000.0,0,2,W Jan (NED),C Vojtech (TCH),V Walter (BEL),97410100,97410033,ECU,GER
+2006,20 Jun 2006 - 16:00 ,Group A,"FIFA World Cup Stadium, Hanover",Hanover ,Costa Rica,1,2,Poland, ,43000.0,1,1,C Pierluigi (ITA),REJ Mohamed (MAR),O Rodolfo (ARG),97410100,97410034,CRC,POL
+2006,20 Jun 2006 - 21:00 ,Group B,"FIFA World Cup Stadium, Cologne",Cologne ,Sweden,2,2,England, ,45000.0,0,1,B Massimo (SUI),B Francesco (SUI),A Matthias (SUI),97410100,97410035,SWE,ENG
+2006,20 Jun 2006 - 21:00 ,Group B,Fritz-Walter-Stadion,Kaiserslautern ,Paraguay,2,0,"rn"">Trinidad and Tobago", ,46000.0,1,0,R Roberto (ITA),C Cristiano (ITA),S Alessandro (ITA),97410100,97410036,PAR,TRI
+2006,21 Jun 2006 - 16:00 ,Group D,Zentralstadion,Leipzig ,Iran,1,1,Angola, ,38000.0,0,0,A Joel (SLV),S Toru (JPN),SA Hernan (CHI),97410100,97410040,IRN,ANG
+2006,21 Jun 2006 - 16:00 ,Group D,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Portugal,2,1,Mexico, ,52000.0,2,1,D Bogdan (BUL),C Ricardo (ARG),E Mauricio (URU),97410100,97410039,POR,MEX
+2006,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Netherlands,0,0,Argentina, ,48000.0,0,0,AM Gilberto (COL),D Dramane (MLI),S Ferenc (HUN),97410100,97410037,NED,ARG
+2006,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Munich",Munich ,C�te d'Ivoire,3,2,"rn"">Serbia and Montenegro", ,66000.0,1,2,S Carlos (BRA),E Gabor (HUN),B Eugene (AUS),97410100,97410038,CIV,SCG
+2006,22 Jun 2006 - 16:00 ,Group E,"FIFA World Cup Stadium, Hamburg",Hamburg ,Czech Republic,0,2,Italy, ,50000.0,0,1,A Benito (MEX),R Jose (MEX),V Hector (CAN),97410100,97410041,CZE,ITA
+2006,22 Jun 2006 - 16:00 ,Group E,Franken-Stadion,Nuremberg ,Ghana,2,1,USA, ,41000.0,2,1,VDE Mario (NED),G Dario (ARG),AM Mohamed (OMA),97410100,97410042,GHA,USA
+2006,22 Jun 2006 - 21:00 ,Group F,"FIFA World Cup Stadium, Dortmund",Dortmund ,Japan,1,4,Brazil, ,65000.0,1,1,AU MALLENCO (ESP),J Alojzy (POL),BJ Pablo (ARG),97410100,97410043,JPN,BRA
+2006,22 Jun 2006 - 21:00 ,Group F,Gottlieb-Daimler-Stadion,Stuttgart ,Croatia,2,2,Australia, ,52000.0,1,1,P Graham (ENG),S Philip (ENG),T Glenn (ENG),97410100,97410044,CRO,AUS
+2006,23 Jun 2006 - 16:00 ,Group H,Olympiastadion,Berlin ,Ukraine,1,0,Tunisia, ,72000.0,0,0,V Michel (FRA),H Mohamed (ALG),V Hector (CAN),97410100,97410048,UKR,TUN
+2006,23 Jun 2006 - 16:00 ,Group H,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0,1,Spain, ,46000.0,0,1,Q Joel (FRA),Z Venancio (PAR),GR Gabriel (PAR),97410100,97410047,KSA,ESP
+2006,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Cologne",Cologne ,Togo,0,2,France, ,45000.0,0,0,M William (CRC),B Christopher (AUS),SA Hernan (CHI),97410100,97410045,TOG,FRA
+2006,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Hanover",Hanover ,Switzerland,2,0,Korea Republic, ,43000.0,1,0,E Horacio (ARG),G Dario (ARG),O Rodolfo (ARG),97410100,97410046,SUI,KOR
+2006,24 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Munich",Munich ,Germany,2,0,Sweden, ,66000.0,2,0,A Benito (MEX),DJ Fidele (GAB),GCJ L. (ESP),97410200,97410049,GER,SWE
+2006,24 Jun 2006 - 21:00 ,Round of 16,Zentralstadion,Leipzig ,Argentina,2,1,Mexico,Argentina win after extra time ,43000.0,0,0,A Joel (SLV),N Celestin (RWA),M Sandor (HUN),97410200,97410050,ARG,MEX
+2006,25 Jun 2006 - 17:00 ,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,England,1,0,Ecuador, ,52000.0,0,0,DB Frank (BEL),K Hassan (IRN),M Mohamed (TUN),97410200,97410051,ENG,ECU
+2006,25 Jun 2006 - 21:00 ,Round of 16,Franken-Stadion,Nuremberg ,Portugal,1,0,Netherlands, ,41000.0,1,0,I Valentin (RUS),G Nikolai (RUS),V Evgueni (RUS),97410200,97410052,POR,NED
+2006,26 Jun 2006 - 17:00 ,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,0,Australia, ,46000.0,0,0,P Graham (ENG),TZ Luis (CRC),Y Juan (ESP),97410200,97410053,ITA,AUS
+2006,26 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3) ,45000.0,0,0,B KUIPERS (NED),D Bogdan (BUL),AM Mohamed (OMA),97410200,97410054,SUI,UKR
+2006,27 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3,0,Ghana, ,65000.0,2,0,M William (CRC),W Maciej (POL),S Alessandro (ITA),97410200,97410055,BRA,GHA
+2006,27 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1,3,France, ,43000.0,1,1,L Juan (ARG),O Jorge (BRA),F Pablo (URU),97410200,97410056,ESP,FRA
+2006,30 Jun 2006 - 17:00 ,Quarter-finals,Olympiastadion,Berlin ,Germany,1,1,Argentina,Germany win on penalties (4 - 2) ,72000.0,0,0,M Lubos (SVK),R SLYSKO (SVK),B Martin (SVK),97410300,97410057,GER,ARG
+2006,30 Jun 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3,0,Ukraine, ,50000.0,1,0,B Esse (USA),M Fermin (ESP),A Matthias (SUI),97410300,97410058,ITA,UKR
+2006,01 Jul 2006 - 17:00 ,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0,0,Portugal,Portugal win on penalties (1 - 3) ,52000.0,0,0,C Javier (ARG),B Francesco (SUI),C George (ENG),97410300,97410059,ENG,POR
+2006,01 Jul 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0,1,France, ,48000.0,0,0,P Alexis (BEL),P Jacek (POL),VDB Marc (BEL),97410300,97410060,BRA,FRA
+2006,04 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0,2,Italy,Italy win after extra time ,65000.0,0,0,F Ernesto (URU),L Leif (SWE),AHM Lazim (MAS),97410400,97410061,GER,ITA
+2006,05 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0,1,France, ,66000.0,0,1,F Erik (SWE),V Hector (CAN),D Dramane (MLI),97410400,97410062,POR,FRA
+2006,08 Jul 2006 - 21:00 ,Third place,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3,1,Portugal, ,52000.0,0,0,GAJ Maria (ESP),L Leonel (CRC),J Neji (TUN),97410500,97410063,GER,POR
+2006,09 Jul 2006 - 20:00 ,Final,Olympiastadion,Berlin ,Italy,1,1,France,Italy win on penalties (5 - 3) ,69000.0,0,0,E Horacio (ARG),G Dario (ARG),O Rodolfo (ARG),97410600,97410064,ITA,FRA
+2010,11 Jun 2010 - 16:00 ,Group A,Soccer City Stadium,Johannesburg ,South Africa,1,1,Mexico, ,84490.0,0,0,AU MALLENCO (ESP),AD Ebrahim (BHR),R Claudio (ARG),249722,300061454,RSA,MEX
+2010,11 Jun 2010 - 20:30 ,Group A,Cape Town Stadium,Cape Town ,Uruguay,0,0,France, ,64100.0,0,0,N Yuichi (JPN),S Toru (JPN),JH Sang (KOR),249722,300061453,URU,FRA
+2010,12 Jun 2010 - 13:30 ,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2,0,Greece, ,31513.0,1,0,H Michael (NZL),HJ Hendrik (NZL),M Tevita (TGA),249722,300061459,KOR,GRE
+2010,12 Jun 2010 - 16:00 ,Group B,Ellis Park Stadium,Johannesburg ,Argentina,1,0,Nigeria, ,55686.0,1,0,MP Vitor (POR),W Franz (AUT),T Ernesto (ARG),249722,300061460,ARG,NGA
+2010,12 Jun 2010 - 20:30 ,Group C,Royal Bafokeng Sports Palace,Phokeng ,England,1,1,USA, ,38646.0,1,1,TR John (COL),M Carlos (PAR),V Walter (BEL),249722,300061466,ENG,USA
+2010,13 Jun 2010 - 13:30 ,Group C,Peter Mokaba Stadium,Polokwane ,Algeria,0,1,Slovenia, ,30325.0,0,0,B Carlos (GUA),L Leonel (CRC),P Carlos (HON),249722,300061465,ALG,SVN
+2010,13 Jun 2010 - 16:00 ,Group D,Loftus Versfeld Stadium,Tshwane/Pretoria ,Serbia,0,1,Ghana, ,38833.0,0,0,B Hector (ARG),C Ricardo (ARG),M Hernan (ARG),249722,300061471,SRB,GHA
+2010,13 Jun 2010 - 20:30 ,Group D,Durban Stadium,Durban ,Germany,4,0,Australia, ,62660.0,2,0,W Howard (ENG),AD Ebrahim (BHR),TG Fernando (ESP),249722,300111116,GER,AUS
+2010,14 Jun 2010 - 13:30 ,Group E,Soccer City Stadium,Johannesburg ,Netherlands,2,0,Denmark, ,83465.0,0,0,N RIZZOLI (ITA),W Maciej (POL),BJ Pablo (ARG),249722,300061478,NED,DEN
+2010,14 Jun 2010 - 16:00 ,Group E,Free State Stadium,Mangaung/Bloemfontein ,Japan,1,0,Cameroon, ,30620.0,1,0,CV CARBALLO (ESP),REJ Mohamed (MAR),T Marvin (MEX),249722,300061477,JPN,CMR
+2010,14 Jun 2010 - 20:30 ,Group F,Cape Town Stadium,Cape Town ,Italy,1,1,Paraguay, ,62869.0,0,1,A Benito (MEX),V Hector (CAN),T Marvin (MEX),249722,300061484,ITA,PAR
+2010,15 Jun 2010 - 13:30 ,Group F,Royal Bafokeng Sports Palace,Phokeng ,New Zealand,1,1,Slovakia, ,23871.0,0,0,A Benito (MEX),T William (SLV),E Mauricio (URU),249722,300061483,NZL,SVK
+2010,15 Jun 2010 - 16:00 ,Group G,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,C�te d'Ivoire,0,0,Portugal, ,37034.0,0,0,Q Joel (FRA),B Patricio (CHI),R Kurt (SUI),249722,300061489,CIV,POR
+2010,15 Jun 2010 - 20:30 ,Group G,Ellis Park Stadium,Johannesburg ,Brazil,2,1,Korea DPR, ,54331.0,0,0,AM Gilberto (COL),P Zoran (SRB),R Claudio (ARG),249722,300061490,BRA,PRK
+2010,16 Jun 2010 - 13:30 ,Group H,Mbombela Stadium,Nelspruit ,Honduras,0,1,Chile, ,32664.0,0,1,E Horacio (ARG),D Bogdan (BUL),UM Berny (CRC),249722,300061495,HON,CHI
+2010,16 Jun 2010 - 16:00 ,Group H,Durban Stadium,Durban ,Spain,0,1,Switzerland, ,62453.0,0,0,W Howard (ENG),D CANN (ENG),M Michael (ENG),249722,300111112,ESP,SUI
+2010,16 Jun 2010 - 20:30 ,Group A,Loftus Versfeld Stadium,Tshwane/Pretoria ,South Africa,0,3,Uruguay, ,42658.0,0,1,B Massimo (SUI),A Matthias (SUI),B Francesco (SUI),249722,300061452,RSA,URU
+2010,17 Jun 2010 - 13:30 ,Group B,Soccer City Stadium,Johannesburg ,Argentina,4,1,Korea Republic, ,82174.0,2,1,N RIZZOLI (ITA),R Walter (URU),G Celestino (PAR),249722,300061458,ARG,KOR
+2010,17 Jun 2010 - 16:00 ,Group B,Free State Stadium,Mangaung/Bloemfontein ,Greece,2,1,Nigeria, ,31593.0,1,1,E Horacio (ARG),D Andre (SUI),AM Mohamed (OMA),249722,300061457,GRE,NGA
+2010,17 Jun 2010 - 20:30 ,Group A,Peter Mokaba Stadium,Polokwane ,France,0,2,Mexico, ,35370.0,0,0,C Charles (NED),T William (SLV),V Robert (SCO),249722,300061451,FRA,MEX
+2010,18 Jun 2010 - 13:30 ,Group D,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Germany,0,1,Serbia, ,38294.0,0,1,AU MALLENCO (ESP),M Fermin (ESP),Y Juan (ESP),249722,300061470,GER,SRB
+2010,18 Jun 2010 - 16:00 ,Group C,Ellis Park Stadium,Johannesburg ,Slovenia,2,2,USA, ,45573.0,2,0,K COULIBALY (MLI),A Redouane (MAR),MC Inacio (ANG),249722,300061463,SVN,USA
+2010,18 Jun 2010 - 20:30 ,Group C,Cape Town Stadium,Cape Town ,England,0,0,Algeria, ,64100.0,0,0,N RIZZOLI (ITA),TZ Luis (CRC),AD Ebrahim (BHR),249722,300061464,ENG,ALG
+2010,19 Jun 2010 - 13:30 ,Group E,Durban Stadium,Durban ,Netherlands,1,0,Japan, ,62010.0,0,0,B Lucien (NIG),RV Mario (MEX),S Alan (NIR),249722,300111117,NED,JPN
+2010,19 Jun 2010 - 16:00 ,Group D,Royal Bafokeng Sports Palace,Phokeng ,Ghana,1,1,Australia, ,34812.0,1,1,L Tullio (ITA),M Carlos (POR),GCJ L. (ESP),249722,300061469,GHA,AUS
+2010,19 Jun 2010 - 20:30 ,Group E,Loftus Versfeld Stadium,Tshwane/Pretoria ,Cameroon,1,2,Denmark, ,38074.0,1,1,L Jorge (URU),F Pablo (URU),E Mauricio (URU),249722,300061475,CMR,DEN
+2010,20 Jun 2010 - 13:30 ,Group F,Free State Stadium,Mangaung/Bloemfontein ,Slovakia,0,2,Paraguay, ,26643.0,0,1,TN Alberto (PER),E Walter (GER),AGY Abdulla (BAH),249722,300061481,SVK,PAR
+2010,20 Jun 2010 - 16:00 ,Group F,Mbombela Stadium,Nelspruit ,Italy,1,1,New Zealand, ,38229.0,1,1,MP Vitor (POR),L Leonel (CRC),AM Gilberto (COL),249722,300061482,ITA,NZL
+2010,20 Jun 2010 - 20:30 ,Group G,Soccer City Stadium,Johannesburg ,Brazil,3,1,C�te d'Ivoire, ,84455.0,1,0,C George (ENG),B Ali (TUN),R Domenico (ITA),249722,300061488,BRA,CIV
+2010,21 Jun 2010 - 13:30 ,Group G,Cape Town Stadium,Cape Town ,Portugal,7,0,Korea DPR, ,63644.0,1,0,C �AKIR (TUR),M Fermin (ESP),E Abdelhak (ALG),249722,300061487,POR,PRK
+2010,21 Jun 2010 - 16:00 ,Group H,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Chile,1,0,Switzerland, ,34872.0,0,0,AG Khalil (KSA),K Hassan (IRN),AM Saleh (UAE),249722,300061493,CHI,SUI
+2010,21 Jun 2010 - 20:30 ,Group H,Ellis Park Stadium,Johannesburg ,Spain,2,0,Honduras, ,54386.0,1,0,M William (CRC),P Zoran (SRB),AGY Abdulla (BAH),249722,300061494,ESP,HON
+2010,22 Jun 2010 - 16:00 ,Group A,Royal Bafokeng Sports Palace,Phokeng ,Mexico,0,1,Uruguay, ,33425.0,0,1,K Viktor (HUN),E Gabor (HUN),V Tibor (HUN),249722,300061450,MEX,URU
+2010,22 Jun 2010 - 16:00 ,Group A,Free State Stadium,Mangaung/Bloemfontein ,France,1,2,South Africa, ,39415.0,0,2,B Massimo (SUI),CG Raimundo (HON),M Hernan (ARG),249722,300061449,FRA,RSA
+2010,22 Jun 2010 - 20:30 ,Group B,Durban Stadium,Durban ,Nigeria,2,2,Korea Republic, ,61874.0,1,1,A Benito (MEX),DJ Fidele (GAB),A Matthias (SUI),249722,300111115,NGA,KOR
+2010,22 Jun 2010 - 20:30 ,Group B,Peter Mokaba Stadium,Polokwane ,Greece,0,2,Argentina, ,38891.0,0,0,R IRMATOV (UZB),I Rafael (UZB),K Bakhadyr (KGZ),249722,300061455,GRE,ARG
+2010,23 Jun 2010 - 16:00 ,Group C,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0,1,England, ,36893.0,0,1,W STARK (GER),S Jan-Hendrik (GER),P Mike (GER),249722,300061462,SVN,ENG
+2010,23 Jun 2010 - 16:00 ,Group C,Loftus Versfeld Stadium,Tshwane/Pretoria ,USA,1,0,Algeria, ,35827.0,0,0,W Jan (NED),A Taoufik (TUN),M Hernan (ARG),249722,300061461,USA,ALG
+2010,23 Jun 2010 - 20:30 ,Group D,Soccer City Stadium,Johannesburg ,Ghana,0,1,Germany, ,83391.0,0,0,S Carlos (BRA),H Altemir (BRA),B Roberto (BRA),249722,300061468,GHA,GER
+2010,23 Jun 2010 - 20:30 ,Group D,Mbombela Stadium,Nelspruit ,Australia,2,1,Serbia, ,37836.0,0,0,L Jorge (URU),F Pablo (URU),E Mauricio (URU),249722,300061467,AUS,SRB
+2010,24 Jun 2010 - 16:00 ,Group F,Ellis Park Stadium,Johannesburg ,Slovakia,3,2,Italy, ,53412.0,1,0,P Pablo (CHI),M Hernan (ARG),S Alan (NIR),249722,300061480,SVK,ITA
+2010,24 Jun 2010 - 16:00 ,Group F,Peter Mokaba Stadium,Polokwane ,Paraguay,0,0,New Zealand, ,34850.0,0,0,R Roberto (ITA),C Vojtech (TCH),F Pablo (URU),249722,300061479,PAR,NZL
+2010,24 Jun 2010 - 20:30 ,Group E,Royal Bafokeng Sports Palace,Phokeng ,Denmark,1,3,Japan, ,27967.0,0,2,DB Frank (BEL),G Dario (ARG),AGY Abdulla (BAH),249722,300061474,DEN,JPN
+2010,24 Jun 2010 - 20:30 ,Group E,Cape Town Stadium,Cape Town ,Cameroon,1,2,Netherlands, ,63093.0,0,1,P Pablo (CHI),B Patricio (CHI),M Francisco (CHI),249722,300061473,CMR,NED
+2010,25 Jun 2010 - 16:00 ,Group G,Durban Stadium,Durban ,Portugal,0,0,Brazil, ,62712.0,0,0,A Benito (MEX),V Hector (CAN),T Marvin (MEX),249722,300111111,POR,BRA
+2010,25 Jun 2010 - 16:00 ,Group G,Mbombela Stadium,Nelspruit ,Korea DPR,0,3,C�te d'Ivoire, ,34763.0,0,2,B Lucien (NIG),D Dramane (MLI),BJ Pablo (ARG),249722,300061486,PRK,CIV
+2010,25 Jun 2010 - 20:30 ,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1,2,Spain, ,41958.0,0,2,T Idrissa (MLI),B Christopher (AUS),M Tevita (TGA),249722,300061491,CHI,ESP
+2010,25 Jun 2010 - 20:30 ,Group H,Free State Stadium,Mangaung/Bloemfontein ,Switzerland,0,0,Honduras, ,28042.0,0,0,DP Jesus (COL),A Taoufik (TUN),L Carlo (ITA),249722,300061492,SUI,HON
+2010,26 Jun 2010 - 16:00 ,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,1,Korea Republic, ,30597.0,1,0,AS Jamal (SYR),MM Romulo (GUA),AGY Abdulla (BAH),249717,300061504,URU,KOR
+2010,26 Jun 2010 - 20:30 ,Round of 16,Royal Bafokeng Sports Palace,Phokeng ,USA,1,2,Ghana,Ghana win after extra time ,34976.0,0,0,K Viktor (HUN),E Gabor (HUN),V Tibor (HUN),249717,300061503,USA,GHA
+2010,27 Jun 2010 - 16:00 ,Round of 16,Free State Stadium,Mangaung/Bloemfontein ,Germany,4,1,England, ,40510.0,2,1,B WILLIAMS (AUS),D Jan (NED),Z Emanuel (MLT),249717,300061501,GER,ENG
+2010,27 Jun 2010 - 20:30 ,Round of 16,Soccer City Stadium,Johannesburg ,Argentina,3,1,Mexico, ,84377.0,2,0,R Roberto (ITA),C Paolo (ITA),A Stefano (ITA),249717,300061502,ARG,MEX
+2010,28 Jun 2010 - 16:00 ,Round of 16,Durban Stadium,Durban ,Netherlands,2,1,Slovakia, ,61962.0,1,0,LC Augusto (ESP),B Francesco (SUI),F Pablo (URU),249717,300111113,NED,SVK
+2010,28 Jun 2010 - 20:30 ,Round of 16,Ellis Park Stadium,Johannesburg ,Brazil,3,0,Chile, ,54096.0,2,0,NK Milton (DEN),B Ali (TUN),SA Hernan (CHI),249717,300061500,BRA,CHI
+2010,29 Jun 2010 - 16:00 ,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3) ,36742.0,0,0,DB Frank (BEL),H Peter (BEL),V Walter (BEL),249717,300061497,PAR,JPN
+2010,29 Jun 2010 - 20:30 ,Round of 16,Cape Town Stadium,Cape Town ,Spain,1,0,Portugal, ,62955.0,0,0,P Nestor (ARG),P Roy (ENG),N Mamadou (SEN),249717,300061498,ESP,POR
+2010,02 Jul 2010 - 16:00 ,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2,1,Brazil, ,40186.0,0,1,A Benito (MEX),T Marvin (MEX),BJ Pablo (ARG),249718,300061507,NED,BRA
+2010,02 Jul 2010 - 20:30 ,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2) ,84017.0,0,0,B Tony (AUS),R Claudio (ARG),AM Gilberto (COL),249718,300061508,URU,GHA
+2010,03 Jul 2010 - 16:00 ,Quarter-finals,Cape Town Stadium,Cape Town ,Argentina,0,4,Germany, ,64100.0,0,1,DP Jesus (COL),REJ Mohamed (MAR),P Mike (GER),249718,300061505,ARG,GER
+2010,03 Jul 2010 - 20:30 ,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0,1,Spain, ,55359.0,0,0,B Carlos (GUA),L Leonel (CRC),P Carlos (HON),249718,300061506,PAR,ESP
+2010,06 Jul 2010 - 20:30 ,Semi-finals,Cape Town Stadium,Cape Town ,Uruguay,2,3,Netherlands, ,62479.0,1,1,M Lubos (SVK),R SLYSKO (SVK),K Bakhadyr (KGZ),249719,300061512,URU,NED
+2010,07 Jul 2010 - 20:30 ,Semi-finals,Durban Stadium,Durban ,Germany,0,1,Spain, ,60960.0,0,0,TCJ Joaquin (COL),JD Micael (TRI),M Francisco (CHI),249719,300111114,GER,ESP
+2010,10 Jul 2010 - 20:30 ,Match for third place,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,3,Germany, ,36254.0,1,1,IA Andres (ARG),P Arnaldo (BRA),M Michael (ENG),249720,300061510,URU,GER
+2010,11 Jul 2010 - 20:30 ,Final,Soccer City Stadium,Johannesburg ,Netherlands,0,1,Spain,Spain win after extra time ,84490.0,0,0,B Horst (AUT),C George (ENG),BJ Pablo (ARG),249721,300061509,NED,ESP
+2014,12 Jun 2014 - 17:00 ,Group A,Arena de Sao Paulo,Sao Paulo ,Brazil,3,1,Croatia, ,62103.0,1,1,CV CARBALLO (ESP),A Amelio (PAR),TG Fernando (ESP),255931,300186456,BRA,CRO
+2014,13 Jun 2014 - 13:00 ,Group A,Estadio das Dunas,Natal ,Mexico,1,0,Cameroon, ,39216.0,0,0,CM Edgardo (MEX),G Nikolai (RUS),TG Fernando (ESP),255931,300186492,MEX,CMR
+2014,13 Jun 2014 - 16:00 ,Group B,Arena Fonte Nova,Salvador ,Spain,1,5,Netherlands, ,48173.0,1,1,R Volker (GER),E Gabor (HUN),P Carlos (HON),255931,300186510,ESP,NED
+2014,13 Jun 2014 - 18:00 ,Group B,Arena Pantanal,Cuiaba ,Chile,3,1,Australia, ,40275.0,2,1,E Horacio (ARG),G Hussain (KUW),GR Gabriel (PAR),255931,300186473,CHI,AUS
+2014,14 Jun 2014 - 13:00 ,Group C,Estadio Mineirao,Belo Horizonte ,Colombia,3,0,Greece, ,57174.0,1,0,R Roberto (ITA),C Matthew (AUS),VDB Marc (BEL),255931,300186471,COL,GRE
+2014,14 Jun 2014 - 16:00 ,Group D,Estadio Castelao,Fortaleza ,Uruguay,1,3,Costa Rica, ,58679.0,1,0,B Esse (USA),B Francesco (SUI),A STEFANI (ITA),255931,300186489,URU,CRC
+2014,14 Jun 2014 - 18:00 ,Group D,Arena Amazonia,Manaus ,England,1,2,Italy, ,39800.0,1,1,I Valentin (RUS),M Heiner (GER),Z Juan (SLV),255931,300186513,ENG,ITA
+2014,14 Jun 2014 - 22:00 ,Group C,Arena Pernambuco,Recife ,C�te d'Ivoire,2,1,Japan, ,40267.0,0,1,K Hellmut (GER),P Arnaldo (BRA),P Zoran (SRB),255931,300186507,CIV,JPN
+2014,15 Jun 2014 - 13:00 ,Group E,Estadio Nacional,Brasilia ,Switzerland,2,1,Ecuador, ,68351.0,0,1,MP Vitor (POR),M Peter (DEN),R Claudio (ARG),255931,300186494,SUI,ECU
+2014,15 Jun 2014 - 16:00 ,Group E,Estadio Beira-Rio,Porto Alegre ,France,3,0,Honduras, ,43012.0,1,0,E Walter (GER),D Gordon (AUS),K Siegfried (GER),255931,300186496,FRA,HON
+2014,15 Jun 2014 - 19:00 ,Group F,Estadio do Maracana,Rio De Janeiro ,Argentina,2,1,"rn"">Bosnia and Herzegovina", ,74738.0,1,0,A Joel (SLV),T William (SLV),Z Juan (SLV),255931,300186477,ARG,BIH
+2014,16 Jun 2014 - 13:00 ,Group G,Arena Fonte Nova,Salvador ,Germany,4,0,Portugal, ,51081.0,3,0,N RIZZOLI (ITA),B Christopher (AUS),V Tibor (HUN),255931,300186475,GER,POR
+2014,16 Jun 2014 - 16:00 ,Group F,Arena da Baixada,Curitiba ,IR Iran,0,0,Nigeria, ,39081.0,0,0,I Ioan (ROU),G Bruno (SUI),T Marvin (MEX),255931,300186505,IRN,NGA
+2014,16 Jun 2014 - 19:00 ,Group G,Estadio das Dunas,Natal ,Ghana,1,2,USA, ,39760.0,0,1,A Benito (MEX),M Gennaro (ITA),S Alessandro (ITA),255931,300186512,GHA,USA
+2014,17 Jun 2014 - 13:00 ,Group H,Estadio Mineirao,Belo Horizonte ,Belgium,2,1,Algeria, ,56800.0,0,1,R Marco (MEX),T Marvin (MEX),Q Marcos (MEX),255931,300186479,BEL,ALG
+2014,17 Jun 2014 - 16:00 ,Group A,Estadio Castelao,Fortaleza ,Brazil,0,0,Mexico, ,60342.0,0,0,H Michael (NZL),W Nimal (SRI),AH Halim (MAS),255931,300186509,BRA,MEX
+2014,17 Jun 2014 - 18:00 ,Group H,Arena Pantanal,Cuiaba ,Russia,1,1,Korea Republic, ,37603.0,0,0,W STARK (GER),B Patricio (CHI),B Egon (AUT),255931,300186499,RUS,KOR
+2014,18 Jun 2014 - 13:00 ,Group B,Estadio Beira-Rio,Porto Alegre ,Australia,2,3,Netherlands, ,42877.0,1,1,AM Gilberto (COL),R FAVERANI (ITA),A Stefano (ITA),255931,300186478,AUS,NED
+2014,18 Jun 2014 - 16:00 ,Group B,Estadio do Maracana,Rio De Janeiro ,Spain,0,2,Chile, ,74101.0,0,2,R Marco (MEX),D Bahattin (TUR),P Hae-Yong (KOR),255931,300186498,ESP,CHI
+2014,18 Jun 2014 - 18:00 ,Group A,Arena Amazonia,Manaus ,Cameroon,0,4,Croatia, ,39982.0,0,1,SJ Paulino (CRC),E Gabor (HUN),MC Inacio (ANG),255931,300186453,CMR,CRO
+2014,19 Jun 2014 - 13:00 ,Group C,Estadio Nacional,Brasilia ,Colombia,2,1,C�te d'Ivoire, ,68748.0,0,0,A Luigi (ITA),R SLYSKO (SVK),V Evgueni (RUS),255931,300186468,COL,CIV
+2014,19 Jun 2014 - 16:00 ,Group D,Arena de Sao Paulo,Sao Paulo ,Uruguay,2,1,England, ,62575.0,1,0,CV CARBALLO (ESP),AF Roberto (ESP),Y Juan (ESP),255931,300186486,URU,ENG
+2014,19 Jun 2014 - 19:00 ,Group C,Estadio das Dunas,Natal ,Japan,0,0,Greece, ,39485.0,0,0,A Joel (SLV),T William (SLV),Z Juan (SLV),255931,300186454,JPN,GRE
+2014,20 Jun 2014 - 13:00 ,Group D,Arena Pernambuco,Recife ,Italy,0,1,Costa Rica, ,40285.0,0,1,L Tullio (ITA),H Peter (BEL),L Michal (POL),255931,300186500,ITA,CRC
+2014,20 Jun 2014 - 16:00 ,Group E,Arena Fonte Nova,Salvador ,Switzerland,2,5,France, ,51003.0,0,3,B KUIPERS (NED),SV ROEKEL (NED),E ZEINSTRA (NED),255931,300186514,SUI,FRA
+2014,20 Jun 2014 - 19:00 ,Group E,Arena da Baixada,Curitiba ,Honduras,1,2,Ecuador, ,39224.0,1,1,A Pirom (THA),CM Edgardo (MEX),R Kurt (SUI),255931,300186463,HON,ECU
+2014,21 Jun 2014 - 13:00 ,Group F,Estadio Mineirao,Belo Horizonte ,Argentina,1,0,IR Iran, ,57698.0,0,0,VL Marcel (BEL),AM Gilberto (COL),S Ferenc (HUN),255931,300186466,ARG,IRN
+2014,21 Jun 2014 - 16:00 ,Group G,Estadio Castelao,Fortaleza ,Germany,2,2,Ghana, ,59621.0,0,0,LKCA Yan (MRI),T William (SLV),L Michal (POL),255931,300186493,GER,GHA
+2014,21 Jun 2014 - 18:00 ,Group F,Arena Pantanal,Cuiaba ,Nigeria,1,0,"rn"">Bosnia and Herzegovina", ,40499.0,1,0,P Sandor (HUN),AD Ebrahim (BHR),MC Inacio (ANG),255931,300186511,NGA,BIH
+2014,22 Jun 2014 - 13:00 ,Group H,Estadio do Maracana,Rio De Janeiro ,Belgium,1,0,Russia, ,73819.0,0,0,K Helmut (AUT),D Bogdan (BUL),M Mohamed (TUN),255931,300186481,BEL,RUS
+2014,22 Jun 2014 - 16:00 ,Group H,Estadio Beira-Rio,Porto Alegre ,Korea Republic,2,4,Algeria, ,42732.0,0,3,D Mourad (TUN),RV Mario (MEX),N Lajos (HUN),255931,300186495,KOR,ALG
+2014,22 Jun 2014 - 18:00 ,Group G,Arena Amazonia,Manaus ,USA,2,2,Portugal, ,40123.0,0,1,P Nestor (ARG),M Hernan (ARG),BJ Pablo (ARG),255931,300186483,USA,POR
+2014,23 Jun 2014 - 13:00 ,Group B,Arena da Baixada,Curitiba ,Australia,0,3,Spain, ,39375.0,0,1,L Jorge (URU),AF Roberto (ESP),Q Marcos (MEX),255931,300186467,AUS,ESP
+2014,23 Jun 2014 - 13:00 ,Group B,Arena de Sao Paulo,Sao Paulo ,Netherlands,2,0,Chile, ,62996.0,0,0,G Bruno (SUI),S Philip (ENG),T Ernesto (ARG),255931,300186470,NED,CHI
+2014,23 Jun 2014 - 17:00 ,Group A,Estadio Nacional,Brasilia ,Cameroon,1,4,Brazil, ,69112.0,1,2,C Javier (ARG),B Francesco (SUI),GCJ L. (ESP),255931,300186472,CMR,BRA
+2014,23 Jun 2014 - 17:00 ,Group A,Arena Pernambuco,Recife ,Croatia,1,3,Mexico, ,41212.0,0,0,P Nestor (ARG),D CANN (ENG),E ZEINSTRA (NED),255931,300186452,CRO,MEX
+2014,24 Jun 2014 - 13:00 ,Group D,Estadio das Dunas,Natal ,Italy,0,1,Uruguay, ,39706.0,0,0,A Benito (MEX),O Jorge (BRA),AM Saleh (UAE),255931,300186465,ITA,URU
+2014,24 Jun 2014 - 13:00 ,Group D,Estadio Mineirao,Belo Horizonte ,Costa Rica,0,0,England, ,57823.0,0,0,I Ioan (ROU),P Hae-Yong (KOR),A STEFANI (ITA),255931,300186484,CRC,ENG
+2014,24 Jun 2014 - 16:00 ,Group C,Arena Pantanal,Cuiaba ,Japan,1,4,Colombia, ,40340.0,1,1,H Djamel (ALG),A Taoufik (TUN),V Walter (BEL),255931,300186457,JPN,COL
+2014,24 Jun 2014 - 17:00 ,Group C,Estadio Castelao,Fortaleza ,Greece,2,1,C�te d'Ivoire, ,59095.0,1,0,W Franz (AUT),P Alexis (BEL),GCJ L. (ESP),255931,300186455,GRE,CIV
+2014,25 Jun 2014 - 13:00 ,Group F,Estadio Beira-Rio,Porto Alegre ,Nigeria,2,3,Argentina, ,43285.0,1,2,N RIZZOLI (ITA),R FAVERANI (ITA),A STEFANI (ITA),255931,300186458,NGA,ARG
+2014,25 Jun 2014 - 13:00 ,Group F,Arena Fonte Nova,Salvador ,"rn"">Bosnia and Herzegovina",3,1,IR Iran, ,48011.0,1,0,AU MALLENCO (ESP),Z Emanuel (MLT),AGY Abdulla (BAH),255931,300186464,BIH,IRN
+2014,25 Jun 2014 - 16:00 ,Group E,Arena Amazonia,Manaus ,Honduras,0,3,Switzerland, ,40322.0,0,2,I Valentin (RUS),C Matthew (AUS),G Nicolae (ROU),255931,300186482,HON,SUI
+2014,25 Jun 2014 - 17:00 ,Group E,Estadio do Maracana,Rio De Janeiro ,Ecuador,0,0,France, ,73749.0,0,0,Q Joel (FRA),Z Emanuel (MLT),S Alan (NIR),255931,300186515,ECU,FRA
+2014,26 Jun 2014 - 13:00 ,Group G,Arena Pernambuco,Recife ,USA,0,1,Germany, ,41876.0,0,0,P Pablo (CHI),T William (SLV),K Haidar (LIB),255931,300186469,USA,GER
+2014,26 Jun 2014 - 13:00 ,Group G,Estadio Nacional,Brasilia ,Portugal,2,1,Ghana, ,67540.0,1,0,AU MALLENCO (ESP),R Walter (URU),Z Juan (SLV),255931,300186476,POR,GHA
+2014,26 Jun 2014 - 17:00 ,Group H,Arena de Sao Paulo,Sao Paulo ,Korea Republic,0,1,Belgium, ,61397.0,0,0,C Javier (ARG),D Bahattin (TUR),O Rodolfo (ARG),255931,300186480,KOR,BEL
+2014,26 Jun 2014 - 17:00 ,Group H,Arena da Baixada,Curitiba ,Algeria,1,1,Russia, ,39311.0,0,1,EG Gamal (EGY),W Nimal (SRI),TG Fernando (ESP),255931,300186506,ALG,RUS
+2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,57714.0,0,0,M Markus (GER),T Ernesto (ARG),R Claudio (ARG),255951,300186487,BRA,CHI
+2014,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay, ,73804.0,1,0,M Markus (GER),D Bahattin (TUR),A Stefano (ITA),255951,300186491,COL,URU
+2014,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2,0,Nigeria, ,67882.0,0,0,B Ali (UAE),P Karoly (HUN),P Hae-Yong (KOR),255951,300186462,FRA,NGA
+2014,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,Germany win after extra time ,,0,0,L Jorge (URU),T William (SLV),A Evzen (CZE),255951,300186460,GER,ALG
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia, ,60342.0,1,0,D Bogdan (BUL),N Lajos (HUN),D Yuri (BLR),255953,300186461,BRA,COL
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany, ,74240.0,0,1,P Nestor (ARG),M Hernan (ARG),BJ Pablo (ARG),255953,300186485,FRA,GER
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany, ,58141.0,0,5,R Marco (MEX),T Marvin (MEX),Q Marcos (MEX),255955,300186474,BRA,GER
+2014,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands, ,68034.0,0,2,B Carlos (GUA),AH Halim (MAS),N Lajos (HUN),255957,300186502,BRA,NED
+2014,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,Germany win after extra time ,74738.0,0,0,R IRMATOV (UZB),ASF Khuzam (KSA),J Neji (TUN),255959,300186501,GER,ARG
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,0,0,DP Jesus (COL),M Heiner (GER),K Abraham (ISR),255955,300186490,NED,ARG
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,0,0,I Ioan (ROU),Y Tapio (FIN),SA Hernan (CHI),255953,300186488,NED,CRC
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium, ,68551.0,1,0,N RIZZOLI (ITA),R FAVERANI (ITA),A STEFANI (ITA),255953,300186504,ARG,BEL
+2014,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico, ,58817.0,0,0,D Mourad (TUN),G Dario (ARG),AM Mohamed (OMA),255951,300186508,NED,MEX
+2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,0,0,LF Oscar (ARG),D Bogdan (BUL),O Rodolfo (ARG),255951,300186459,CRC,GRE
+2014,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,Argentina win after extra time ,63255.0,0,0,G Bruno (SUI),T Marvin (MEX),A Evzen (CZE),255951,300186503,ARG,SUI
+2014,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,Belgium win after extra time ,51227.0,0,0,W Franz (AUT),H Altemir (BRA),K Abraham (ISR),255951,300186497,BEL,USA
+2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,57714.0,0,0,TN Alberto (PER),F Pablo (URU),LB Rosario (ITA),255951,300186487,BRA,CHI
+2014,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay, ,73804.0,1,0,B Carlos (GUA),R Jose (MEX),P Arnaldo (BRA),255951,300186491,COL,URU
+2014,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico, ,58817.0,0,0,CDSV Juan (URU),M Hernan (ARG),SVC Alberto (POR),255951,300186508,NED,MEX
+2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,41242.0,0,0,B WILLIAMS (AUS),C Matthew (AUS),A Hakan (AUS),255951,300186459,CRC,GRE
+2014,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2,0,Nigeria, ,67882.0,0,0,N RIZZOLI (ITA),A Redouane (MAR),M Hernan (ARG),255951,300186462,FRA,NGA
+2014,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,Germany win after extra time ,,0,0,I Valentin (RUS),T Ernesto (ARG),M Vincent (USA),255951,300186460,GER,ALG
+2014,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,Argentina win after extra time ,63255.0,0,0,VL Marcel (BEL),R Jose (MEX),T Marvin (MEX),255951,300186503,ARG,SUI
+2014,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,Belgium win after extra time ,51227.0,0,0,H Djamel (ALG),A Redouane (MAR),E Abdelhak (ALG),255951,300186497,BEL,USA
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany, ,74240.0,0,1,P Nestor (ARG),M Hernan (ARG),BJ Pablo (ARG),255953,300186485,FRA,GER
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia, ,60342.0,1,0,DP Jesus (COL),G Hussain (KUW),UM Berny (CRC),255953,300186461,BRA,COL
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium, ,68551.0,1,0,N RIZZOLI (ITA),R FAVERANI (ITA),A STEFANI (ITA),255953,300186504,ARG,BEL
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179.0,0,0,D Bogdan (BUL),P Karoly (HUN),L Michal (POL),255953,300186488,NED,CRC
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany, ,58141.0,0,5,B Lucien (NIG),A Evzen (CZE),A Stefano (ITA),255955,300186474,BRA,GER
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,63267.0,0,0,C �AKIR (TUR),D Bahattin (TUR),O Tarik (TUR),255955,300186490,NED,ARG
+2014,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands, ,68034.0,0,2,P Alexis (BEL),C George (ENG),O Tarik (TUR),255957,300186502,BRA,NED
+2014,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,Germany win after extra time ,74738.0,0,0,EG Gamal (EGY),E Walter (GER),P Hae-Yong (KOR),255959,300186501,GER,ARG
