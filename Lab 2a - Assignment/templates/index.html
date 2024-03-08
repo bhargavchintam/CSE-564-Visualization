@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PCA Visualization Project</title>
+    <link rel="stylesheet" href="../static/style.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+    <h1>PCA, K-Means & ScatterPlot Visualization DashBoard</h1>
+    <div class="grid-container">
+        <div class="grid scree" id="scree-plot" style="grid-column: 1 / 3; grid-row: 1 / 2;"></div>
+        <div class="grid biplot" id="biplot" style="grid-column: 3 / 5; grid-row: 1 / 2;"></div>
+        <div class="grid" id="scatter-plot-matrix" style="grid-column: 1 / 3; grid-row: 2 / 4;"></div>
+        <div class="grid table" id="table" style="grid-column: 3 / 5; grid-row: 2 / 3;"></div>
+        <div class="grid mse" id="kmeans-plot" style="grid-column: 3 / 5; grid-row: 3 / 4;"></div>
+    </div>
+    <script src="../static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8f8; /* Light grey background */
+}
+
+h1 {
+    color: #333;
+    margin: 20px 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    width: 95%;
+    max-width: 1650px;
+    margin-bottom: 20px;
+}
+
+.grid {
+    border: 1px solid #ccc;
+    background-color: #fff; /* White background for each plot area */
+    padding: 10px;
+    height: auto;
+    position: relative; /* Allows absolute positioning inside the grid */
+}
+
+/* Styles for the Scree Plot */
+.bar {
+    fill: steelblue;
+}
+
+/* Styles for the PCA Biplot */
+.dot {
+    fill: #4285F4;
+    stroke: #fff;
+}
+
+.loading {
+    stroke: red;
+    stroke-width: 2px;
+}
+
+/* Axis styling */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font: 10px sans-serif;
+    fill: #333; /* Dark grey color for text for better readability */
+}
+
+.axis .domain {
+    stroke-width: 0;
+}
+
+/* Enhancing visibility of axis ticks */
+.tick line {
+    opacity: 0.2;
+}
+
+/* Scatterplot Matrix specific styles */
+.scatter-plot-matrix circle {
+    fill: #66c2a5; /* Style for scatterplot matrix dots */
+}
+
+.scatter-plot-matrix .label {
+    font-weight: bold; /* Make axis labels bold */
+    fill: #333; /* Dark grey color for axis labels */
+}
+
+/* Tooltip styling for hover information (if implemented) */
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 6px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+}
+
+/* Responsive styling adjustments */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Stack plots on smaller screens */
+    }
+}
+
+/* Set the background color of the SVG container */
+#scatter-plot-matrix svg {
+    background-color: #f8f9fa; /* A light grey background */
+}
+
+/* Style the cell borders */
+.cell-border {
+    fill: none;
+    stroke: #ced4da; /* A soft grey color for the border */
+    stroke-width: 1px;
+}
+
+/* Style the points in the scatterplot */
+#scatter-plot-matrix circle {
+    fill: #007bff; /* A nice blue color for the points */
+    opacity: 0.7; /* Slightly transparent so overlapping points are visible */
+}
+
+/* Style for axis lines, ticks and text */
+#scatter-plot-matrix .axis path,
+#scatter-plot-matrix .axis line {
+    fill: none;
+    stroke: #343a40; /* Dark color for axis lines */
+    shape-rendering: crispEdges; /* Makes the lines sharper */
+}
+
+#scatter-plot-matrix .axis text {
+    fill: #343a40; /* Dark color for text to ensure readability */
+    font-size: 10px; /* Adjust the font size as needed */
+}
+
+/* Style for the labels (feature names) */
+.label {
+    fill: #495057; /* A darker shade for the labels */
+    font-weight: bold; /* Make the attribute names bold */
+}
+
+/* You can also add a hover effect for interactivity */
+#scatter-plot-matrix circle:hover {
+    fill: #dc3545; /* Change color on hover to a nice red */
+    opacity: 1; /* Make the point fully opaque on hover */
+}
+
+/* Optionally, style the diagonal labels differently if needed */
+#scatter-plot-matrix .diagonal-label {
+    font-style: italic; /* Italicize the diagonal labels */
+}
+
+#table {
+
+    text-align: left;
+}
+
+#table h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.attributes-table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.attributes-table th,
+.attributes-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.attributes-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.attributes-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.attributes-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+#table h2 {
+    text-align: center;
+}
