@@ -1,0 +1,122 @@
+.line { stroke: steelblue; stroke-width: 2; fill: none; }
+.axis text { font: 12px sans-serif; }
+.axis path, .axis line { fill: none; stroke: #000; shape-rendering: crispEdges; }
+.dot { fill: red; stroke: #000; }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto auto auto;
+    gap: 20px; 
+    max-width: 100%;
+    margin: auto;
+}
+
+.svg-container, .pcp-plot, .interactive {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+h1, h2 {
+    color: #333;
+    text-align: center;
+}
+
+
+
+/* New CSS Added */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+h1, h2 {
+    color: #35495e;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    margin: 20px auto;
+    max-width: 1600px;
+}
+
+.svg-container, .pcp-plot, .interactive {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 15px;
+    margin: 10px 0;
+    transition: transform 0.3s ease;
+}
+
+.svg-container:hover, .pcp-plot:hover, .interactive:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.axis-title, .axis-label {
+    font-size: 14px;
+    fill: #35495e;
+}
+
+.dot, .elbow-point {
+    stroke: #35495e;
+    stroke-width: 1;
+}
+
+.path {
+    stroke: steelblue;
+    stroke-width: 2;
+}
+
+.axis line, .axis path {
+    stroke: #ddd;
+}
+
+.axis text {
+    fill: #666;
+}
+
+.legend {
+    font-size: 12px;
+    fill: #35495e;
+}
+
+/* Additional styling for interaction cues */
+.dot:hover, .elbow-point:hover {
+    fill: #ff4081;
+    cursor: pointer;
+}
+
+/* Style for the background of the entire page */
+body {
+    background: linear-gradient(135deg, #eceff1 0%, #f0f2f5 100%);
+}
+
+/* Style for the title */
+h1 {
+    font-weight: 500;
+}
+
+/* Adding some padding around the container to prevent content from sticking to the edges */
+.container {
+    padding: 20px;
+}
+
+/* Enhancing text visibility */
+.text {
+    fill: #35495e;
+    font-weight: bold;
+}

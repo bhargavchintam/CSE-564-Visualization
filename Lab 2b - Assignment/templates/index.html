@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>K-Means Clustering Visualization</title>
+    <link rel="stylesheet" href="static/style.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+    <h1>Visualization Dashboard for MDS Plot & PCP Plot</h1>
+    <div class="container">
+        <div class="svg-container">
+            <h2>K-Means Bar Plot (Elbow Curve)</h2>
+            <svg id="kmeans" width="620" height="450"></svg>
+        </div>
+        <div class="svg-container" id="dataMDS-container">
+            <h2>Data MDS Plot</h2>
+            <svg id="dataMDS" width="620" height="450"></svg>
+        </div>
+        <div class="svg-container" id="varsMDS-container">
+            <h2>Variables MDS Plot</h2>
+            <svg id="varsMDS" width="620" height="450"></svg>
+        </div>
+        <div class="pcp-plot" id="pcpPlot-container">
+            <h2>Parallel Coordinates Plot (Numerical)</h2>
+            <svg id="pcpPlot1" width="640" height="450"></svg>
+        </div>
+        <div class="interactive" id="interactive-container" style="grid-column: span 2;"> <!-- Span 2 columns -->
+            <h2>Interactive Axes Ordering (Both Numerical & Categorical)</h2>
+            <svg id="pcpPlot" width="1450" height="550"></svg>
+        </div>
+    </div>
+    <script src="static/script.js"></script>
+</body>
+</html>
