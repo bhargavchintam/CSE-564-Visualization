@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('/data')
         .then(response => response.json())
         .then(data => {
-            console.log("Data fetched:", data);
             const { nodes, links } = data;
             SankeyChart({ nodes, links }, {
                 nodeId: d => d.name,
@@ -16,22 +15,24 @@ document.addEventListener('DOMContentLoaded', function() {
                 colors: d3.schemeCategory10
             }).then(chart => {
                 document.getElementById('sankey').appendChild(chart);
-    });
+            });
+        });
     fetch('/loadmapdata')
         .then(response => response.json())
         .then(mapData => {
-            console.log('mapData:',mapData);
-            GeoMap(mapData).then(mappic => {
-                document.getElementById('geomap').appendChild(mappic);
+            worldMapData = mapData;
+            GeoMap(mapData, selectedNodesPoints).then(mapContainer => {
+                document.getElementById('geomap').appendChild(mapContainer);
             })
             .catch(error => {
                 console.error('Error fetching or processing data:', error);
             });
-        })
-    });
+        });
 });
 
 let selectedNodes = [];
+let selectedNodesPoints = [];
+let worldMapData;
 
 async function SankeyChart({ nodes, links }, config) {
 
@@ -73,21 +74,40 @@ async function SankeyChart({ nodes, links }, config) {
         .on("mouseleave", function(d) {
             d3.select(this).select("rect").attr("opacity", 1); // Restore opacity on mouse leave
         })
-        .on("click", function(d, i) {
+        .on("click", async function(d, i) {
             if (selectedNodes.includes(i)) {
                 selectedNodes = selectedNodes.filter(index => index !== i);
                 d3.select(this).select("rect").attr("fill", (d, i) => (config.nodeColor === 'custom' ? config.colors[i % config.colors.length] : config.colors)); // Revert node color
             } else {
-                if (selectedNodes.length < 2) {
-                    selectedNodes.push(i);
-                    d3.select(this).select("rect").attr("fill", "yellow"); // Highlight selected node
+                if (selectedNodes.length == 1) {
+                    if(selectedNodes[0]['targetLinks'].length == 0 && i['targetLinks'].length == 0 || 
+                    selectedNodes[0]['sourceLinks'].length == 0 && i['sourceLinks'].length == 0
+                    ) {
+                        selectedNodes.push(i);
+                        d3.select(this).select("rect").attr("fill", "yellow");
+                    }
+                    else {
+                        selectedNodes = [i];
+                        d3.selectAll("rect").attr("fill", (n, j) => (selectedNodes.includes(n) ? "yellow" : (config.nodeColor === 'custom' ? config.colors[j % config.colors.length] : config.colors)));
+                    }
                 } else {
                     selectedNodes = [i]; // Select only the clicked node if already 2 nodes selected
-                    d3.selectAll("rect").attr("fill", (n, j) => (selectedNodes.includes(j) ? "yellow" : (config.nodeColor === 'custom' ? config.colors[j % config.colors.length] : config.colors)));
+                    d3.selectAll("rect").attr("fill", (n, j) => (selectedNodes.includes(n) ? "yellow" : (config.nodeColor === 'custom' ? config.colors[j % config.colors.length] : config.colors)));
                 }
             }
-            console.log("Selected nodes:", selectedNodes.map(node => node.name));
+            console.log("Selected nodes:", selectedNodes);
             displayImages(selectedNodes.map(node => node.name));
+            loadAndDisplayLineChart();
+            projectMapPoints(selectedNodes).then(selectedNodesPoints => {
+                GeoMap(worldMapData, selectedNodesPoints).then(mapContainer => {
+                    document.getElementById("geomap").innerHTML = "";
+                    document.getElementById('geomap').appendChild(mapContainer);
+                })
+                .catch(error => {
+                    console.error('Error fetching or processing data:', error);
+                });
+            });
+            
         });
 
     // Add rectangles for nodes
@@ -160,6 +180,7 @@ function displayImages(selectedNodes) {
 
             // Add a canvas for the radar chart
             const radarContainer = document.createElement('div');
+            radarContainer.classList.add("radar");
             const canvas = document.createElement('canvas');
             const canvasId = `driver-radarChart`;
             const existingCanvas = document.getElementById(canvasId);
@@ -213,6 +234,7 @@ function displayImages(selectedNodes) {
 
             // Add a canvas for the radar chart
             const radarContainer = document.createElement('div');
+            radarContainer.classList.add("radar")
             const canvas = document.createElement('canvas');
             const canvasId = `constructor-radarChart`;
             const existingCanvas = document.getElementById(canvasId);
@@ -249,7 +271,8 @@ function displayImages(selectedNodes) {
         const image = document.createElement('img');
         image.src = `/static/images/${driverName}.svg`;
         image.alt = driverName;
-        image.width = 200;
+        image.width = 100;
+        image.height = 50;
         container.appendChild(image);
     }
 
@@ -259,7 +282,7 @@ function displayImages(selectedNodes) {
                       'Haas F1 Team', 'Racing Point'];
 
     if (selectedNodes.length === 0) {
-        ['Mercedes', 'Red Bull'].forEach((node) => {
+        ['Mercedes'].forEach((node) => {
             const container = document.createElement('div');
             box1.appendChild(container);
             addImage(node, container);
@@ -268,17 +291,25 @@ function displayImages(selectedNodes) {
         
     } else {
         // For one or two selections
-        selectedNodes.forEach((node) => {
+    const player_box = document.createElement('div');
+    player_box.classList.add('stats-info');
+        selectedNodes.forEach(async (node) => {
             const container = document.createElement('div');
-            box1.appendChild(container);
-            addImage(node, container);
-
+            container.classList.add('portfolio');
+            const image_container = document.createElement('div');
+            image_container.classList.add('image-container');
+            image_container.id = node;
+            await addImage(node, image_container);
+            container.appendChild(image_container);
+            player_box.appendChild(container);
+            
             if (constructors.includes(node)) {
                 fetchAndDisplayConstructorDetails(node, container);
             } else {
                 fetchAndDisplayDriverDetails(node, container);
             }
         });
+        box1.appendChild(player_box)
     }
 }
 
@@ -432,66 +463,303 @@ function updateRadarChart2(constructorsDetails, maxScales, canvasId) {
     chart.update();
 }
 
-async function fetchData() {
+async function PCPplot() {
+    let data;
     try {
         const response = await fetch('/PCPdata');
         if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
+            throw new Error('HTTP error! Status: ' + response.status);
         }
-        const data = await response.json();
-        console.log('Data received from server:', data);
+        data = await response.json();
+        console.log("Data loaded:", data);
     } catch (error) {
         console.error('Error fetching data:', error);
+        return;
     }
+
+    if (data.length === 0) {
+        console.log("No data to display.");
+        return;
+    }
+
+    const margin = {top: 30, right: 0, bottom: 10, left: 0},
+          width = 600 - margin.left - margin.right,
+          height = 250 - margin.top - margin.bottom;
+
+    const svg = d3.select("#pcpPlot")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    const dimensions = Object.keys(data[0]).filter(d => {
+        return !["Circuit name", "Matches"].includes(d) && !isNaN(data[0][d]);
+    });
+
+    const y = {};
+    dimensions.forEach(dim => {
+        y[dim] = d3.scaleLinear()
+            .domain(d3.extent(data, d => +d[dim]))
+            .range([height, 0])
+            .nice();
+    });
+
+    const x = d3.scalePoint()
+        .range([0, width])
+        .padding(1)
+        .domain(dimensions);
+
+    const line = svg.selectAll("path")
+        .data(data)
+        .enter().append("path")
+        .attr("d", d => d3.line()(dimensions.map(p => [x(p), y[p](d[p])])))
+        .attr("class", "line")
+        .style("fill", "none")
+        .style("stroke", "#69b3a2")
+        .style("opacity", 0.8);
+
+    const brush = d3.brushY()
+        .extent([[-8, 0], [8, height]])
+        .on("brush end", brushended);
+
+    const activeBrushing = {};
+
+    function brushended(event, dimension) {
+        if (event.selection) {
+            activeBrushing[dimension] = event.selection.map(y[dimension].invert, y[dimension]);
+        } else {
+            delete activeBrushing[dimension];
+        }
+        updateLines();
+    }
+
+    function updateLines() {
+        line.style("display", d => {
+            return dimensions.every(dim => {
+                if (!activeBrushing[dim]) return true; // No active brush on this dimension.
+                const range = activeBrushing[dim];
+                return d[dim] >= Math.min(...range) && d[dim] <= Math.max(...range);
+            }) ? null : "none";
+        });
+    }
+
+    const axis = svg.selectAll(".axis")
+        .data(dimensions).enter()
+        .append("g")
+        .attr("class", "axis")
+        .attr("transform", d => `translate(${x(d)})`)
+        .each(function(d) { d3.select(this).call(d3.axisLeft(y[d])); })
+        .append("g")
+        .attr("class", "brush")
+        .each(function(d) { d3.select(this).call(brush.on("brush end", event => brushended(event, d))); });
+
+    axis.append("text")
+        .style("text-anchor", "middle")
+        .attr("y", -9)
+        .text(d => d)
+        .style("fill", "black");
 }
 
-fetchData();
+document.addEventListener('DOMContentLoaded', PCPplot);
+
 
 displayImages(selectedNodes);
 
-async function GeoMap(mapData) {
-    
-    let isDragging = false;
-    let prevX;
-    let prevY;
-    
-    function startDragging(e) {
-        isDragging = true;
-        prevX = e.x;
-        prevY = e.y;
-    }
-    
-    function handleDragging(e) {
-        if (isDragging) {
-            const dx = e.x - prevX;
-            const dy = e.y - prevY;
+
+async function fetchMapProjections(name, node) {
+    const response = await fetch('/fetchMapProjections', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            'name': name,
+            'node': node
+        })
+    });
+    const data = await response.json();
+    return data;
+}
+
+async function projectMapPoints(selectedNodes) {
+    let selectedNodesPoints = []
+    if (selectedNodes.length) {
+        for(var i=0; i<selectedNodes.length;i++) {
+            let result;
+            if(!selectedNodes[i]['targetLinks'].length){
+                result = await fetchMapProjections(selectedNodes[i].name, 0);
+                selectedNodesPoints.push(result);
+               
+            }
+            else {
+                result = await fetchMapProjections(selectedNodes[i].name, 1);
+                selectedNodesPoints.push(result);
+            }
             
-            const transform = d3.zoomTransform(d3.select("#geomap").node());
-            const scale = transform.k;
-            const newX = transform.x + dx / scale;
-            const newY = transform.y + dy / scale;
-            
-            d3.select("#geomap").selectAll("path")
-                .attr("transform", `translate(${newX},${newY}) scale(${scale})`);
-            
-            prevX = e.x;
-            prevY = e.y;
         }
+        
     }
-    
-    function stopDragging() {
-        isDragging = false;
+    return selectedNodesPoints
+}
+
+function loadAndDisplayLineChart(para='default') {
+    // List of constructors to check against
+    const constructors = ['Ferrari', 'McLaren', 'Renault', 'Toro Rosso', 'Sauber', 
+                          'Red Bull', 'Williams', 'Alpine F1 Team', 'Aston Martin', 
+                          'Alfa Romeo', 'Lotus F1', 'Mercedes', 'Force India', 
+                          'Haas F1 Team', 'Racing Point'];
+
+    // Determine which endpoint to fetch from
+    names = selectedNodes.map(node => node.name);
+    const hasSelectedConstructors = names.some(node => constructors.includes(node));
+    let endpoint = hasSelectedConstructors ? '/data-con-line' : '/data-line';
+    if (para === 'default') {
+        endpoint = '/data-con-line';
     }
-    
+
+    fetch(endpoint)
+    .then(response => response.json())
+    .then(data => {
+        createLineChart(data);
+    })
+    .catch(error => console.error('Error fetching data for line chart:', error));
+}
+
+let myChart = null;
+
+function createLineChart(data) {
+    const ctx = document.getElementById('driverPointsChart').getContext('2d');
+    if (myChart) {
+        myChart.destroy();
+    }
+    const datasets = data.map(driver => ({
+        label: driver.driver,
+        data: driver.data.map(item => ({
+            x: item.year,
+            y: item.points
+        })),
+        fill: false,
+        borderColor: randomColor(), // This function needs to be defined to generate random colors
+        borderWidth: 2,
+        pointRadius: 0, // Remove dots by setting radius to 0
+        hoverBorderWidth: 3,
+        tension: 0.1
+    }));
+
+    const config = {
+        type: 'line',
+        data: {
+            datasets: datasets
+        },
+        options: {
+            plugins: {
+                tooltip: {
+                    mode: 'index',
+                    intersect: false,
+                    callbacks: {
+                        title: function(tooltipItems, data) {
+                            return 'Year: ' + tooltipItems[0].label.replace(",", '');
+                        },
+                        label: function(tooltipItem) {
+                            return `${tooltipItem.dataset.label}: ${tooltipItem.formattedValue} points`;
+                        }
+                    }
+                },
+                legend: {
+                    display: false // Hide the legend
+                },
+                title: {
+                    display: true,
+                    text: 'Years vs Points', // Chart title
+                    padding: {
+                        top: 10,
+                        bottom: 20
+                    },
+                    font: {
+                        size: 18
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    type: 'linear',
+                    position: 'bottom',
+                    title: {
+                        display: true,
+                        text: 'Year'
+                    },
+                    ticks: {
+                        // Custom formatting for X-axis labels to remove commas
+                        callback: function(value) {
+                            return value.toString(); // Convert to string to display without commas
+                        }
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Points'
+                    }
+                }
+            },
+            interaction: {
+                mode: 'nearest',
+                axis: 'x'
+            }
+        }
+    };
+
+    myChart = new Chart(ctx, config);
+}
+
+function randomColor() {
+    // Function to generate a random hex color
+    return '#' + Math.floor(Math.random()*16777215).toString(16);
+}
+
+// Call the function to load data and display the chart
+loadAndDisplayLineChart();
+
+
+async function GeoMap(mapData, selectedNodesPoints) {
+
+    const statusContainer = d3.select("body").append("div")
+        .attr("class", "status-container")
+        .style("position", "absolute")
+        .style("background-color", "white")
+        .style("border", "1px solid black")
+        .style("padding", "5px")
+        .style("display", "none");
+
     function zoomFunction(e) {
+        // Get current transform
+        const { x, y, k } = e.transform;
+
+        // Get container dimensions
+        const containerWidth = svgContainer.node().clientWidth;
+        const containerHeight = svgContainer.node().clientHeight;
+
+        // Calculate the maximum allowed translation to keep the map within the container
+        const maxX = containerWidth * (1 - k);
+        const maxY = containerHeight * (1 - k);
+
+        // Limit translation to keep map within container
+        const tx = Math.min(0, Math.max(maxX, x));
+        const ty = Math.min(0, Math.max(maxY, y));
+
+        // Apply the transformed translation
         d3.select("#geomap").selectAll("path")
-            .attr("transform", e.transform);
+            .attr("transform", `translate(${tx},${ty}) scale(${k})`);
+
+        d3.select("#geomap").selectAll("circle")
+            .attr("transform", `translate(${tx},${ty}) scale(${k})`);   
     }
-    
+
     var zoom = d3.zoom()
-        .scaleExtent([0.6, 10])
+        .scaleExtent([1.2, 10])
         .on("zoom", zoomFunction);
-    
+
     const svgContainer = d3.select("#geomap");
 
     const width = svgContainer.node().clientWidth;
@@ -504,18 +772,11 @@ async function GeoMap(mapData) {
         .style("padding", 0)
         .call(zoom);
 
-    const drag = d3.drag()
-        .on("start", startDragging)
-        .on("drag", handleDragging)
-        .on("end", stopDragging);
-    
-    svg.call(drag);
 
     const scale = Math.min(width / 2, height) / 2;
 
     const projection = d3.geoMercator()
-        .scale(scale)
-        .translate([width / 2, height / 2]);
+        .fitSize([width, height], mapData);
 
     const path = d3.geoPath().projection(projection);
 
@@ -525,6 +786,41 @@ async function GeoMap(mapData) {
         .attr("d", path)
         .attr("fill", "#949494")
         .attr("stroke", "lightgray");
+
+    let point_color = ['red', 'yellow'];
+
+    for (let i = 0; i < selectedNodesPoints.length; i++) {
+        selectedNodesPoints[i].forEach(point => {
+            const [x, y] = projection([point.lng, point.lat]);
+            const circle = svg.append("circle")
+                .attr("class", "point")
+                .attr("cx", x)
+                .attr("cy", y)
+                .attr("r", Math.cbrt(point.total_points))
+                .attr("fill", point_color[i])
+                .style("fill-opacity", 0.4)
+                .style("stroke", "black")
+                .style("stroke-width", 2)
+                .on("mouseover", function(event) {
+                    const mouseX = event.pageX;
+                    const mouseY = event.pageY;
+                    statusContainer.style("display", "block")
+                        .style("left", (mouseX + 10) + "px")
+                        .style("top", (mouseY - 20) + "px")
+                        .html(`Circuit: ${point.name_circuit}<br>
+                        location: ${point.location}<br>
+                        Total Points: ${point.total_points}<br>
+                        `);
+                })
+                .on("mouseout", function() {
+
+                    statusContainer.style("display", "none");
+                });
+
+            // Add data attribute to circle for reference
+            circle.node().__data__ = point;
+        });
+    }
 
     return svg.node();
 }

@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, request, render_template, jsonify
 import pandas as pd
 import numpy as np
 import json
@@ -69,7 +69,7 @@ def get_driver_summary():
     latest_constructor.set_index('driverId', inplace=True)
 
     # Calculate years active
-    years_active = driver_results.groupby('driverId')['year'].agg(['min', 'max']).apply(lambda x: f"{x['min']} - {'Current' if x['max'] == pd.Timestamp.now().year else x['max']}", axis=1).rename('Years Active')
+    years_active = driver_results.groupby('driverId')['year'].agg(['min', 'max']).apply(lambda x: f"{x['min']} - {'Current' if x['max'] == pd.Timestamp.now().year-1 else x['max']}", axis=1).rename('Years Active')
     driver_summary = driver_summary.join(years_active, how='left')
 
     # Join latest constructor information
@@ -169,6 +169,39 @@ def get_circuits_data():
 
     return final_dataset
 
+def prepare_map_data():
+    races_2011_onwards = races[races["year"] >= 2011]
+
+    # Merge the dataframes to create the relation
+    merged_data_map = (
+        driver_standings.merge(drivers[["driverId", "forename", "surname"]], on="driverId")
+                    .merge(races_2011_onwards[["raceId","circuitId", "name"]], on="raceId", suffixes=('_driver', '_race'))
+                    .merge(circuits[["circuitId","name", "location", "country", "lat","lng","alt"]], on="circuitId", suffixes=('_race', '_circuit'))
+    )
+
+    driver_circuit_points = (
+        merged_data_map.assign(full_name=lambda x: x['forename'] + ' ' + x['surname'])
+                        .groupby(["driverId", 'full_name', "circuitId", "lat", "lng", "name_circuit", "location"])
+                        .agg(total_points=("points", "sum"))
+                        .reset_index()
+    )
+
+
+
+    merged_data_constructor = (
+        constructor_standings.merge(constructors[["constructorId", "name"]], on="constructorId")
+                            .merge(races_2011_onwards[["raceId","circuitId", "name"]], on="raceId", suffixes=('_constructor', '_race'))
+                            .merge(circuits[["circuitId","name", "location", "country", "lat","lng","alt"]], on="circuitId", suffixes=('_race', '_circuit')))
+
+
+    constructor_circuit_points = (
+        merged_data_constructor.groupby(["constructorId", 'name', "circuitId", "lat", "lng", "name_constructor", "location"])
+                        .agg(total_points=("points", "sum"))
+                        .reset_index()
+    )
+
+    return driver_circuit_points, constructor_circuit_points
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -186,6 +219,51 @@ def data():
         for index, row in data_sankey.iterrows()
     ]
     return jsonify({"nodes": [{"name": node} for node in nodes], "links": links})
+
+@app.route('/data-line')
+def data_linechart():
+    # Aggregate data for Sankey diagram: Driver to Constructor with Points and Year
+    data_sankey = data_merged.groupby(['forename', 'surname', 'name', 'year'])['points'].sum().reset_index()
+    data_sankey['source'] = data_sankey['forename'] + ' ' + data_sankey['surname']
+    data_sankey['target'] = data_sankey['name']
+    data_sankey['value'] = data_sankey['points']
+
+    # Aggregate total points per driver and sort to find top 7
+    top_drivers = data_sankey.groupby('source')['value'].sum().nlargest(7).index
+
+    # Filter the main data to include only top 7 drivers
+    data_sankey = data_sankey[data_sankey['source'].isin(top_drivers)]
+
+    line_chart_data = []
+    for (driverId, group) in data_sankey.groupby('source'):
+        driver_info = group.iloc[0]
+        driver_name = f"{driver_info['forename']} {driver_info['surname']}"
+        points_over_years = [{'year': int(year), 'points': int(points)} for year, points in zip(group['year'], group['points'])]
+        line_chart_data.append({'driver': driver_name, 'data': points_over_years})
+
+    return jsonify(line_chart_data)
+
+@app.route('/data-con-line')
+def data_linechart2():
+    # Aggregate data for Sankey diagram: Driver to Constructor with Points and Year
+    data_sankey = data_merged.groupby(['name', 'year'])['points'].sum().reset_index()
+    data_sankey['target'] = data_sankey['name']
+    data_sankey['value'] = data_sankey['points']
+
+    # Aggregate total points per driver and sort to find top 7
+    top_cons = data_sankey.groupby('target')['value'].sum().nlargest(5).index
+
+    # Filter the main data to include only top 7 drivers
+    data_sankey = data_sankey[data_sankey['target'].isin(top_cons)]
+
+    line_chart_data = []
+    for (conId, group) in data_sankey.groupby('target'):
+        driver_info = group.iloc[0]
+        driver_name = driver_info['name']
+        points_over_years = [{'year': int(year), 'points': int(points)} for year, points in zip(group['year'], group['points'])]
+        line_chart_data.append({'driver': driver_name, 'data': points_over_years})
+
+    return jsonify(line_chart_data)
 
 @app.route('/get_drivers_details', methods=['GET'])
 def get_driver_details():
@@ -223,17 +301,38 @@ def get_constructors_details():
     
 @app.route('/PCPdata')
 def PCPdata():
-    df = get_circuits_data()
-    df = df.dropna(how='any')
-    # df.replace({np.nan: None}, inplace=True)
+    df = get_circuits_data()  # Assume this fetches your DataFrame
+    df = df.dropna(how='any')  # Drop rows with any NaN values
+    
+    if len(df) > 300:
+        df = df.sample(n=300)
+
+    # Convert the DataFrame to a dictionary in 'records' format and return JSON
     return jsonify(df.to_dict(orient='records'))
+
 
 @app.route('/loadmapdata')
 def loadmapdata():
     with open('datasets/world.json', 'r') as file:
         world_data = json.load(file)
-        return jsonify(world_data)
+        return jsonify(world_data)    
+    
+@app.route('/fetchMapProjections', methods = ['POST'])
+def fetchMapProjections():
+    data = request.get_json()
+    nodeName = data.get('name')
+    node = data.get('node')
+    filtered_data_json = {}
+    driver_circuit_points, constructor_circuit_points = prepare_map_data()
+    print('node:', node)
 
+    if not node :
+        filtered_data = driver_circuit_points[driver_circuit_points['full_name'] == nodeName]
+    else:
+        filtered_data = constructor_circuit_points[constructor_circuit_points['name_constructor'] == nodeName]
+    filtered_data_json = filtered_data.to_dict(orient='records')
+        
+    return jsonify(filtered_data_json)
 
 if __name__ == '__main__':
     app.run(debug=True)

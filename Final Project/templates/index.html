@@ -17,11 +17,15 @@
     <div class="container">
         <div class="sankey" id="sankey"></div>
         <div class="geomap" id="geomap"></div>
-        <div class="box small-box1">
+        <div class="box small-box1" style="text-align: center;">
+            Statistics </br>
             <div class="details-container"></div>
-            <div class="radar-container"></div>
+            <div class="radar-container"></div>   
         </div>
-        <div class="box small-box2">Line Graph</div>
+        <div class='pcpPlot' id="pcpPlot" style="text-align: center;">PCP Plot Logical Exploration </br></div>
+        <div class="box small-box2">
+            <canvas id="driverPointsChart"></canvas>
+        </div>
     </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
